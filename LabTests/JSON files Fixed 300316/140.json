@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Cyclosporine",
+      "paragraph_US": [
+        "Monitoring whole blood cyclosporine  concentration during therapy, particularly  in individuals coadministered CYP3A4 substrates, inhibitors, or inducers. Also used for  adjusting dose to optimize immunosuppression while minimizing toxicity. Some use it for evaluating  patient compliance."
+      ],
+      "paragraph_SI": [
+        "Monitoring whole blood cyclosporine  concentration during therapy, particularly  in individuals coadministered CYP3A4 substrates, inhibitors, or inducers. Also used for  adjusting dose to optimize immunosuppression while minimizing toxicity. Some use it for evaluating  patient compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "100-400 ng/mL"
+      ],
+      "paragraph_SI": [
+        "80-320 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response  to cyclosporine with trough whole  blood levels 100 ng/mL to 400 ng/mL. Preferred therapeutic ranges may vary by  transplant type, protocol, and comedications.  Therapeutic ranges are based on specimens drawn  at trough (i.e. immediately before the next scheduled   dose). Blood drawn at other times will yield higher results."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response  to cyclosporine with trough whole  blood levels 80 nmol/L to 320 nmol/L. Preferred therapeutic ranges may vary by  transplant type, protocol, and comedications.  Therapeutic ranges are based on specimens drawn  at trough (i.e. immediately before the next scheduled   dose). Blood drawn at other times will yield higher results."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Cyclosporine is a lipophilic polypeptide  used to prevent rejection after  solid organ transplantation.   There is substantial interpatient variability in absorption, half-life, and other pharmacokinetic parameters.  Cyclosporine is known for many drug interactions, including increased neuro-  and nephrotoxicity   when coadministered with antibiotics, antifungals, or other immunosuppressants. Cyclosporine has a  narrow therapeutic range with  frequent adverse effects making therapeutic drug monitoring essential."
+      ],
+      "paragraph_SI": [
+        "Cyclosporine is a lipophilic polypeptide  used to prevent rejection after  solid organ transplantation.   There is substantial interpatient variability in absorption, half-life, and other pharmacokinetic parameters.  Cyclosporine is known for many drug interactions, including increased neuro-  and nephrotoxicity   when coadministered with antibiotics, antifungals, or other immunosuppressants. Cyclosporine has a  narrow therapeutic range with  frequent adverse effects making therapeutic drug monitoring essential."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Monoclonal Protein  (M Component, Paraprotein, Bence Jones Protein)",
+      "paragraph_US": [
+        "Detecting the presence of monoclonal immunoglobulins or fragments of immunoglobulins in serum or urine is important in the diagnosis and management of a variety of B-cell malignancies. Most frequently associated with these monoclonal or M components are multiple myeloma, Waldenstrom’s macroglobulinemia, lymphomas and chronic lymphocytic leukemia. Autoimmune diseases such as SLE and Sjogren’s syndrome are other conditions in which monoclonal components may occur."
+      ],
+      "paragraph_SI": [
+        "Detecting the presence of monoclonal immunoglobulins or fragments of immunoglobulins in serum or urine is important in the diagnosis and management of a variety of B-cell malignancies. Most frequently associated with these monoclonal or M components are multiple myeloma, Waldenstrom’s macroglobulinemia, lymphomas and chronic lymphocytic leukemia. Autoimmune diseases such as SLE and Sjogren’s syndrome are other conditions in which monoclonal components may occur."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "No monoclonal component (serum)   \nNo Bence Jones Protein (urine)."
+      ],
+      "paragraph_SI": [
+        "No monoclonal component (serum)   \nNo Bence Jones Protein (urine)."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The monoclonal gammopathies (paraproteinemias or dysproteinemias) are a group of disorders characterized by the proliferation of a single clone of plasma cells which produces an immunologically homogeneous protein commonly referred to as a paraprotein or monoclonal protein (M-protein, where the \"M\" stands for monoclonal). Each serum M-protein consists of two heavy polypeptide chains of the same class designated by a capital letter and a corresponding Greek letter: Gamma in IgG,  Alpha in IgA, Mu in IgM, Delta in IgD and  Epsilon in IgE."
+      ],
+      "paragraph_SI": [
+        "The monoclonal gammopathies (paraproteinemias or dysproteinemias) are a group of disorders characterized by the proliferation of a single clone of plasma cells which produces an immunologically homogeneous protein commonly referred to as a paraprotein or monoclonal protein (M-protein, where the \"M\" stands for monoclonal). Each serum M-protein consists of two heavy polypeptide chains of the same class designated by a capital letter and a corresponding Greek letter: Gamma in IgG,  Alpha in IgA, Mu in IgM, Delta in IgD and  Epsilon in IgE."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The heavy polypeptide chains are further subdivided; IgG has four subclasses: IgG1, IgG2, IgG3, and IgG4, and IgA has two: IgA1 and IgA2. To form the intact immunoglobulin, the paired heavy chains are associated with two light chains of the same type, either kappa or lambda, but not both..  The presence of a monoclonal protein in the serum or urine indicates an underlying clonal plasma cell or lymphoproliferative disorder. In some cases, the monoclonal protein is the result of an underlying malignancy and is associated with evidence of disease infiltrating lymph nodes, liver, spleen, bone, or other organs (eg, multiple myeloma, solitary plasmacytoma, Waldenstrom's macroglobulinemia). In other cases, the monoclonal protein is the result of a small limited clonal expansion, and causes no symptoms (eg., monoclonal gammopathy of undetermined significance, MGUS)."
+      ],
+      "paragraph_SI": [
+        "The heavy polypeptide chains are further subdivided; IgG has four subclasses: IgG1, IgG2, IgG3, and IgG4, and IgA has two: IgA1 and IgA2. To form the intact immunoglobulin, the paired heavy chains are associated with two light chains of the same type, either kappa or lambda, but not both..  The presence of a monoclonal protein in the serum or urine indicates an underlying clonal plasma cell or lymphoproliferative disorder. In some cases, the monoclonal protein is the result of an underlying malignancy and is associated with evidence of disease infiltrating lymph nodes, liver, spleen, bone, or other organs (eg, multiple myeloma, solitary plasmacytoma, Waldenstrom's macroglobulinemia). In other cases, the monoclonal protein is the result of a small limited clonal expansion, and causes no symptoms (eg., monoclonal gammopathy of undetermined significance, MGUS)."
+      ]
+    }
+  ]
+}

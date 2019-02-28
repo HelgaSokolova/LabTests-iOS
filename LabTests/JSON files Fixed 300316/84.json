@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Lymphocytes",
+      "paragraph_US": [
+        "Abnormal T and B cell counts suggest possible diseases. Further testing is needed to confirm a diagnosis."
+      ],
+      "paragraph_SI": [
+        "Abnormal T and B cell counts suggest possible diseases. Further testing is needed to confirm a diagnosis."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.7-4.8E+9/L"
+      ],
+      "paragraph_SI": [
+        "0.7-4.8E+9/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "To types: T and B cells. T cells are primarely involved with celluar-type immune reaction and B cells participate in humoral immunity (antibody production). The primary function of the lymfocytes is fighting chronic bacterial infection and acute viral infection. The differential count does not differentiate between T and B cells but count the combination of the two."
+      ],
+      "paragraph_SI": [
+        "To types: T and B cells. T cells are primarely involved with celluar-type immune reaction and B cells participate in humoral immunity (antibody production). The primary function of the lymfocytes is fighting chronic bacterial infection and acute viral infection. The differential count does not differentiate between T and B cells but count the combination of the two."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "An increased T cell count may be due to:  Infectious mononucleosis, multiple myeloma,   acute lymphoblastic leukemia  An increased B cell count may be due to:  Chronic lymphocytic leukemia, multiple myeloma, Waldenstrom's macroglobulinemia, DiGeorge syndrome.  A decreased T cell count may be due to:  Congenital T-cell deficiency disease,   Nezelof syndrome, DiGeorge syndrome, Wiskott-Aldrich syndrome, B cell proliferative disorders, Acquired immunodeficiency syndrome (AIDS),  chronic lymphocytic leukemia, Waldenstrom's macroglobulinemia  A decreased B cell count may be due to:  Acute lymphoblastic leukemia,   congenital immunoglobulin deficiency disorders or acquired immunoglobulin deficiency disorders"
+      ],
+      "paragraph_SI": [
+        "An increased T cell count may be due to:  Infectious mononucleosis, multiple myeloma,   acute lymphoblastic leukemia  An increased B cell count may be due to:  Chronic lymphocytic leukemia, multiple myeloma, Waldenstrom's macroglobulinemia, DiGeorge syndrome.  A decreased T cell count may be due to:  Congenital T-cell deficiency disease,   Nezelof syndrome, DiGeorge syndrome, Wiskott-Aldrich syndrome, B cell proliferative disorders, Acquired immunodeficiency syndrome (AIDS),  chronic lymphocytic leukemia, Waldenstrom's macroglobulinemia  A decreased B cell count may be due to:  Acute lymphoblastic leukemia,   congenital immunoglobulin deficiency disorders or acquired immunoglobulin deficiency disorders"
+      ]
+    }
+  ]
+}

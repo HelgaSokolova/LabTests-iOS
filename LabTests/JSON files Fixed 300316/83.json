@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Neutrophil granulocytes (Grans, polys, PMNs, segs)",
+      "paragraph_US": [
+        "Neutrophil granulocytes, generally referred to as neutrophils, are the most abundant type of white blood cells in humans and form an essential part of the immune system. They form part of the polymorphonuclear cell family (PMN's) together with basophils and eosinophils."
+      ],
+      "paragraph_SI": [
+        "Neutrophil granulocytes, generally referred to as neutrophils, are the most abundant type of white blood cells in humans and form an essential part of the immune system. They form part of the polymorphonuclear cell family (PMN's) together with basophils and eosinophils."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "1.8-7.4E+9/L"
+      ],
+      "paragraph_SI": [
+        "1.8-7.4E+9/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Neutrophils are the most common PMN, are produced in 7-14 days and exist in the circulation for only 6 hours. Primary function is killing and digestion of bacterial microrganisms (phagocytosis). Acute bacterial infection and trauma stimulate production and increase the WBC count. Often, when neutrophil production is significantly stimulated, early immature forms of neutrophils enter the circulation. These forms are known as \"band\" or \"stab\" cells. This fenomenon is known as a \"shift to the left\" in WBC production and is a sign of an ongoing bacterial infection."
+      ],
+      "paragraph_SI": [
+        "Neutrophils are the most common PMN, are produced in 7-14 days and exist in the circulation for only 6 hours. Primary function is killing and digestion of bacterial microrganisms (phagocytosis). Acute bacterial infection and trauma stimulate production and increase the WBC count. Often, when neutrophil production is significantly stimulated, early immature forms of neutrophils enter the circulation. These forms are known as \"band\" or \"stab\" cells. This fenomenon is known as a \"shift to the left\" in WBC production and is a sign of an ongoing bacterial infection."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "High levels: During the acute phase of inflammation, particularly as a result of bacterial infection and some cancers, neutrophils migrate toward the site of inflammation, firstly through the blood vessels, then through interstitial tissue.  Neutrophils react within an hour of tissue injury and are the hallmark of acute inflammation."
+      ],
+      "paragraph_SI": [
+        "High levels: During the acute phase of inflammation, particularly as a result of bacterial infection and some cancers, neutrophils migrate toward the site of inflammation, firstly through the blood vessels, then through interstitial tissue.  Neutrophils react within an hour of tissue injury and are the hallmark of acute inflammation."
+      ]
+    }
+  ]
+}

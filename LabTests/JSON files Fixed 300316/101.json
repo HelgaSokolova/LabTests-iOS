@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ovarian Profile (LH, FSH)",
+      "paragraph_US": [
+        "An adjunct in the evaluation of menstrual irregularities.    Work-up of patients with suspected hypogonadism.    The prediction of ovulation    and evaluation of fertility."
+      ],
+      "paragraph_SI": [
+        "An adjunct in the evaluation of menstrual irregularities.    Work-up of patients with suspected hypogonadism.    The prediction of ovulation    and evaluation of fertility."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Significant variation depending on age and sex. Please consult your laboratory for reference values."
+      ],
+      "paragraph_SI": [
+        "Significant variation depending on age and sex. Please consult your laboratory for reference values."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Gonadotropin-releasing hormone from the hypothalamus controls the  secretion of the gonadotropins, follicle-stimulating hormone (FSH), and  luteinizing hormone (LH) from the anterior pituitary.    The menstrual cycle is divided by a mid-cycle surge of both FSH  and LH into a follicular phase and a luteal phase.    FSH appears to control gametogenesis in both males and females."
+      ],
+      "paragraph_SI": [
+        "Gonadotropin-releasing hormone from the hypothalamus controls the  secretion of the gonadotropins, follicle-stimulating hormone (FSH), and  luteinizing hormone (LH) from the anterior pituitary.    The menstrual cycle is divided by a mid-cycle surge of both FSH  and LH into a follicular phase and a luteal phase.    FSH appears to control gametogenesis in both males and females."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "In both males and females, primary hypogonadism results in an  elevation of basal FSH and LH levels.    FSH and LH are generally elevated in primary gonadal failure,  complete testicular feminization syndrome, or precocious puberty  (either idiopathic or secondary to a central nervous system lesion.)  menopause, primary ovarian hypodysfunction, polycystic ovary  disease in females and primary hypogonadism in males.    LH is decreased in primary ovarian hyperfunction in females and  primary hypergonadism in males.    FSH and LH are both decreased in failure of the pituitary or  hypothalamus."
+      ],
+      "paragraph_SI": [
+        "In both males and females, primary hypogonadism results in an  elevation of basal FSH and LH levels.    FSH and LH are generally elevated in primary gonadal failure,  complete testicular feminization syndrome, or precocious puberty  (either idiopathic or secondary to a central nervous system lesion.)  menopause, primary ovarian hypodysfunction, polycystic ovary  disease in females and primary hypogonadism in males.    LH is decreased in primary ovarian hyperfunction in females and  primary hypergonadism in males.    FSH and LH are both decreased in failure of the pituitary or  hypothalamus."
+      ]
+    }
+  ]
+}

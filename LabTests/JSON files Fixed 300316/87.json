@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Black.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Erythrocyte sedimentation rate (ESR, SR)",
+      "paragraph_US": [
+        "Erythrocyte sedimentation rate (Sed rate, Sedimentation rate,   ESR)  is a nonspecific screening test that indirectly measures how much inflammation is in the body."
+      ],
+      "paragraph_SI": [
+        "Erythrocyte sedimentation rate (Sed rate, Sedimentation rate,   ESR)  is a nonspecific screening test that indirectly measures how much inflammation is in the body."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0-20 mm/hr"
+      ],
+      "paragraph_SI": [
+        "0-20 mm/hr"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The erythrocyte sedimentation rate (ESR), also called a sedimentation rate or Westergren ESR, is the rate at which red blood cells sediment in a period of one hour. It is a common hematology test, and is a non-specific measure of inflammation. To perform the test, anticoagulated blood was traditionally placed in an upright tube, known as a Westergren tube, and the rate at which the red blood cells fall was measured and reported in mm/h."
+      ],
+      "paragraph_SI": [
+        "The erythrocyte sedimentation rate (ESR), also called a sedimentation rate or Westergren ESR, is the rate at which red blood cells sediment in a period of one hour. It is a common hematology test, and is a non-specific measure of inflammation. To perform the test, anticoagulated blood was traditionally placed in an upright tube, known as a Westergren tube, and the rate at which the red blood cells fall was measured and reported in mm/h."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "This test can be used to monitor inflammatory or cancerous diseases. It is a screening test, which means it cannot be used to diagnose a specific disorder.  However, it is useful in detecting and monitoring tuberculosis, tissue death, certain forms of arthritis, autoimmune disorders, and inflammatory diseases that cause vague symptoms."
+      ],
+      "paragraph_SI": [
+        "This test can be used to monitor inflammatory or cancerous diseases. It is a screening test, which means it cannot be used to diagnose a specific disorder.  However, it is useful in detecting and monitoring tuberculosis, tissue death, certain forms of arthritis, autoimmune disorders, and inflammatory diseases that cause vague symptoms."
+      ]
+    }
+  ]
+}

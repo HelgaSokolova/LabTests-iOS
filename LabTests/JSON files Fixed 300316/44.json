@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "LDL cholesterol",
+      "paragraph_US": [
+        "Used for evaluation of cardiovascular risks.  Diagnosis of hypobetalipoproteinemia, if appropriate clinical   information is provided.  Diagnosis of abetalipoproteinemia (values undetectable)"
+      ],
+      "paragraph_SI": [
+        "Used for evaluation of cardiovascular risks.  Diagnosis of hypobetalipoproteinemia, if appropriate clinical   information is provided.  Diagnosis of abetalipoproteinemia (values undetectable)"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Optimal: <100 mg/dL \nLow risk: 100-129 mg/dL \nBorderline high: 130-159 mg/dL \nHigh: 160-189 mg/dL \nVery high: ≥190 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Optimal: <2.6 mmol/L \nLow risk: 2.6-3.3 mmol/L  \nBorderline high: 3.4-4.1 mmol/L  \nHigh: 4.1-4.9 mmol/L \nVery high: ≥4.9 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Increased LDLC is widely recognized as a risk factor for   atherosclerotic disease, specifically coronary atherosclerosis.  Diminished or absent LDLC may be a cause of polyneuropathy."
+      ],
+      "paragraph_SI": [
+        "Increased LDLC is widely recognized as a risk factor for   atherosclerotic disease, specifically coronary atherosclerosis.  Diminished or absent LDLC may be a cause of polyneuropathy."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Decreased values may indicate hypobetalipoproteinemia.  Nondetectable LDLC indicates abetalipoproteinemia.  Related polyneuropathy may exist in affected individuals."
+      ],
+      "paragraph_SI": [
+        "Decreased values may indicate hypobetalipoproteinemia.  Nondetectable LDLC indicates abetalipoproteinemia.  Related polyneuropathy may exist in affected individuals."
+      ]
+    }
+  ]
+}

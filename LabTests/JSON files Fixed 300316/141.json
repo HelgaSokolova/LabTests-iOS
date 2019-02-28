@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Digoxin",
+      "paragraph_US": [
+        "Monitoring digoxin therapy"
+      ],
+      "paragraph_SI": [
+        "Monitoring digoxin therapy"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 0.5-2.0 ng/mL  Toxic concentration: ≥4.0 ng/mL  Pediatric toxic concentrations may be higher."
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 0.7-2.6 nmol/L  Toxic concentration: ≥5.2 nmol/L  Pediatric toxic concentrations may be higher."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The therapeutic range is 0.5-2.0 ng/mL.  Levels >4.0 ng/mL may be potentially  life-threatening."
+      ],
+      "paragraph_SI": [
+        "The therapeutic range is 0.7-2.6 nmol/L.  Levels >5.2 nmol/L may be potentially  life-threatening."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Digoxin is widely prescribed for the treatment of congestive heart failure  and various disturbances of  cardiac rhythm.  Digoxin improves the strength of myocardial contraction and  results in the beneficial effects of increased cardiac output, decreased heart  size, decreased venous pressure, and decreased blood volume. Digoxin therapy  also results in stabilized and slowed ventricular pulse rate. These therapeutic  effects are produced through a network of direct and indirect interactions upon  the myocardium, blood vessels, and the autonomic nervous system.     Digoxin is well absorbed after oral administration and is widely distributed to  tissues, especially the heart, kidney, and liver. After oral  administration, there is an early rise in serum concentration. Equilibration of  serum and tissue levels occurs at approximately 6-8 hours. For this reason,  blood specimens for digoxin analysis should be drawn at least 6-8 hours after  drug administration. Digoxin is excreted primarily in the urine.  The  average elimination half-life is 36-40 hours, but may be considerably prolonged  in those with renal disease, causing digoxin accumulation and toxicity.     Symptoms of digoxin toxicity often mimic the cardiac arrhythmia's for which the  drug was originally prescribed (e.g. heart block and heart failure).   Other typical symptoms of toxicity include gastrointestinal effects, including anorexia,  nausea, vomiting, abdominal pain and diarrhea, and neuropsychologic symptoms,  such as fatigue, malaise, dizziness, clouded or blurred vision, visual and  auditory hallucination, paranoid ideation, and depression.  Toxicity of  digoxin may reflect several factors:  the drug has a narrow therapeutic window (a  very small difference exists between therapeutic and toxic tissue levels);  individuals vary in their ability  to  metabolize and respond to digoxin; absorption of various oral forms of  digoxin may vary over a 2-fold range;  susceptibility to digitalis toxicity apparently  increases with age."
+      ],
+      "paragraph_SI": [
+        "Digoxin is widely prescribed for the treatment of congestive heart failure  and various disturbances of  cardiac rhythm.  Digoxin improves the strength of myocardial contraction and  results in the beneficial effects of increased cardiac output, decreased heart  size, decreased venous pressure, and decreased blood volume. Digoxin therapy  also results in stabilized and slowed ventricular pulse rate. These therapeutic  effects are produced through a network of direct and indirect interactions upon  the myocardium, blood vessels, and the autonomic nervous system.     Digoxin is well absorbed after oral administration and is widely distributed to  tissues, especially the heart, kidney, and liver. After oral  administration, there is an early rise in serum concentration. Equilibration of  serum and tissue levels occurs at approximately 6-8 hours. For this reason,  blood specimens for digoxin analysis should be drawn at least 6-8 hours after  drug administration. Digoxin is excreted primarily in the urine.  The  average elimination half-life is 36-40 hours, but may be considerably prolonged  in those with renal disease, causing digoxin accumulation and toxicity.     Symptoms of digoxin toxicity often mimic the cardiac arrhythmia's for which the  drug was originally prescribed (e.g. heart block and heart failure).   Other typical symptoms of toxicity include gastrointestinal effects, including anorexia,  nausea, vomiting, abdominal pain and diarrhea, and neuropsychologic symptoms,  such as fatigue, malaise, dizziness, clouded or blurred vision, visual and  auditory hallucination, paranoid ideation, and depression.  Toxicity of  digoxin may reflect several factors:  the drug has a narrow therapeutic window (a  very small difference exists between therapeutic and toxic tissue levels);  individuals vary in their ability  to  metabolize and respond to digoxin; absorption of various oral forms of  digoxin may vary over a 2-fold range;  susceptibility to digitalis toxicity apparently  increases with age."
+      ]
+    }
+  ]
+}

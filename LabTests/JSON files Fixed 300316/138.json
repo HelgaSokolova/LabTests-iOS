@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Doxepin",
+      "paragraph_US": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 50-150 ng/mL  Toxic concentration: ≥500 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 180-540 nmol/L  Toxic concentration: ≥1800 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response  to doxepin when combined serum levels of doxepin and nordoxepin are between 50  ng/mL and 150 ng/mL. Some individuals may respond well outside of this range,  or may display toxicity within the therapeutic range; thus, interpretation  should include clinical evaluation. Risk of toxicity is increased with combined  levels ≥500 ng/mL.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response  to doxepin when combined serum levels of doxepin and nordoxepin are between 180 nmol/L and 540 nmol/L. Some individuals may respond well outside of this range,  or may display toxicity within the therapeutic range; thus, interpretation  should include clinical evaluation. Risk of toxicity is increased with combined  levels ≥1800 nmol/L.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Doxepin is recommended for the treatment  of psychoneurotic patients with depression or anxiety, and depression or  anxiety associated with alcoholism or organic disease. Nordoxepin (N-desmethyldoxepin)  is the major metabolite and is usually present at concentrations equal to  doxepin. Optimal efficacy occurs at combined serum concentrations between 50  ng/mL and 150 ng/mL.     Like other tricyclic antidepressant (TCA), the major toxicity of doxepin is expressed as cardiac  dysrhythmias, which occur at concentrations in excess of 500 ng/mL. Other side effects  include nausea, hypotension, and dry mouth."
+      ],
+      "paragraph_SI": [
+        "Doxepin is recommended for the treatment  of psychoneurotic patients with depression or anxiety, and depression or  anxiety associated with alcoholism or organic disease. Nordoxepin (N-desmethyldoxepin)  is the major metabolite and is usually present at concentrations equal to  doxepin. Optimal efficacy occurs at combined serum concentrations between 180 nmol/L and 540 nmol/L.     Like other tricyclic antidepressant (TCA), the major toxicity of doxepin is expressed as cardiac  dysrhythmias, which occur at concentrations in excess of 1800 nmol/L. Other side effects  include nausea, hypotension, and dry mouth."
+      ]
+    }
+  ]
+}

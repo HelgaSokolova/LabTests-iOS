@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Gentamicin",
+      "paragraph_US": [
+        "Monitoring adequacy of serum concentration  during gentamicin therapy"
+      ],
+      "paragraph_SI": [
+        "Monitoring adequacy of serum concentration  during gentamicin therapy"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Peak: 5.0-12.0 µg/mL  Through: <2.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Peak: 10.0-24.0 µmol/L  Through: <4.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Goal levels depend on the type of  infection being treated. Peak targets are generally between 5.0 µg/mL and 12.0  µg/mL for conventional dosing. Prolonged exposure to peak levels exceeding  12.0 µg/mL may lead to toxicity. Goal trough  levels should be <2.0 µg/mL for conventional dosing. Prolonged exposure to trough levels  exceeding 2.0 µg/mL may lead to  toxicity."
+      ],
+      "paragraph_SI": [
+        "Goal levels depend on the type of  infection being treated. Peak targets are generally between 10.0 µmol/L and 24.0 µmol/L for conventional dosing. Prolonged exposure to peak levels exceeding  24.0 µmol/L may lead to toxicity. Goal trough  levels should be <4.0 µmol/L for conventional dosing. Prolonged exposure to trough levels  exceeding 4.0 µmol/L may lead to  toxicity."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Gentamicin is an antibiotic used to treat  life-threatening blood infections caused by gram-negative bacilli, particularly Citrobacter freundii, Acinetobacter species, Enterobacter species, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Pseudomonas aeruginosa, and Serratia species. It is often used in  combination with beta-lactam therapy.     A gentamicin minimal inhibitory concentration (MIC) of ≤4 µg/mL is  considered susceptible for gram-negative bacilli. A MIC of ≤500 µg/mL  is considered synergistic when combined with appropriate antibiotics for  treatment of serious enterococcal infections.     Conventional dosing of gentamicin is usually given 2 to 3 times per day by  intravenous or intramuscular injections in doses to achieve peak blood  concentration between 5.0 µg/mL and 12.0 µg/mL depending on the type of  infections. Gentamicin also may be administered at higher doses (usually 5-7  mg/kg) once per day to patients with good renal function (known as pulse  dosing). Dosing amount or interval must be decreased to accommodate for reduced  renal function.     Ototoxicity and nephrotoxicity are the primary toxicities associated with  gentamicin. This risk is enhanced in presence of other ototoxic or nephrotoxic  drugs. Monitoring of serum levels and symptoms consistent with ototoxicity is  important. For longer durations of use, audiology/vestibular testing should be  considered at baseline and periodically during therapy."
+      ],
+      "paragraph_SI": [
+        "Gentamicin is an antibiotic used to treat  life-threatening blood infections caused by gram-negative bacilli, particularly Citrobacter freundii, Acinetobacter species, Enterobacter species, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Pseudomonas aeruginosa, and Serratia species. It is often used in  combination with beta-lactam therapy.     A gentamicin minimal inhibitory concentration (MIC) of ≤8 µmol/L is  considered susceptible for gram-negative bacilli. A MIC of ≤1000 µmol/L  is considered synergistic when combined with appropriate antibiotics for  treatment of serious enterococcal infections.     Conventional dosing of gentamicin is usually given 2 to 3 times per day by  intravenous or intramuscular injections in doses to achieve peak blood  concentration between 10.0 µmol/L and 24.0 µmol/L depending on the type of  infections. Gentamicin also may be administered at higher doses (usually 5-7  mg/kg) once per day to patients with good renal function (known as pulse  dosing). Dosing amount or interval must be decreased to accommodate for reduced  renal function.     Ototoxicity and nephrotoxicity are the primary toxicities associated with  gentamicin. This risk is enhanced in presence of other ototoxic or nephrotoxic  drugs. Monitoring of serum levels and symptoms consistent with ototoxicity is  important. For longer durations of use, audiology/vestibular testing should be  considered at baseline and periodically during therapy."
+      ]
+    }
+  ]
+}

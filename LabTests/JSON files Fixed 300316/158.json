@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Carbon Monoxide",
+      "paragraph_US": [
+        "Use this test to verify CO toxicity in  cases of suspected exposure"
+      ],
+      "paragraph_SI": [
+        "Use this test to verify CO toxicity in  cases of suspected exposure"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Normal: <7% – 1% (lower limit of detectability) and <15% (heavy smoker)  \nToxic concentration: ≥20%"
+      ],
+      "paragraph_SI": [
+        "Normal: <7% – 1% (lower limit of detectability) and <15% (heavy smoker)  \nToxic concentration: ≥20%"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Carbon monoxide (CO) poisoning causes  anoxia, because CO binds to hemoglobin  with an affinity 240 times greater than that of oxygen, thus preventing delivery of  oxygen to the tissues. Twenty percent  saturation of hemoglobin induces symptoms (headache, fatigue, dizziness, confusion, nausea,  vomiting, increased pulse, and  respiratory rate). Sixty percent saturation is usually fatal.  This  concentration is reached when there is 1 part CO per 1,000 parts air.     Carboxyhemoglobin diminishes at a rate of about 15% per hour when the patient is removed from the  contaminated environment."
+      ],
+      "paragraph_SI": [
+        "Carbon monoxide (CO) poisoning causes  anoxia, because CO binds to hemoglobin  with an affinity 240 times greater than that of oxygen, thus preventing delivery of  oxygen to the tissues. Twenty percent  saturation of hemoglobin induces symptoms (headache, fatigue, dizziness, confusion, nausea,  vomiting, increased pulse, and  respiratory rate). Sixty percent saturation is usually fatal.  This  concentration is reached when there is 1 part CO per 1,000 parts air.     Carboxyhemoglobin diminishes at a rate of about 15% per hour when the patient is removed from the  contaminated environment."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "The most common cause of CO toxicity is exposure to automobile exhaust fumes.  Significant levels of carboxyhemoglobin can also be observed in heavy smokers. Victims  of fires often show elevated levels  from inhaling CO generated during combustion. Susceptibility to CO poisoning is increased in anemic  persons."
+      ],
+      "paragraph_SI": [
+        "The most common cause of CO toxicity is exposure to automobile exhaust fumes.  Significant levels of carboxyhemoglobin can also be observed in heavy smokers. Victims  of fires often show elevated levels  from inhaling CO generated during combustion. Susceptibility to CO poisoning is increased in anemic  persons."
+      ]
+    }
+  ]
+}

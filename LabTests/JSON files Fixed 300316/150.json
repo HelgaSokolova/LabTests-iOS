@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Quinidine",
+      "paragraph_US": [
+        "Used for assessing and adjusting dosage  for optimal therapeutic level and toxicity."
+      ],
+      "paragraph_SI": [
+        "Used for assessing and adjusting dosage  for optimal therapeutic level and toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 2.0-5.0 µg/mL  \nToxic concentration: >6.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 6.0-15.0 µmol/L  \nToxic concentration: >18.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Optimal response to quinidine occurs when  the serum level is between 2.0 µg/mL to 5.0 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Optimal response to quinidine occurs when  the serum level is between 6.0 – 15.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Quinidine is indicated for atrial  fibrillation and flutter, and life-threatening ventricular arrhythmia. Optimal  serum concentrations are in the range of 2.0 µg/mL to 5.0 µg/mL, with  toxicity apparent at levels >6.0 µg/mL. Symptoms of toxicity (cinchonism)  include tinnitus, light-headedness, premature ventricular contractions, and  atrioventricular block. Gastrointestinal distress is a frequent side effect,  which becomes more severe and is associated with nausea and vomiting at higher  drug concentrations.     The half life of quinidine is 6 to 8 hours, and the drug lacks any significant  active metabolites. Physiologic processes that generally reduce hepatic  metabolism and renal clearance increase serum quinidine levels, while co-medication  with cytochrome P-450 enzyme inducers enhances clearance and results in lower  blood concentrations."
+      ],
+      "paragraph_SI": [
+        "Quinidine is indicated for atrial  fibrillation and flutter, and life-threatening ventricular arrhythmia. Optimal  serum concentrations are in the range of 6.0 – 15.0 µmol/L, with  toxicity apparent at levels >18.0 µmol/L. Symptoms of toxicity (cinchonism)  include tinnitus, light-headedness, premature ventricular contractions, and  atrioventricular block. Gastrointestinal distress is a frequent side effect,  which becomes more severe and is associated with nausea and vomiting at higher  drug concentrations.     The half life of quinidine is 6 to 8 hours, and the drug lacks any significant  active metabolites. Physiologic processes that generally reduce hepatic  metabolism and renal clearance increase serum quinidine levels, while co-medication  with cytochrome P-450 enzyme inducers enhances clearance and results in lower  blood concentrations."
+      ]
+    }
+  ]
+}

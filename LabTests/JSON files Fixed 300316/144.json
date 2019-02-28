@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Lidocaine",
+      "paragraph_US": [
+        "Assessing optimal dosing during the acute  management of ventricular arrhythmias following myocardial infarction or during cardiac manipulation such as surgery.  It’s also used for assessing potential toxicity."
+      ],
+      "paragraph_SI": [
+        "Assessing optimal dosing during the acute  management of ventricular arrhythmias following myocardial infarction or during cardiac manipulation such as surgery.  It’s also used for assessing potential toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 1.5-5.0 µg/mL  Toxic concentration: >6.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 6.5-20.0 µmol/L  Toxic concentration: >24.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Optimal response to lidocaine occurs when  the serum concentration is between 1.5 µg/mL to 5.0 µg/mL. Toxicity is more  likely when concentrations exceed 6.0 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Optimal response to lidocaine occurs when  the serum concentration is between 6.5 µmol/L to 20.0 µmol/L. Toxicity is more  likely when concentrations exceed 24.0 µmol/L."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Lidocaine is commonly used as a local  anesthetic, but is also effective at controlling ventricular arrhythmia and  ventricular fibrillation in  children and adults. For cardiac therapy, optimal therapeutic response is seen when  serum concentrations are between  1.5 µg/mL and 5.0 µg/mL. Lidocaine is 50% protein-bound, primarily to alpha-1-acid  glycoprotein; concentrations of this protein increase after myocardial  infarction, which may decrease the amount of free lidocaine and thus its  efficacy.      Lidocaine undergoes extensive first-pass hepatic metabolism and thus is not administered orally.  It is eliminated via renal clearance,  with a half-life of approximately 1.5 hours. Diseases that reduce hepatic or renal function  reduce clearance and prolong  elimination of lidocaine.     Toxicity occurs when the concentration of lidocaine is >6.0 µg/mL and is usually associated with  symptoms of central nervous system  excitation, light-headedness, confusion, dizziness, tinnitus, and blurred or double vision. This can  be accompanied by bradycardia and  hypotension leading to cardiovascular collapse."
+      ],
+      "paragraph_SI": [
+        "Lidocaine is commonly used as a local  anesthetic, but is also effective at controlling ventricular arrhythmia and  ventricular fibrillation in  children and adults. For cardiac therapy, optimal therapeutic response is seen when  serum concentrations are between  6.5 µmol/L and 20.0 µmol/L. Lidocaine is 50% protein-bound, primarily to alpha-1-acid  glycoprotein; concentrations of this protein increase after myocardial  infarction, which may decrease the amount of free lidocaine and thus its  efficacy.      Lidocaine undergoes extensive first-pass hepatic metabolism and thus is not administered orally.  It is eliminated via renal clearance,  with a half-life of approximately 1.5 hours. Diseases that reduce hepatic or renal function  reduce clearance and prolong  elimination of lidocaine.     Toxicity occurs when the concentration of lidocaine is >24.0 µmol/L and is usually associated with  symptoms of central nervous system  excitation, light-headedness, confusion, dizziness, tinnitus, and blurred or double vision. This can  be accompanied by bradycardia and  hypotension leading to cardiovascular collapse."
+      ]
+    }
+  ]
+}

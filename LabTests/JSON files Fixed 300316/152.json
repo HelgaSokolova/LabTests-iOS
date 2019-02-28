@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Tacrolimus",
+      "paragraph_US": [
+        "Used for monitoring whole blood tacrolimus  concentration during therapy, particularly in individuals co-administered  CYP3A4 substrates, inhibitors, or inducers. Also used to adjust dose to  optimize immunosuppression while minimizing toxicity and to evaluate patient  compliance in general."
+      ],
+      "paragraph_SI": [
+        "Used for monitoring whole blood tacrolimus  concentration during therapy, particularly in individuals co-administered  CYP3A4 substrates, inhibitors, or inducers. Also used to adjust dose to  optimize immunosuppression while minimizing toxicity and to evaluate patient  compliance in general."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "5.0-15.0 ng/mL"
+      ],
+      "paragraph_SI": [
+        "4.0-12.0 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal  response to tacrolimus with trough whole blood levels of 5.0 ng/mL to 15.0  ng/mL. Preferred therapeutic ranges may vary by transplant type, protocol, and  comedications.     Therapeutic ranges are based on samples drawn at trough (i.e. immediately before  a scheduled dose). Blood drawn at other times will yield higher results."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal  response to tacrolimus with trough whole blood levels of 4.0 – 12.0 nmol/L. Preferred therapeutic ranges may vary by transplant type, protocol, and  comedications.     Therapeutic ranges are based on samples drawn at trough (i.e. immediately before  a scheduled dose). Blood drawn at other times will yield higher results."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Tacrolimus is a macrolide antibiotic derived from the fungus Streptomyces tsukubaensis. Like  cyclosporine, tacrolimus inhibits calcineurin to suppress T cells. Tacrolimus  is metabolized by CYP3A4, thus its concentrations are affected by drugs that  inhibit (calcium channel blockers, antifungal agents, some antibiotics,  grapefruit juice) or induce (anticonvulsants, rifampin) this enzyme. Tacrolimus  has a narrow therapeutic range, and adverse effects are common, particularly at  high dose and concentrations, making therapeutic drug monitoring essential.     Target steady-state concentrations vary depending on clinical protocol, the  presence or risk of rejection, time from transplant, type of allograft,  concomitant immunosuppression, and side effects (mainly nephrotoxicity).  Optimal trough blood concentrations are generally between 5.0 ng/mL to 15.0  ng/mL. Higher levels are often sought immediately after transplant, but as  organ function stabilizes at about 4 weeks from transplant, doses are generally  reduced in stable patients for most solid organ transplants. Trough  concentrations should be maintained below 20 ng/mL."
+      ],
+      "paragraph_SI": [
+        "Tacrolimus is a macrolide antibiotic derived from the fungus Streptomyces tsukubaensis. Like  cyclosporine, tacrolimus inhibits calcineurin to suppress T cells. Tacrolimus  is metabolized by CYP3A4, thus its concentrations are affected by drugs that  inhibit (calcium channel blockers, antifungal agents, some antibiotics,  grapefruit juice) or induce (anticonvulsants, rifampin) this enzyme. Tacrolimus  has a narrow therapeutic range, and adverse effects are common, particularly at  high dose and concentrations, making therapeutic drug monitoring essential.     Target steady-state concentrations vary depending on clinical protocol, the  presence or risk of rejection, time from transplant, type of allograft,  concomitant immunosuppression, and side effects (mainly nephrotoxicity).  Optimal trough blood concentrations are generally between 4.0 – 12.0  nmol/L. Higher levels are often sought immediately after transplant, but as  organ function stabilizes at about 4 weeks from transplant, doses are generally  reduced in stable patients for most solid organ transplants. Trough  concentrations should be maintained below 16 nmol/L."
+      ]
+    }
+  ]
+}

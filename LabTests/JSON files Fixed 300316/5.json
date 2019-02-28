@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Urea (Carbamide)",
+     "paragraph_US": [ "Useful for  assessment of protein intake and/or nitrogen balance."],
+		"dot_image": "Gold.png",
+    "paragraph_SI": [ "Useful for  assessment of protein intake and/or nitrogen balance."]
+	},
+  {
+    "header": "Reference Range",
+     "paragraph_US": [ "10-35 g/specimen"],
+		
+    "paragraph_SI": [ "10-35 g/specimen"]
+	},
+  {
+    "header": "Clinical Information",
+     "paragraph_US": [ "Urea is a low molecular weight substance (Mol. Wt. = 60) that is  freely filtered by glomeruli and the majority is excreted into the urine, although variable amounts are reabsorbed along the  nephron.  It is the major end product of protein metabolism in  humans and other mammals.  Approximately 50% of urinary solute  excretion and 90-95% of total nitrogen excretion  is composed of  urea under normal conditions.Factors which tend to increase urea  excretion include increases in glomerular filtration rate, increased  dietary protein intake, protein catabolic conditions, and water  diuretic states.Factors which reduce urea excretion include low  protein intake and conditions which result in low urine output  (e.g. dehydration)."],
+		
+    "paragraph_SI": [ "Urea is a low molecular weight substance (Mol. Wt. = 60) that is  freely filtered by glomeruli and the majority is excreted into the urine, although variable amounts are reabsorbed along the  nephron.  It is the major end product of protein metabolism in  humans and other mammals.  Approximately 50% of urinary solute  excretion and 90-95% of total nitrogen excretion  is composed of  urea under normal conditions.Factors which tend to increase urea  excretion include increases in glomerular filtration rate, increased  dietary protein intake, protein catabolic conditions, and water  diuretic states.Factors which reduce urea excretion include low  protein intake and conditions which result in low urine output  (e.g. dehydration)."]
+	},
+  {
+    "header": "Interpretation",
+     "paragraph_US": [ "Because multiple factors (glomerular filtration rate, dietary  protein intake, protein catabolic rate, hydration state, etc.) can  independently affect the urinary excretion of urea, all of these  factors must by taken into account when interpreting the results."],
+		
+    "paragraph_SI": [ "Because multiple factors (glomerular filtration rate, dietary  protein intake, protein catabolic rate, hydration state, etc.) can  independently affect the urinary excretion of urea, all of these  factors must by taken into account when interpreting the results."]
+	}]
+}

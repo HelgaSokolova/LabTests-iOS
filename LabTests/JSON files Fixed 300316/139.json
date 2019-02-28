@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Carbamazepine",
+      "paragraph_US": [
+        "Usually used for monitoring therapy, determining  compliance or assessing toxicity"
+      ],
+      "paragraph_SI": [
+        "Usually used for monitoring therapy, determining  compliance or assessing toxicity"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 2.0-10.0 µg/mL  Toxic concentration: ≥12.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 8.4-42.0 µmol/L  Toxic concentration: ≥50.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Dosage adjustments are usually guided by monitoring  blood levels. Most patients respond well when the serum concentration is in the range of 2.0 µg/mL to 10 µg/mL.  Toxicity often occurs when levels are  ≥12 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Dosage adjustments are usually guided by monitoring  blood levels. Most patients respond well when the serum concentration is in the range of 8.4 µmol/L to 42 µmol/L.  Toxicity often occurs when levels are  ≥50 µmol/L."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Carbamazepine is used in the control of  partial seizures with both temporal lobe and psychomotor symptoms, and for  generalized tonic-clonic seizures. It is also used for analgesia in trigeminal   neuralgia.      Carbamazepine exhibits a volume of distribution of 1.4 L/kg with an elimination  half-life of 15 hours. Protein binding averages 75%.      Aplastic anemia and agranulocytosis are rare side effects of treatment with carbamazepine; baseline  hematologic data should be documented before treatment is initiated.     Toxicity associated with carbamazepine overdose occurs when the blood level is ≥ 12 µg/mL and  is typified by irregular breathing, muscle  irritability, and hyperreflexia; followed by hyporeflexia, tachycardia, hypotension, and impaired  consciousness with coma in severe  toxicity. The higher the blood level, the more severe the symptoms."
+      ],
+      "paragraph_SI": [
+        "Carbamazepine is used in the control of  partial seizures with both temporal lobe and psychomotor symptoms, and for  generalized tonic-clonic seizures. It is also used for analgesia in trigeminal   neuralgia.      Carbamazepine exhibits a volume of distribution of 1.4 L/kg with an elimination  half-life of 15 hours. Protein binding averages 75%.      Aplastic anemia and agranulocytosis are rare side effects of treatment with carbamazepine; baseline  hematologic data should be documented before treatment is initiated.     Toxicity associated with carbamazepine overdose occurs when the blood level is ≥ 50 µmol/L and  is typified by irregular breathing, muscle  irritability, and hyperreflexia; followed by hyporeflexia, tachycardia, hypotension, and impaired  consciousness with coma in severe  toxicity. The higher the blood level, the more severe the symptoms."
+      ]
+    }
+  ]
+}

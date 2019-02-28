@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Prostate-Specific Antigen (PSA)",
+      "paragraph_US": [
+        "Used for prostate cancer screening and monitoring  patients with a history of prostate cancer as an early indicator of recurrence  and response to treatment"
+      ],
+      "paragraph_SI": [
+        "Used for prostate cancer screening and monitoring  patients with a history of prostate cancer as an early indicator of recurrence  and response to treatment"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "The reference values vary with age. Please consult your local laboratory for reference values."
+      ],
+      "paragraph_SI": [
+        "The reference values vary with age. Please consult your local laboratory for reference values."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The PSA values are reported with the 95th percentile limits for each year of  age. These reference limits include men with benign prostatic hyperplasia. They  exclude all cases with proven cancer.     PSA values exceeding the age-specific limits are suspicious for prostate  disease, but further testing, such as prostate biopsy, is needed to diagnose  prostate pathology.     The minimal reporting value is 0.1 ng/mL. Values >0.2 ng/mL are considered  evidence of biochemical recurrence of cancer in men after prostatectomy."
+      ],
+      "paragraph_SI": [
+        "The PSA values are reported with the 95th percentile limits for each year of  age. These reference limits include men with benign prostatic hyperplasia. They  exclude all cases with proven cancer.     PSA values exceeding the age-specific limits are suspicious for prostate  disease, but further testing, such as prostate biopsy, is needed to diagnose  prostate pathology.     The minimal reporting value is 0.1 µg/L. Values >0.2 µg/L are considered  evidence of biochemical recurrence of cancer in men after prostatectomy."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Prostate-specific antigen (PSA) is a glycoprotein that is produced by the  prostate gland and normally, very little PSA is secreted in the blood.  Increases in glandular size and tissue damage caused by benign prostatic  hypertrophy, prostatitis, and/or prostate cancer may increase circulating PSA  levels.     In patients with previously diagnosed prostate cancer, PSA testing is advocated  as an early indicator of tumor recurrence and as an indicator of response to  therapy. The role of PSA in early detection of prostate cancer is  controversial.   Digital rectal examination generally does  not increase normal prostate-specific antigen (PSA) values. However,  cystoscopy, urethral instrumentation, and prostate biopsy may increase PSA  levels."
+      ],
+      "paragraph_SI": [
+        "Prostate-specific antigen (PSA) is a glycoprotein that is produced by the  prostate gland and normally, very little PSA is secreted in the blood.  Increases in glandular size and tissue damage caused by benign prostatic  hypertrophy, prostatitis, and/or prostate cancer may increase circulating PSA  levels.     In patients with previously diagnosed prostate cancer, PSA testing is advocated  as an early indicator of tumor recurrence and as an indicator of response to  therapy. The role of PSA in early detection of prostate cancer is  controversial.   Digital rectal examination generally does  not increase normal prostate-specific antigen (PSA) values. However,  cystoscopy, urethral instrumentation, and prostate biopsy may increase PSA  levels."
+      ]
+    }
+  ]
+}

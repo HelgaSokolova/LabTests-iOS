@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Tobramycin",
+      "paragraph_US": [
+        "Used in monitoring adequacy of serum  concentration during tobramycin therapy."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring adequacy of serum  concentration during tobramycin therapy."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Peak: 5.0-12.0 µg/mL  \nThrough: <2.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Peak: 10.0-24.0 µmol/L  \nThrough: <4.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Target peak concentrations depend on the  type of infection being treated. Peak levels for most infections using  conventional dosing are 5.0 µg/mL to 12.0 µg/mL. Prolonged exposure to peak  concentrations exceeding 12.0 µg/mL may lead to toxicity. Goal trough levels should be <2.0 µg/mL for  conventional (non-pulse) dosing. Prolonged exposure to trough levels exceeding  2.0 µg/mL may lead to toxicity."
+      ],
+      "paragraph_SI": [
+        "Target peak concentrations depend on the  type of infection being treated. Peak levels for most infections using  conventional dosing are 10.0 – 24.0 µmol/L. Prolonged exposure to peak  concentrations exceeding 24.0 µmol/L may lead to toxicity. Goal trough levels should be <4.0 µmol/L for  conventional (non-pulse) dosing. Prolonged exposure to trough levels exceeding  4.0 µmol/L may lead to toxicity."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Tobramycin is an antibiotic used to treat  life-threatening blood infections by gram-negative bacilli, particularly Citrobacter freundii, Enterobacter (all species), Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Pseudomonas aeruginosa, and Serratia species. It is often used in  combination with beta-lactam therapy.      A tobramycin minimum inhibitory concentration (MIC) of <4.0 µg/mL is  considered susceptible for gram-negative bacilli, while a MIC of >8.0 µg/mL  is considered resistant.     Toxicities include ototoxicity and nephrotoxicity. This risk is enhanced in  presence of other ototoxic or nephrotoxic drugs. Monitoring of serum levels,  renal function, and symptoms consistent with ototoxicity is important. For  longer durations of use, audiology and vestibular testing should be considered  at baseline and periodically during therapy."
+      ],
+      "paragraph_SI": [
+        "Tobramycin is an antibiotic used to treat  life-threatening blood infections by gram-negative bacilli, particularly Citrobacter freundii, Enterobacter (all species), Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Pseudomonas aeruginosa, and Serratia species. It is often used in  combination with beta-lactam therapy.      A tobramycin minimum inhibitory concentration (MIC) of <8.0 µmol/L is  considered susceptible for gram-negative bacilli, while a MIC of >16.0 µmol/L  is considered resistant.     Toxicities include ototoxicity and nephrotoxicity. This risk is enhanced in  presence of other ototoxic or nephrotoxic drugs. Monitoring of serum levels,  renal function, and symptoms consistent with ototoxicity is important. For  longer durations of use, audiology and vestibular testing should be considered  at baseline and periodically during therapy."
+      ]
+    }
+  ]
+}

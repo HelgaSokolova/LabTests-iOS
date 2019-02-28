@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "BUN (Blood urea nitrogen)",
+		 "paragraph_US": [ "The determination of serum BUN currently is the most widely used  screening test for the evaluation of kidney function. The test is  frequently requested along with the serum creatinine test since  simultaneous determination of these two compounds appears to aid  in the differential diagnosis of prerenal, renal, and postrenal  hyperuremia."],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "The determination of serum BUN currently is the most widely used  screening test for the evaluation of kidney function. The test is  frequently requested along with the serum creatinine test since  simultaneous determination of these two compounds appears to aid  in the differential diagnosis of prerenal, renal, and postrenal  hyperuremia."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "Males:  8-24 mg/dL  \nFemales:  6-21 mg/dL"],
+		
+		"paragraph_SI": [ "Males:  2.8-8.6 mmol/L  \nFemales:  2.1-7.5 mmol/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Urea is the final degradation product of protein and amino acid  metabolism. In protein catabolism, the proteins are broken down  to amino acids and deaminated. The ammonia formed in this  process is synthesized to urea in the liver. This is the most  important catabolic pathway for eliminating excess nitrogen in the  human body.  Increased blood urea nitrogen (BUN) may be due to prerenal  causes (cardiac decompensation, water depletion due to  decreased intake and excessive loss, increased protein  catabolism, and high protein diet), renal causes (acute  glomerulonephritis, chronic nephritis, polycystic kidney disease,  nephrosclerosis, and tubular necrosis), and postrenal causes  (e.g., all types of obstruction of the urinary tract, such as stones,  enlarged prostate gland, tumors)."],
+		
+		"paragraph_SI": [ "Urea is the final degradation product of protein and amino acid  metabolism. In protein catabolism, the proteins are broken down  to amino acids and deaminated. The ammonia formed in this  process is synthesized to urea in the liver. This is the most  important catabolic pathway for eliminating excess nitrogen in the  human body.  Increased blood urea nitrogen (BUN) may be due to prerenal  causes (cardiac decompensation, water depletion due to  decreased intake and excessive loss, increased protein  catabolism, and high protein diet), renal causes (acute  glomerulonephritis, chronic nephritis, polycystic kidney disease,  nephrosclerosis, and tubular necrosis), and postrenal causes  (e.g., all types of obstruction of the urinary tract, such as stones,  enlarged prostate gland, tumors)."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Serum BUN determinations are considerably less sensitive than  BUN clearance (and creatinine clearance) tests, and levels may  not be abnormal until the BUN clearance has diminished to less  than 50%. Clinicians frequently calculate a convenient relationship,  the urea nitrogen/creatinine ratio: serum BUN in serum  creatinine in. For a normal individual on a normal diet, the  reference interval for the ratio ranges between 12-20, with most  individuals being between 12-16.   Significantly lower ratios denote  acute tubular necrosis, low protein intake, starvation, or severe  liver disease.   High ratios with normal creatinine levels may be  noted with catabolic states of tissue breakdown, prerenal azotemia,  high protein intake, etc.   High ratios associated with high creatinine  concentrations may denote either postrenal obstruction or  prerenal azotemia superimposed on renal disease. Because of  the variability of both the BUN and creatinine assays, the ratio is  only a rough guide to the nature of the underlying abnormality. Its  magnitude is not tightly regulated in health or disease and should  not be considered an exact quantity."],
+		
+		"paragraph_SI": [ "Serum BUN determinations are considerably less sensitive than  BUN clearance (and creatinine clearance) tests, and levels may  not be abnormal until the BUN clearance has diminished to less  than 50%. Clinicians frequently calculate a convenient relationship,  the urea nitrogen/creatinine ratio: serum BUN in serum  creatinine in. For a normal individual on a normal diet, the  reference interval for the ratio ranges between 12-20, with most  individuals being between 12-16.   Significantly lower ratios denote  acute tubular necrosis, low protein intake, starvation, or severe  liver disease.   High ratios with normal creatinine levels may be  noted with catabolic states of tissue breakdown, prerenal azotemia,  high protein intake, etc.   High ratios associated with high creatinine  concentrations may denote either postrenal obstruction or  prerenal azotemia superimposed on renal disease. Because of  the variability of both the BUN and creatinine assays, the ratio is  only a rough guide to the nature of the underlying abnormality. Its  magnitude is not tightly regulated in health or disease and should  not be considered an exact quantity."]
+	}]
+}

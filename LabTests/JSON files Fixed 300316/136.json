@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Imipramine",
+      "paragraph_US": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 175-300 ng/mL  Toxic concentration: ≥1,000 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 600-1000 nmol/L  Toxic concentration: ≥3,600 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response to imipramine when combined serum  levels of imipramine and desipramine are between 175 ng/mL and 300 ng/mL. Risk  of toxicity is increased with levels ≥1,000 ng/mL.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response to imipramine when combined serum  levels of imipramine and desipramine are between 600 nmol/L and 1000 nmol/L. Risk  of toxicity is increased with levels ≥3,600 nmol/L.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Imipramine and its metabolite desipramine  are tricyclic antidepressants (TCAs) used to treat endogenous depression requiring 1 to 3 weeks of  treatment before therapeutic effectiveness becomes apparent. Desipramine is  used for treatment of endogenous depression when the patient needs a drug with  significant stimulatory side effects. These drugs have also been employed in  the treatment of enuresis (involuntary urination) in childhood and severe  obsessive-compulsive neurosis.     The optimal dosage of imipramine yields trough (just before the next dose)  blood levels of imipramine and desipramine combined from 175 ng/mL to 300  ng/mL. If desipramine is given, no imipramine should be detected and the  therapeutic concentration for desipramine alone is 100 ng/mL to 300 ng/mL.     Toxicity associated with imipramine is characterized by QRS widening leading to  ventricular tachycardia and asystole. In some patients, toxicity may manifest  at lower concentrations, or at therapeutic concentrations in the early state of  therapy. Cardiac toxicity (first-degree heart block) is usually associated with  blood concentrations in excess of 1,000 ng/mL."
+      ],
+      "paragraph_SI": [
+        "Imipramine and its metabolite desipramine  are tricyclic antidepressants (TCAs) used to treat endogenous depression requiring 1 to 3 weeks of  treatment before therapeutic effectiveness becomes apparent. Desipramine is  used for treatment of endogenous depression when the patient needs a drug with  significant stimulatory side effects. These drugs have also been employed in  the treatment of enuresis (involuntary urination) in childhood and severe  obsessive-compulsive neurosis.     The optimal dosage of imipramine yields trough (just before the next dose)  blood levels of imipramine and desipramine combined from 600 nmol/L to 1000 nmol/L. If desipramine is given, no imipramine should be detected and the  therapeutic concentration for desipramine alone is 360 nmol/L to 1000 nmol/L.     Toxicity associated with imipramine is characterized by QRS widening leading to  ventricular tachycardia and asystole. In some patients, toxicity may manifest  at lower concentrations, or at therapeutic concentrations in the early state of  therapy. Cardiac toxicity (first-degree heart block) is usually associated with  blood concentrations in excess of 3,600 nmol/L."
+      ]
+    }
+  ]
+}

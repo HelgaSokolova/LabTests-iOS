@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Creatinine Clearance",
+      "paragraph_US": [
+        "This test will estimate the glomerular filtration rate (GFR)"
+      ],
+      "paragraph_SI": [
+        "This test will estimate the glomerular filtration rate (GFR)"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Creatinine Clearance: 70-135 mL/min/unit surface area (SA) (6.5 mL/min/1.73 m2)  \nMales: 0.8-1.3 mg/dL (97-137 ml/min)  \nFemales: 0.6-1.1 mg/dL (88-128 ml/min)"
+      ],
+      "paragraph_SI": [
+        "Creatinine Clearance: 70-135 mL/min/unit surface area (SA) (6.5 mL/min/1.73 m2)  \nMales: 0.8-1.3 mg/dL (97-137 ml/min)  \nFemales: 0.6-1.1 mg/dL (88-128 ml/min)"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Decreased creatinine clearance indicates decreased glomerular filtration rate. This can be due to  conditions such as progressive renal  disease, or result from adverse effect on renal hemodynamics that are often reversible, including  drug effects or decreases in effective  renal perfusion (volume depletion, heart failure).      Increased creatinine clearance is often referred to as hyperfiltration and is most commonly seen during  pregnancy or in patients with diabetes  mellitus, before diabetic nephropathy has occurred. It may also occur with large dietary protein  intake.     A major limitation of creatinine clearance is that its accuracy worsens in relation to the amount of tubular  creatinine secretion. Often as GFR declines,  the contribution of urine creatinine from tubular secretion increases, further increasing the  discrepancy between true GFR and  measured creatinine clearance."
+      ],
+      "paragraph_SI": [
+        "Decreased creatinine clearance indicates decreased glomerular filtration rate. This can be due to  conditions such as progressive renal  disease, or result from adverse effect on renal hemodynamics that are often reversible, including  drug effects or decreases in effective  renal perfusion (volume depletion, heart failure).      Increased creatinine clearance is often referred to as hyperfiltration and is most commonly seen during  pregnancy or in patients with diabetes  mellitus, before diabetic nephropathy has occurred. It may also occur with large dietary protein  intake.     A major limitation of creatinine clearance is that its accuracy worsens in relation to the amount of tubular  creatinine secretion. Often as GFR declines,  the contribution of urine creatinine from tubular secretion increases, further increasing the  discrepancy between true GFR and  measured creatinine clearance."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Glomerular filtration rate (GFR) is the sum of filtration rates in all functioning nephrons and so an  estimation of the GFR provides a measure  of functioning nephrons of the kidney. A decrease in GFR implies either progressive renal  disease, or a reversible process causing  decreased nephron function (eg. severe dehydration). One of the most common methods used  for estimating GFR is creatinine  clearance.     Creatinine is derived from the metabolism of creatine from skeletal muscle and dietary meat intake, and is  released into the circulation at  a relatively constant rate. Thus, the serum creatinine concentration is usually stable.  Creatinine is  freely filtered by glomeruli and not reabsorbed  or metabolized by renal tubules. However, approximately  15% of excreted urine creatinine is derived from proximal tubular secretion. Because of  the tubular secretion of creatinine,  the creatinine clearance typically overestimates the true GFR by 10-15%.     Creatinine clearance is usually determined from measurement of creatinine in a 24 hour urine specimen  and from serum specimen obtained  during the same collection period.   One of the major limitations of creatinine  clearance is erroneous results due  to incomplete urine collections. Accurate results depend upon a complete and accurately timed  collection."
+      ],
+      "paragraph_SI": [
+        "Glomerular filtration rate (GFR) is the sum of filtration rates in all functioning nephrons and so an  estimation of the GFR provides a measure  of functioning nephrons of the kidney. A decrease in GFR implies either progressive renal  disease, or a reversible process causing  decreased nephron function (eg. severe dehydration). One of the most common methods used  for estimating GFR is creatinine  clearance.     Creatinine is derived from the metabolism of creatine from skeletal muscle and dietary meat intake, and is  released into the circulation at  a relatively constant rate. Thus, the serum creatinine concentration is usually stable.  Creatinine is  freely filtered by glomeruli and not reabsorbed  or metabolized by renal tubules. However, approximately  15% of excreted urine creatinine is derived from proximal tubular secretion. Because of  the tubular secretion of creatinine,  the creatinine clearance typically overestimates the true GFR by 10-15%.     Creatinine clearance is usually determined from measurement of creatinine in a 24 hour urine specimen  and from serum specimen obtained  during the same collection period.   One of the major limitations of creatinine  clearance is erroneous results due  to incomplete urine collections. Accurate results depend upon a complete and accurately timed  collection."
+      ]
+    }
+  ]
+}

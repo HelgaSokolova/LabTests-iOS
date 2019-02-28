@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Valproic Acid",
+      "paragraph_US": [
+        "Used to monitor therapy, assess compliance  and evaluating potential toxicity."
+      ],
+      "paragraph_SI": [
+        "Used to monitor therapy, assess compliance  and evaluating potential toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Total:  \nTherapeutic concentration (trough): 40  µg/mL \nTherapeutic concentration (peak): 100  µg/mL \nToxic concentration: ≥120 µg/mL \n\nFree: \nTherapeutic concentration: 4-15 µg/mL \nToxic concentration: >15 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Total:  \nTherapeutic concentration (trough): 280 µmol/L  \nTherapeutic concentration (peak): 700 µmol/L  \nToxic concentration: ≥840 µmol/L  \n\nFree:  \nTherapeutic concentration:28-105 µmol/L  \nToxic concentration: >105 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The generally acceptable range for total  valproic acid used as a reference to guide its therapy is 40 µg/mL to 100  µg/mL. The corresponding range of free valproic acid concentration for  clinical reference is 4 µg/mL to 15 µg/mL.     Low free valproic acid concentration relative to these ranges may suggest  inadequate dosing, while, a high free valproic acid concentration may be  associated with toxic effects.     Because the concentration of valproic acid fluctuates considerably depending on  the time from last dose, interpretation of the clinical significance of the  valproic acid concentration must take into consideration the timing of the  blood specimen. For this reason, 2 collections are sometimes made to assess the  trough and peak concentrations."
+      ],
+      "paragraph_SI": [
+        "The generally acceptable range for total  valproic acid used as a reference to guide its therapy is 280 – 700  µmol/L. The corresponding range of free valproic acid concentration for  clinical reference is 28 – 105 µmol/L.     Low free valproic acid concentration relative to these ranges may suggest  inadequate dosing, while, a high free valproic acid concentration may be  associated with toxic effects.     Because the concentration of valproic acid fluctuates considerably depending on  the time from last dose, interpretation of the clinical significance of the  valproic acid concentration must take into consideration the timing of the  blood specimen. For this reason, 2 collections are sometimes made to assess the  trough and peak concentrations."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Valproate is an effective medication for  absence seizures, generalized tonic-clonic seizures, and partial seizures, when  administered alone or in conjunction with other antiepileptic agents.     The valproic acid that circulates in blood is 85% to 90% protein-bound under  normal circumstances. In uremia or during concomitant therapy with other drugs  that are highly protein-bound (such as phenytoin), valproic acid is displaced  from protein, resulting in a higher free fraction of the drug circulating in  blood.     Since neurologic activity and toxicity of valproic acid are directly related to  the unbound fraction of drug, adjustment of dosage based on knowledge of the  free valproic acid concentration may be useful in the following situations:  concomitant use of highly protein-bound drugs (usually >80% bound),  hypoalbuminemia, pregnancy, renal or hepatic failure, and in the elderly. In  these situations, the total valproic acid concentration in the blood may  underestimate the disproportionately higher free valproic acid fraction."
+      ],
+      "paragraph_SI": [
+        "Valproate is an effective medication for  absence seizures, generalized tonic-clonic seizures, and partial seizures, when  administered alone or in conjunction with other antiepileptic agents.     The valproic acid that circulates in blood is 85% to 90% protein-bound under  normal circumstances. In uremia or during concomitant therapy with other drugs  that are highly protein-bound (such as phenytoin), valproic acid is displaced  from protein, resulting in a higher free fraction of the drug circulating in  blood.     Since neurologic activity and toxicity of valproic acid are directly related to  the unbound fraction of drug, adjustment of dosage based on knowledge of the  free valproic acid concentration may be useful in the following situations:  concomitant use of highly protein-bound drugs (usually >80% bound),  hypoalbuminemia, pregnancy, renal or hepatic failure, and in the elderly. In  these situations, the total valproic acid concentration in the blood may  underestimate the disproportionately higher free valproic acid fraction."
+      ]
+    }
+  ]
+}

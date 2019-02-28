@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Mean cell volume (MCV)",
+      "paragraph_US": [
+        "The mean corpuscular volume, or MCV, is a measure of the average red blood cell volume (i.e. size) that is reported as part of a standard complete blood count (CBC)."
+      ],
+      "paragraph_SI": [
+        "The mean corpuscular volume, or MCV, is a measure of the average red blood cell volume (i.e. size) that is reported as part of a standard complete blood count (CBC)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "80-100 fL"
+      ],
+      "paragraph_SI": [
+        "80-100 fL"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "In patients with anemia, it is the MCV measurement that allows classification as either a microcytic anemia (MCV below normal range) or macrocytic anemia (MCV above normal range).  It can be calculated (in litres) by dividing the hematocrit by the red blood cell count (number of red blood cells per litre). The result is typically reported in femtolitres."
+      ],
+      "paragraph_SI": [
+        "In patients with anemia, it is the MCV measurement that allows classification as either a microcytic anemia (MCV below normal range) or macrocytic anemia (MCV above normal range).  It can be calculated (in litres) by dividing the hematocrit by the red blood cell count (number of red blood cells per litre). The result is typically reported in femtolitres."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "High levels: Common in presence of hemolytic anaemia, presence of reticulocytes can increase MCV. In pernicious anemia (macrocytic), MCV can range up to 150 femtolitres. An elevated MCV is also associated with alcoholism (as are an elevated GGT and a ratio of AST:ALT of 2:1). Vitamin B12 and/or Folic Acid deficiency has also been associated with macrocytic anemia (high MCV numbers).  Low levels: The most common causes of microcytic anemia are iron deficiency (due to inadequate dietary intake, gastrointestinal blood loss, or menstrual blood loss), thalassemia, or chronic disease.  A low MCV number in a patient with a positive stool guaiac test (bloody stool) is highly suggestive of GI cancer.  In iron deficiency anemia (microcytic anemia), it can be as low as 60 to 70 femtolitres. In cases of thalassemia, the MCV may be low even though the patient is not iron deficient."
+      ],
+      "paragraph_SI": [
+        "High levels: Common in presence of hemolytic anaemia, presence of reticulocytes can increase MCV. In pernicious anemia (macrocytic), MCV can range up to 150 femtolitres. An elevated MCV is also associated with alcoholism (as are an elevated GGT and a ratio of AST:ALT of 2:1). Vitamin B12 and/or Folic Acid deficiency has also been associated with macrocytic anemia (high MCV numbers).  Low levels: The most common causes of microcytic anemia are iron deficiency (due to inadequate dietary intake, gastrointestinal blood loss, or menstrual blood loss), thalassemia, or chronic disease.  A low MCV number in a patient with a positive stool guaiac test (bloody stool) is highly suggestive of GI cancer.  In iron deficiency anemia (microcytic anemia), it can be as low as 60 to 70 femtolitres. In cases of thalassemia, the MCV may be low even though the patient is not iron deficient."
+      ]
+    }
+  ]
+}

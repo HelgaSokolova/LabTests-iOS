@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Testosterone",
+      "paragraph_US": [
+        "Evaluation of men with symptoms or signs of possible hypogonadism,   such as loss of libido, erectile dysfunction, gynecomastia, osteoporosis,   or infertility. Boys with delayed or precocious puberty.  Monitoring testosterone replacement therapy and antiandrogen therapy (eg, used in prostate cancer,   precocious puberty, treatment of idiopathic hirsutism, male-to-female   transgender disorders, etc.)  Evaluation of women with hirsutism, virilization, and oligoamenorrhea aswell as women with symptoms or signs of possible testosterone  deficiency  Evaluation of infants with ambiguous genitalia or virilization.  Diagnosis of androgen-secreting tumors."
+      ],
+      "paragraph_SI": [
+        "Evaluation of men with symptoms or signs of possible hypogonadism,   such as loss of libido, erectile dysfunction, gynecomastia, osteoporosis,   or infertility. Boys with delayed or precocious puberty.  Monitoring testosterone replacement therapy and antiandrogen therapy (eg, used in prostate cancer,   precocious puberty, treatment of idiopathic hirsutism, male-to-female   transgender disorders, etc.)  Evaluation of women with hirsutism, virilization, and oligoamenorrhea aswell as women with symptoms or signs of possible testosterone  deficiency  Evaluation of infants with ambiguous genitalia or virilization.  Diagnosis of androgen-secreting tumors."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Male: 300 to 1000 ng/dL \nFemale: < 62 ng/dL"
+      ],
+      "paragraph_SI": [
+        "Male: 6.7 - 28.9 nmol/L \nFemale: < 2.1 nmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Testosterone is the major androgenic hormone. It is responsible for the development of the male external genitalia and secondary sexual characteristics. In females, its main role is as an estrogen precursor. In both genders, it also exerts anabolic effects and influences behavior."
+      ],
+      "paragraph_SI": [
+        "Testosterone is the major androgenic hormone. It is responsible for the development of the male external genitalia and secondary sexual characteristics. In females, its main role is as an estrogen precursor. In both genders, it also exerts anabolic effects and influences behavior."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_SI": [
+        "Males: Decreased testosterone levels indicate partial or complete hypogonadism. Serum testosterone levels are usually below the reference range. The cause is either primary or secondary/tertiary (pituitary/hypothalamic) testicular failure. Increased testosterone levels: In prepubertal boys, increased levels of testosterone are seen in precocious puberty. Further workup is necessary to determine the causes of precocious puberty. In adult men, testicular or adrenal tumors or androgen abuse might be suspected if testosterone levels exceed the upper limit of the normal range by more than 50%. \n\nFemales: Decreased testosterone levels may be observed in primary or secondary ovarian failure, analogous to the situation in men, alongside the more prominent changes in female hormone levels. Most women with oophorectomy have a significant decrease in testosterone levels. Increased testosterone levels may be seen in: Congenital adrenal hyperplasia: nonclassical (mild) variants may not present in childhood but during or after puberty. In addition to testosterone, multiple other androgens or androgen precursors are elevated, such as 17OH-progesterone (OHPG / 17-Hydroxyprogesterone, Serum), often to a greater degree than testosterone. Prepubertal girls: analogous to males, but at lower levels, increased levels of testosterone are seen in precocious puberty. Ovarian or adrenal neoplasms: high estrogen values also may be observed, and LH and FSH are low or normal. Testosterone-producing ovarian or adrenal neoplasms often produce total testosterone values >200 ng/dL. Polycystic ovarian syndrome: hirsutism, acne, menstrual disturbances, insulin resistance and, frequently, obesity, form part of this syndrome. Total testosterone levels may be normal or mildly elevated and, uncommonly >200 ng/dL."
+      ],
+      "paragraph_US": [
+        "Males: Decreased testosterone levels indicate partial or complete hypogonadism. Serum testosterone levels are usually below the reference range. The cause is either primary or secondary/tertiary (pituitary/hypothalamic) testicular failure. Increased testosterone levels: In prepubertal boys, increased levels of testosterone are seen in precocious puberty. Further workup is necessary to determine the causes of precocious puberty. In adult men, testicular or adrenal tumors or androgen abuse might be suspected if testosterone levels exceed the upper limit of the normal range by more than 50%. \n\nFemales: Decreased testosterone levels may be observed in primary or secondary ovarian failure, analogous to the situation in men, alongside the more prominent changes in female hormone levels. Most women with oophorectomy have a significant decrease in testosterone levels. Increased testosterone levels may be seen in: Congenital adrenal hyperplasia: nonclassical (mild) variants may not present in childhood but during or after puberty. In addition to testosterone, multiple other androgens or androgen precursors are elevated, such as 17OH-progesterone (OHPG / 17-Hydroxyprogesterone, Serum), often to a greater degree than testosterone. Prepubertal girls: analogous to males, but at lower levels, increased levels of testosterone are seen in precocious puberty. Ovarian or adrenal neoplasms: high estrogen values also may be observed, and LH and FSH are low or normal. Testosterone-producing ovarian or adrenal neoplasms often produce total testosterone values >7 nmol/L. Polycystic ovarian syndrome: hirsutism, acne, menstrual disturbances, insulin resistance and, frequently, obesity, form part of this syndrome. Total testosterone levels may be normal or mildly elevated and, uncommonly >7 nmol/L."
+      ]
+    }
+  ]
+}

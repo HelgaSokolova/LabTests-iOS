@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Transferrin",
+		 "paragraph_US": [ "Useful for evaluating anemia, iron deficiensy and hemacromatosis. Workup of patients suspected of having congenital transferrin   abnormalities"],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "Useful for evaluating anemia, iron deficiensy and hemacromatosis. Workup of patients suspected of having congenital transferrin   abnormalities"]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "170-340 mg/dL"],
+		
+		"paragraph_SI": [ "1.7-3.4 g/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Transferrin is an iron-binding serum protein; each molecule of   transferrin can bind two atoms of iron. Transferrin can be determined   by either measurement of immunologic reactivity (i.e.,   nephelometry) or estimated by the total iron-binding capacity   (TBIC). Clinically, TIBC and transferrin concentration provide   similar information.   A number of molecular transferrin variants have been described,   all have the same iron-binding function. At present, no specific   functional or immunologically altered transferrins have been   identified that would result in spurious results when transferrin is   measured either immunologically or as TIBC."],
+		
+		"paragraph_SI": [ "Transferrin is an iron-binding serum protein; each molecule of   transferrin can bind two atoms of iron. Transferrin can be determined   by either measurement of immunologic reactivity (i.e.,   nephelometry) or estimated by the total iron-binding capacity   (TBIC). Clinically, TIBC and transferrin concentration provide   similar information.   A number of molecular transferrin variants have been described,   all have the same iron-binding function. At present, no specific   functional or immunologically altered transferrins have been   identified that would result in spurious results when transferrin is   measured either immunologically or as TIBC."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Transferrin concentration increases in iron deficiency anemia.   Decreases may be seen in a variety of diseases, including   infection, inflammation, protein-losing disorders, and malnutrition.   Congenital atransferrinemia  (rare condition) has been characterized by   immunologically measured transferrin concentration of zero and   TIBC very near zero."],
+		
+		"paragraph_SI": [ "Transferrin concentration increases in iron deficiency anemia.   Decreases may be seen in a variety of diseases, including   infection, inflammation, protein-losing disorders, and malnutrition.   Congenital atransferrinemia  (rare condition) has been characterized by   immunologically measured transferrin concentration of zero and   TIBC very near zero."]
+	}]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Glycosylated hemoglobin (HbA1c)",
+      "paragraph_US": [
+        "Used for evaluating the long-term control of blood glucose concentrations   in diabetic patients.    The American Diabetes Association recommends measurement  of HbA1C (typically 3-4 times per year for type 1 and poorly  controlled type 2 diabetic patients, and 2 times per year for well  controlled type 2 diabetic patients) to determine whether a  patient's metabolic control has remained continuously within the  target range."
+      ],
+      "paragraph_SI": [
+        "Used for evaluating the long-term control of blood glucose concentrations   in diabetic patients.    The American Diabetes Association recommends measurement  of HbA1C (typically 3-4 times per year for type 1 and poorly  controlled type 2 diabetic patients, and 2 times per year for well  controlled type 2 diabetic patients) to determine whether a  patient's metabolic control has remained continuously within the  target range."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "4.7-5.8%"
+      ],
+      "paragraph_SI": [
+        "4.7-5.8%"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Diabetes mellitus is a chronic disorder associated with disturbances  in carbohydrate, fat, and protein metabolism and characterized by  hyperglycemia. It is one of the most prevalent diseases, affecting  1-5% of the total population. Long-term treatment of the disease  emphasizes control of blood glucose levels in preventing the acute  complications of ketosis and hyperglycemia. In addition, long-term  complications such as retinopathy, neuropathy, nephropathy, and  cardiovascular disease can be minimized if blood glucose levels are  effectively controlled.Hemoglobin A1c (HbA1c) is a result of the nonenzymatic attachment of   a hexose molecule to the N-terminal amino acid of the hemoglobin   molecule. The attachment of the hexose molecule occurs continually   over the entire life span of the erythrocyte and is dependent on blood   glucose concentration and the duration of exposure of the erythrocyte to   blood glucose. Therefore, the HbA1c level reflects the mean glucose   concentration over the previous period (approximately 6-8 weeks) and   provides a much better indication of long-term glycemic control than  blood and urinary glucose determinations.    Diabetic patients with very high blood concentrations of glucose have  from 2 to 3 times more HbA1c than do normal individuals."
+      ],
+      "paragraph_SI": [
+        "Diabetes mellitus is a chronic disorder associated with disturbances  in carbohydrate, fat, and protein metabolism and characterized by  hyperglycemia. It is one of the most prevalent diseases, affecting  1-5% of the total population. Long-term treatment of the disease  emphasizes control of blood glucose levels in preventing the acute  complications of ketosis and hyperglycemia. In addition, long-term  complications such as retinopathy, neuropathy, nephropathy, and  cardiovascular disease can be minimized if blood glucose levels are  effectively controlled.Hemoglobin A1c (HbA1c) is a result of the nonenzymatic attachment of   a hexose molecule to the N-terminal amino acid of the hemoglobin   molecule. The attachment of the hexose molecule occurs continually   over the entire life span of the erythrocyte and is dependent on blood   glucose concentration and the duration of exposure of the erythrocyte to   blood glucose. Therefore, the HbA1c level reflects the mean glucose   concentration over the previous period (approximately 6-8 weeks) and   provides a much better indication of long-term glycemic control than  blood and urinary glucose determinations.    Diabetic patients with very high blood concentrations of glucose have  from 2 to 3 times more HbA1c than do normal individuals."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Goal of therapy: <7.0% HbA1c Action suggested: >8.0% HbA1c Since the HbA1c assay reflects long-term fluctuations in the blood glucose concentration, a diabetic patient who has in recent weeks come under good control may still have a high concentration of HbA1c. The converse is true for a diabetic previously under good control who is now poorly controlled."
+      ],
+      "paragraph_SI": [
+        "Goal of therapy: <7.0% HbA1c Action suggested: >8.0% HbA1c Since the HbA1c assay reflects long-term fluctuations in the blood glucose concentration, a diabetic patient who has in recent weeks come under good control may still have a high concentration of HbA1c. The converse is true for a diabetic previously under good control who is now poorly controlled."
+      ]
+    }
+  ]
+}

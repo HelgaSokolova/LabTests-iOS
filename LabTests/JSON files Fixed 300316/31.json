@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "C-reactive protein (CRP)",
+      "paragraph_US": [
+        "Use in  detecting systemic inflammatory processes, infection and assessing response to antibiotic treatment  of bacterial infections. Also used in differentiating between active and inactive disease forms with  concurrent infection"
+      ],
+      "paragraph_SI": [
+        "Use in  detecting systemic inflammatory processes, infection and assessing response to antibiotic treatment  of bacterial infections. Also used in differentiating between active and inactive disease forms with  concurrent infection"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤8.0 mg/L"
+      ],
+      "paragraph_SI": [
+        "≤8.0 mg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "C-reactive protein (CRP) is one of the most sensitive acute-phase   reactants. Plasma CRP levels can be increased dramatically (100 fold  or more) after severe trauma, bacterial infection, inflammation,  surgery, or neoplastic proliferation. Standard measurements of  CRP have been used to assess activity of inflammatory disease,  to detect infections after surgery, to detect transplant rejection,  and to monitor these inflammatory processes.  Two levels of sensitivity are available in CRP testing: CRP for  monitoring or assessing inflammatory disorders and   high-sensitivity CRP (hs(CRP) for assessing risk of cardiovascular disease   or events."
+      ],
+      "paragraph_SI": [
+        "C-reactive protein (CRP) is one of the most sensitive acute-phase   reactants. Plasma CRP levels can be increased dramatically (100 fold  or more) after severe trauma, bacterial infection, inflammation,  surgery, or neoplastic proliferation. Standard measurements of  CRP have been used to assess activity of inflammatory disease,  to detect infections after surgery, to detect transplant rejection,  and to monitor these inflammatory processes.  Two levels of sensitivity are available in CRP testing: CRP for  monitoring or assessing inflammatory disorders and   high-sensitivity CRP (hs(CRP) for assessing risk of cardiovascular disease   or events."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated values are consistent with an acute inflammatory process."
+      ],
+      "paragraph_SI": [
+        "Elevated values are consistent with an acute inflammatory process."
+      ]
+    }
+  ]
+}

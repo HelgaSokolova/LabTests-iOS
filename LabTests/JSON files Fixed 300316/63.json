@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Vitamin A",
+      "paragraph_US": [
+        "Diagnosing vitamin A deficiency and toxicity    aswell as monitoring vitamin A therapy."
+      ],
+      "paragraph_SI": [
+        "Diagnosing vitamin A deficiency and toxicity    aswell as monitoring vitamin A therapy."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "32.5-78.0 µg/dL"
+      ],
+      "paragraph_SI": [
+        "1.1-2.7 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The level of vitamin A in the plasma or serum is a reflection of the   quantities of vitamin A and carotene ingested and absorbed by the   intestine.    Vitamin A plays an essential role in the function of the retina (adaptation to   dim light), is necessary for growth and differentiation of epithelial tissue,   and is required for growth of bone, reproduction, and embryonic   development. Together with certain carotenoids, vitamin A enhances   immune function, reducing the consequences of some infectious diseases  Degenerative changes in eyes and skin are commonly observed in  vitamin A deficiency. Poor adaptation of vision to darkness (night  blindness) is an early symptom that may be followed by degenerative  changes in the retina. In developing countries, vitamin A deficiency is the   principal preventable cause of blindness. Severe or prolonged   deficiency leads to dry eye (xerophthalmia) that can result in corneal   ulcers, scarring, and blindness.   Another important consequence of   inadequate intake is acquired immunodeficiency disease, with an   increased incidence of death related to infectious diseases. In patients   with HIV, vitamin A deficiency is associated with increased disease   progression and mortality.     Vitamin A in excess can be toxic. In particular, chronic vitamin A   intoxication is a concern in normal adults who ingest >15 mg per day   and children who ingest >6 mg per day of vitamin A over a period of   several months. Manifestations are various and include dry skin, cheilosis,   glossitis, vomiting, alopecia, bone demineralization and pain,   hypercalcemia, lymph node enlargement, hyperlipidemia, amenorrhea,  and features of pseudotumor cerebri with increased intracranial pressure   and papilledema. Liver fibrosis with portal hypertension may also result.   Congenital malformations, like spontaneous abortions, craniofacial   abnormalities, and valvular heart disease have been described in pregnant   women taking vitamin A in excess. Consequently, in pregnancy, the daily   dose of vitamin A should not exceed 3 mg"
+      ],
+      "paragraph_SI": [
+        "The level of vitamin A in the plasma or serum is a reflection of the   quantities of vitamin A and carotene ingested and absorbed by the   intestine.    Vitamin A plays an essential role in the function of the retina (adaptation to   dim light), is necessary for growth and differentiation of epithelial tissue,   and is required for growth of bone, reproduction, and embryonic   development. Together with certain carotenoids, vitamin A enhances   immune function, reducing the consequences of some infectious diseases  Degenerative changes in eyes and skin are commonly observed in  vitamin A deficiency. Poor adaptation of vision to darkness (night  blindness) is an early symptom that may be followed by degenerative  changes in the retina. In developing countries, vitamin A deficiency is the   principal preventable cause of blindness. Severe or prolonged   deficiency leads to dry eye (xerophthalmia) that can result in corneal   ulcers, scarring, and blindness.   Another important consequence of   inadequate intake is acquired immunodeficiency disease, with an   increased incidence of death related to infectious diseases. In patients   with HIV, vitamin A deficiency is associated with increased disease   progression and mortality.     Vitamin A in excess can be toxic. In particular, chronic vitamin A   intoxication is a concern in normal adults who ingest >15 mg per day   and children who ingest >6 mg per day of vitamin A over a period of   several months. Manifestations are various and include dry skin, cheilosis,   glossitis, vomiting, alopecia, bone demineralization and pain,   hypercalcemia, lymph node enlargement, hyperlipidemia, amenorrhea,  and features of pseudotumor cerebri with increased intracranial pressure   and papilledema. Liver fibrosis with portal hypertension may also result.   Congenital malformations, like spontaneous abortions, craniofacial   abnormalities, and valvular heart disease have been described in pregnant   women taking vitamin A in excess. Consequently, in pregnancy, the daily   dose of vitamin A should not exceed 3 mg"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The World Health Organization recommendations supplementation when   vitamin A levels fall below 20 µg/dL.    Severe deficiency is indicated at levels <10 µg/dL.    Vitamin A values >120 µg/dL suggest hypervitaminosis A and associated   toxicity."
+      ],
+      "paragraph_SI": [
+        "The World Health Organization recommendations supplementation when   vitamin A levels fall below 0.7 µmol/L.    Severe deficiency is indicated at levels <0.4 µmol/L.    Vitamin A values >4.2 µmol/L suggest hypervitaminosis A and associated   toxicity."
+      ]
+    }
+  ]
+}

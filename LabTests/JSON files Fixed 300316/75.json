@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Rheumatoid factor (RF)",
+      "paragraph_US": [
+        "Diagnosis and prognosis of rheumatoid arthritis (RA)."
+      ],
+      "paragraph_SI": [
+        "Diagnosis and prognosis of rheumatoid arthritis (RA)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<15 IU/mL"
+      ],
+      "paragraph_SI": [
+        "<15 IU/mL"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Rheumatoid factors (RF) are antibodies that are directed against   the Fc fragment of IgG altered in its tertiary structure. Although the  IgM class is the most common RF, IgG and IgA RFs have been reported.    A variety of tests for the determination of RF have been described  including agglutination of sheep erythrocytes which have been  sensitized with rabbit IgG, agglutination of polystyrene latex   particles which have been coated with human IgG as well as   radioimmunassay and enzyme immunoassays. Over 75% of patients with rheumatoid arthritis (RA) have an IgM   antibody to IgG immunoglobulin. This autoantibody (RF) is   diagnostically useful although it may not be etiologically related   to RA.    The titer of RF correlates poorly with disease activity, but those   patients with high titers tend to have more severe disease and   thus a poorer prognosis than do sero-negative patients.    Tests are usually positive for patients with nodules or clinical   evidence of vasculitis."
+      ],
+      "paragraph_SI": [
+        "Rheumatoid factors (RF) are antibodies that are directed against   the Fc fragment of IgG altered in its tertiary structure. Although the  IgM class is the most common RF, IgG and IgA RFs have been reported.    A variety of tests for the determination of RF have been described  including agglutination of sheep erythrocytes which have been  sensitized with rabbit IgG, agglutination of polystyrene latex   particles which have been coated with human IgG as well as   radioimmunassay and enzyme immunoassays. Over 75% of patients with rheumatoid arthritis (RA) have an IgM antibody to IgG immunoglobulin. This autoantibody (RF) is   diagnostically useful although it may not be etiologically related   to RA.    The titer of RF correlates poorly with disease activity, but those   patients with high titers tend to have more severe disease and   thus a poorer prognosis than do sero-negative patients.    Tests are usually positive for patients with nodules or clinical   evidence of vasculitis."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Positive results are consistent with RA."
+      ],
+      "paragraph_SI": [
+        "Positive results are consistent with RA."
+      ]
+    }
+  ]
+}

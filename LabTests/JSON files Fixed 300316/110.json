@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Alpha-Fetoprotein (AFP)",
+      "paragraph_US": [
+        "Follow-up management of patients undergoing cancer therapy,  especially for testicular and ovarian tumors and for hepatocellular  carcinoma."
+      ],
+      "paragraph_SI": [
+        "Follow-up management of patients undergoing cancer therapy,  especially for testicular and ovarian tumors and for hepatocellular  carcinoma."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<6.0 ng/mL"
+      ],
+      "paragraph_SI": [
+        "<6 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Alpha-fetoprotein (AFP) is a glycoprotein that is produced in early  fetal life by the liver and by a variety of tumors including hepatocellular  carcinoma, hepatoblastoma, and nonseminomatous germ cell  tumors of the ovary and testis (e.g., yolk sac and embryonal  carcinoma). Most studies report elevated AFP concentrations in  approximately 70% of patients with hepatocellular carcinoma.  Elevated AFP concentrations are found in 50-70% of patients with  nonseminomatous testicular tumors.  AFP is elevated during pregnancy. Persistence of AFP in the mother  following birth is a rare hereditary condition. Neonates have  markedly elevated AFP levels (>100,000 ng/mL) that rapidly fall  to below 100 ng/mL by 150 days and gradually return to normal over  their first year.    Concentrations of AFP above the reference range also have been  found in serum of patients with benign liver disease (e.g., viral hepatitis,  cirrhosis), gastrointestinal tract tumors, and, along with carcinoembryonic  antigen, in ataxia telangiectasia."
+      ],
+      "paragraph_SI": [
+        "Alpha-fetoprotein (AFP) is a glycoprotein that is produced in early  fetal life by the liver and by a variety of tumors including hepatocellular  carcinoma, hepatoblastoma, and nonseminomatous germ cell  tumors of the ovary and testis (e.g., yolk sac and embryonal  carcinoma). Most studies report elevated AFP concentrations in  approximately 70% of patients with hepatocellular carcinoma.  Elevated AFP concentrations are found in 50-70% of patients with  nonseminomatous testicular tumors.  AFP is elevated during pregnancy. Persistence of AFP in the mother  following birth is a rare hereditary condition. Neonates have  markedly elevated AFP levels (>100,000 ng/mL) that rapidly fall  to below 100 ng/mL by 150 days and gradually return to normal over  their first year.    Concentrations of AFP above the reference range also have been  found in serum of patients with benign liver disease (e.g., viral hepatitis,  cirrhosis), gastrointestinal tract tumors, and, along with carcinoembryonic  antigen, in ataxia telangiectasia."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "AFP levels may be elevated in association with a variety of  malignancies or benign diseases.    Failure of the AFP value to return to normal by approximately 1  month after surgery suggests the presence of residual tumor.    Elevation of AFP after remission suggests tumor recurrence;  however, tumors originally producing AFP may recur without an  increase in AFP."
+      ],
+      "paragraph_SI": [
+        "AFP levels may be elevated in association with a variety of  malignancies or benign diseases.    Failure of the AFP value to return to normal by approximately 1  month after surgery suggests the presence of residual tumor.    Elevation of AFP after remission suggests tumor recurrence;  however, tumors originally producing AFP may recur without an  increase in AFP."
+      ]
+    }
+  ]
+}

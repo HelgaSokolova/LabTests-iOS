@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Cancer Antigen 125 (CA-125)",
+      "paragraph_US": [
+        "Used in evaluating patients' response to  cancer therapy, especially for ovarian  carcinoma and to predict risk of recurrent ovarian cancer or intraperitoneal  tumor."
+      ],
+      "paragraph_SI": [
+        "Used in evaluating patients' response to  cancer therapy, especially for ovarian  carcinoma and to predict risk of recurrent ovarian cancer or intraperitoneal  tumor."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<35 U/mL"
+      ],
+      "paragraph_SI": [
+        "<35 U/mL"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "In monitoring studies, elevated levels of  CA-125 (>35 U/mL) are a predictor  of the presence of intraperitoneal tumor or recurrence. Elevated concentrations have been  found in about 72% of patients   with surgically proven recurrent ovarian carcinoma. However, normal levels do not rule out  recurrence.     A persistently rising CA-125 value suggests progressive malignant disease and  poor therapeutic response.     Physiologic half-life of CA-125 is approximately 5 days.     In patients with advanced disease who have undergone cytoreductive surgery and are on  chemotherapy, a prolonged half-life  (>20 days) may be associated with a shortened disease-free survival."
+      ],
+      "paragraph_SI": [
+        "In monitoring studies, elevated levels of  CA-125 (>35 U/mL) are a predictor  of the presence of intraperitoneal tumor or recurrence. Elevated concentrations have been  found in about 72% of patients   with surgically proven recurrent ovarian carcinoma. However, normal levels do not rule out  recurrence.     A persistently rising CA-125 value suggests progressive malignant disease and  poor therapeutic response.     Physiologic half-life of CA-125 is approximately 5 days.     In patients with advanced disease who have undergone cytoreductive surgery and are on  chemotherapy, a prolonged half-life  (>20 days) may be associated with a shortened disease-free survival."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "CA-125 is a glycoprotein antigen normally  expressed in tissues derived from  coelomic epithelia (ovary, fallopian tube, peritoneum, pleura, pericardium, colon, kidney and  stomach).     Elevated serum CA-125 levels are seen in many patients with cancer of the ovary; the percentage of  positive cases increases with cancer stage.     Elevated serum CA-125 levels have been reported in individuals with a variety  of nonovarian malignancies including cervical, liver, pancreatic, lung, colon, stomach,  biliary tract, uterine, fallopian tube, breast,  and endometrial carcinomas.     Elevated serum CA-125 levels have been reported in individuals with a variety  of nonmalignant conditions including: cirrhosis, hepatitis, endometriosis, first trimester  pregnancy, ovarian cysts, and pelvic   inflammatory disease. Elevated levels during the menstrual cycle also have been reported.    Some individuals have antibodies to mouse  protein (HAMA) which can cause  interference in immunoassays that employ mouse antibodies."
+      ],
+      "paragraph_SI": [
+        "CA-125 is a glycoprotein antigen normally  expressed in tissues derived from  coelomic epithelia (ovary, fallopian tube, peritoneum, pleura, pericardium, colon, kidney and  stomach).     Elevated serum CA-125 levels are seen in many patients with cancer of the ovary; the percentage of  positive cases increases with cancer stage.     Elevated serum CA-125 levels have been reported in individuals with a variety  of nonovarian malignancies including cervical, liver, pancreatic, lung, colon, stomach,  biliary tract, uterine, fallopian tube, breast,  and endometrial carcinomas.     Elevated serum CA-125 levels have been reported in individuals with a variety  of nonmalignant conditions including: cirrhosis, hepatitis, endometriosis, first trimester  pregnancy, ovarian cysts, and pelvic   inflammatory disease. Elevated levels during the menstrual cycle also have been reported.    Some individuals have antibodies to mouse  protein (HAMA) which can cause  interference in immunoassays that employ mouse antibodies."
+      ]
+    }
+  ]
+}

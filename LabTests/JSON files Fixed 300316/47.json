@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total thyroxine",
+      "paragraph_US": [
+        "Used for monitoring treatment with synthetic hormones (synthetic T3 will  cause a low total T4) and treatment of hyperthyroidism with thiouracil and other  antithyroid drugs.  Total T4 levels offer a good index of thyroid function when the TBG is normal and nonthyroidal illness is not present."
+      ],
+      "paragraph_SI": [
+        "Used for monitoring treatment with synthetic hormones (synthetic T3 will  cause a low total T4) and treatment of hyperthyroidism with thiouracil and other  antithyroid drugs.  Total T4 levels offer a good index of thyroid function when the TBG is normal and nonthyroidal illness is not present."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "5.0-12.5 ug/dL"
+      ],
+      "paragraph_SI": [
+        "58-161 nmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Thyroxine is a metabolically active thyroid hormone containing  4 atoms of iodine (tetraiodothyronine; T4). About 0.05% of  circulating T4 is in the free or unbound portion. The remainder is  bound to thyroxine-binding (TBG) prealbumin and albumin.  The hypothalamus secretes thyrotropin-releasing hormone (TRH),  which stimulates the pituitary to release thyroid-stimulating hormone  (TSH). TSH stimulates the thyroid to secrete T4. T4 is partially   converted peripherally to triiodothyronine (T3). High amounts of T4  and T3 (mostly from peripheral conversion of T4) cause hyperthyroidism.  T4 and T3 cause positive feedback to the pituitary and hypothalamus  with resultant suppression or stimulation of the thyroid gland as  follows: decrease of TSH if T3 or T4 is high (hyperthyroidism), and   increase of TSH if T3 or T4 is low (hypothyroidism)."
+      ],
+      "paragraph_SI": [
+        "Thyroxine is a metabolically active thyroid hormone containing  4 atoms of iodine (tetraiodothyronine; T4). About 0.05% of  circulating T4 is in the free or unbound portion. The remainder is  bound to thyroxine-binding (TBG) prealbumin and albumin.  The hypothalamus secretes thyrotropin-releasing hormone (TRH),  which stimulates the pituitary to release thyroid-stimulating hormone  (TSH). TSH stimulates the thyroid to secrete T4. T4 is partially   converted peripherally to triiodothyronine (T3). High amounts of T4  and T3 (mostly from peripheral conversion of T4) cause hyperthyroidism.  T4 and T3 cause positive feedback to the pituitary and hypothalamus  with resultant suppression or stimulation of the thyroid gland as  follows: decrease of TSH if T3 or T4 is high (hyperthyroidism), and   increase of TSH if T3 or T4 is low (hypothyroidism)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Values >12.5 ug/dL are seen in hyperthyroidism and patients with  acute thyroiditis.  The normal concentration for newborns is much higher than for   adults. Values up to 23 ug/dL are generally signified as normal in  the literature and values <12 ug/dL for a newborn may signify   hypothyroidism.   Values <5.0 ug/dL are seen in hypothyroidism, myxedema,   cretinism, chronic thyroiditis, and occasionally, subacute thyroiditis.  Increased total T4 is seen in pregnancy and patients who are on   estrogen medication. These patients have increased total T4 levels  (increased TBG levels).  Decreased total T4 is seen in patients on treatment with anabolic  steroids, or patients with chronic liver disease, or nephrosis   (decreased TBG levels).  A TRH stimulation test may be required for certain cases of   hyperthyroidism.    Clinical findings are necessary to determine if TSH, TBG, or free T4  testing is needed."
+      ],
+      "paragraph_SI": [
+        "Values >200 nmol/L are seen in hyperthyroidism and patients with  acute thyroiditis.  The normal concentration for newborns is much higher than for   adults. Values up to 390 nmol/L are generally signified as normal in the literature and values <200 nmol/L for a newborn may signify hypothyroidism.   Values <85 nmol/L are seen in hypothyroidism, myxedema,   cretinism, chronic thyroiditis, and occasionally, subacute thyroiditis.  Increased total T4 is seen in pregnancy and patients who are on   estrogen medication. These patients have increased total T4 levels  (increased TBG levels).  Decreased total T4 is seen in patients on treatment with anabolic  steroids, or patients with chronic liver disease, or nephrosis   (decreased TBG levels).  A TRH stimulation test may be required for certain cases of   hyperthyroidism.    Clinical findings are necessary to determine if TSH, TBG, or free T4  testing is needed."
+      ]
+    }
+  ]
+}

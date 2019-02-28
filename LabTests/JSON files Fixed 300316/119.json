@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Estradiol",
+      "paragraph_US": [
+        "Useful for evaluation of hypogonadism in the female, evaluation of estrogen producing tumors and feminization in males and evaluation of gynecomastia in males. Also used in assessing ovarian status, including follicle development, for assisted reproduction protocols (e.g., in vitro fertilization)."
+      ],
+      "paragraph_SI": [
+        "Useful for evaluation of hypogonadism in the female, evaluation of estrogen producing tumors and feminization in males and evaluation of gynecomastia in males. Also used in assessing ovarian status, including follicle development, for assisted reproduction protocols (e.g., in vitro fertilization)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "30–400 pg/mL"
+      ],
+      "paragraph_SI": [
+        "110-1470 pmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Estradiol is the most biologically active estrogen and is derived from the ovary, testis, and placenta."
+      ],
+      "paragraph_SI": [
+        "Estradiol is the most biologically active estrogen and is derived from the ovary, testis, and placenta."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Estrogens are increased in liver cirrhosis and in estrogen producing tumors. Elevated estradiol levels may occur due to aromatization of androgens in males, resulting in gynecomastia. Very high estradiol levels are found during the induction of ovulation for assisted reproduction therapy or in pregnancy.    Estrogens are depressed in hypogonadism regardless of etiology (e.g., in Turner's syndrome) and after menopause."
+      ],
+      "paragraph_SI": [
+        "Estrogens are increased in liver cirrhosis and in estrogen producing tumors. Elevated estradiol levels may occur due to aromatization of androgens in males, resulting in gynecomastia. Very high estradiol levels are found during the induction of ovulation for assisted reproduction therapy or in pregnancy.    Estrogens are depressed in hypogonadism regardless of etiology (e.g., in Turner's syndrome) and after menopause."
+      ]
+    }
+  ]
+}

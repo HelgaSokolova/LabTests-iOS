@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Light Blue.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Activated partial thromboplastin time (APTT)",
+      "paragraph_US": [
+        "Monitoring heparin therapy (unfractionated heparin: UFH).    Screening for certain coagulation factor deficiency(ies).    Detection of coagulation inhibitors such as lupus anticoagulant,   specific factor inhibitors, and nonspecific inhibitors"
+      ],
+      "paragraph_SI": [
+        "Monitoring heparin therapy (unfractionated heparin: UFH).    Screening for certain coagulation factor deficiency(ies).    Detection of coagulation inhibitors such as lupus anticoagulant,   specific factor inhibitors, and nonspecific inhibitors"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "21-33 seconds"
+      ],
+      "paragraph_SI": [
+        "21-33 seconds"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The activated partial thromboplastin time (APTT) test reflects the   activities of most of the coagulation factors, including Factor XII and  other \"contact factors\" . The APTT also depends on phospholipid (a partial  thromboplastin) and ionic calcium, as well as an activator of the   contact factors (e.g., silica), but reflects neither the extrinsic   procoagulant pathway that includes Factor VII and tissue factor, nor  the activity of Factor XIII (fibrin stabilizing factor).      The APTT is variably sensitive to the presence of specific and   nonspecific inhibitors of the intrinsic and common coagulation   pathways, including lupus anticoagulants or antiphospholipid   antibodies. Lupus anticoagulants may interfere with in vitro   phospholipid dependent coagulation tests, such as the APTT,   and prolong the clotting time. Lupus anticoagulants are antibodies  directed towards neoepitopes presented by complexes of   phospholipid and proteins, such as prothrombin (Factor II) or   beta 2 glycoprotein I, but these antibodies do not specifically inhibit   any of the coagulation factors. Clinically, lupus anticoagulant   represents an important marker of thrombotic tendency. In contrast,   patients with specific coagulation inhibitors, such as Factor VIII inhibitor  antibodies, have a significant risk of hemorrhage and often require   specific treatment for effective management. Both types of disorders may have similar prolongation of the APTT."
+      ],
+      "paragraph_SI": [
+        "The activated partial thromboplastin time (APTT) test reflects the   activities of most of the coagulation factors, including Factor XII and  other \"contact factors\" . The APTT also depends on phospholipid (a partial  thromboplastin) and ionic calcium, as well as an activator of the   contact factors (e.g., silica), but reflects neither the extrinsic   procoagulant pathway that includes Factor VII and tissue factor, nor  the activity of Factor XIII (fibrin stabilizing factor).      The APTT is variably sensitive to the presence of specific and   nonspecific inhibitors of the intrinsic and common coagulation   pathways, including lupus anticoagulants or antiphospholipid   antibodies. Lupus anticoagulants may interfere with in vitro   phospholipid dependent coagulation tests, such as the APTT,   and prolong the clotting time. Lupus anticoagulants are antibodies  directed towards neoepitopes presented by complexes of   phospholipid and proteins, such as prothrombin (Factor II) or   beta 2 glycoprotein I, but these antibodies do not specifically inhibit   any of the coagulation factors. Clinically, lupus anticoagulant   represents an important marker of thrombotic tendency. In contrast,   patients with specific coagulation inhibitors, such as Factor VIII inhibitor  antibodies, have a significant risk of hemorrhage and often require   specific treatment for effective management. Both types of disorders may have similar prolongation of the APTT."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Since APTT reagents can vary greatly in their sensitivity to unfractionated heparin (UFH), it  is important for laboratories to establish a relationship between   APTT response and heparin concentration. The therapeutic APTT  range in seconds should correspond with an UFH concentration of   0.3-0.7 U/mL as assessed by heparin assay (inhibition of Factor Xa  activity with detection by a chromogenic substrate). The therapeutic APTT range is approximately   60-90 seconds.    Prolongation of the APTT can occur as a result of deficiency of one  or more coagulation factors (acquired or congenital in origin), or the  presence of an inhibitor of coagulation such as heparin, a lupus  anticoagulant, a \"nonspecific\" inhibitor such as a monoclonal  immunoglobulin, or a specific coagulation factor inhibitor.    Shortening of the APTT usually reflects either elevation of Factor VIII  activity in vivo that most often occurs in association with acute or  chronic illness or inflammation, or spurious results associated with  either difficult venipuncture and specimen collection or suboptimal  specimen processing."
+      ],
+      "paragraph_SI": [
+        "Since APTT reagents can vary greatly in their sensitivity to unfractionated heparin (UFH), it  is important for laboratories to establish a relationship between   APTT response and heparin concentration. The therapeutic APTT  range in seconds should correspond with an UFH concentration of   0.3-0.7 U/mL as assessed by heparin assay (inhibition of Factor Xa  activity with detection by a chromogenic substrate). The therapeutic APTT range is approximately   60-90 seconds.    Prolongation of the APTT can occur as a result of deficiency of one  or more coagulation factors (acquired or congenital in origin), or the  presence of an inhibitor of coagulation such as heparin, a lupus  anticoagulant, a \"nonspecific\" inhibitor such as a monoclonal  immunoglobulin, or a specific coagulation factor inhibitor.    Shortening of the APTT usually reflects either elevation of Factor VIII  activity in vivo that most often occurs in association with acute or  chronic illness or inflammation, or spurious results associated with  either difficult venipuncture and specimen collection or suboptimal  specimen processing."
+      ]
+    }
+  ]
+}

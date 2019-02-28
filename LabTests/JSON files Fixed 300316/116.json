@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Aldosterone",
+      "paragraph_US": [
+        "Investigation of primary aldosteronism (eg, adrenal adenoma/carcinoma and adrenal cortical hyperplasia) and secondary  aldosteronism (renovascular disease, salt depletion, potassium  loading, cardiac failure with ascites, pregnancy, Bartter's syndrome)."
+      ],
+      "paragraph_SI": [
+        "Investigation of primary aldosteronism (eg, adrenal adenoma/carcinoma and adrenal cortical hyperplasia) and secondary  aldosteronism (renovascular disease, salt depletion, potassium  loading, cardiac failure with ascites, pregnancy, Bartter's syndrome)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "2–9 ng/dL"
+      ],
+      "paragraph_SI": [
+        "55–250 pmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Aldosterone stimulates sodium transport across cell membranes,  particularly in the distal renal tubule where sodium is exchanged for  hydrogen and potassium. Secondarily, aldosterone is important in  the maintenance of blood pressure and blood volume.    Aldosterone is the major mineralocorticoid and is produced by the  adrenal cortex.    The renin-angiotensin system is the primary regulator of the synthesis  and secretion of aldosterone. Likewise, increased concentrations of  potassium in the plasma may directly stimulate adrenal production of  the hormone. Under physiologic conditions, pituitary adrenocorticotropic  hormone is not a major factor in regulating aldosterone secretion."
+      ],
+      "paragraph_SI": [
+        "Aldosterone stimulates sodium transport across cell membranes,  particularly in the distal renal tubule where sodium is exchanged for  hydrogen and potassium. Secondarily, aldosterone is important in  the maintenance of blood pressure and blood volume.    Aldosterone is the major mineralocorticoid and is produced by the  adrenal cortex.    The renin-angiotensin system is the primary regulator of the synthesis  and secretion of aldosterone. Likewise, increased concentrations of  potassium in the plasma may directly stimulate adrenal production of  the hormone. Under physiologic conditions, pituitary adrenocorticotropic  hormone is not a major factor in regulating aldosterone secretion."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A high ratio of serum aldosterone (SA) in ng/dL to plasma renin  activity (PRA) in ng/mL per hour, is a positive screening test result,  a finding that warrants further testing. A SA/PRA ratio ≥20 is  only interpretable with a SA ≥15 ng/dL and indicates probable  primary aldosteronism.     Renal disease, such as unilateral renal artery stenosis, results in  elevated renin and aldosterone levels. Renal venous catheterization  may be helpful. A positive test is a renal venous renin ratio (affected/  normal) >1.5."
+      ],
+      "paragraph_SI": [
+        "A high ratio of serum aldosterone (SA) in ng/dL to plasma renin  activity (PRA) in ng/mL per hour, is a positive screening test result,  a finding that warrants further testing. A SA/PRA ratio ≥20 is  only interpretable with a SA ≥15 ng/dL and indicates probable  primary aldosteronism.     Renal disease, such as unilateral renal artery stenosis, results in  elevated renin and aldosterone levels. Renal venous catheterization  may be helpful. A positive test is a renal venous renin ratio (affected/  normal) >1.5."
+      ]
+    }
+  ]
+}

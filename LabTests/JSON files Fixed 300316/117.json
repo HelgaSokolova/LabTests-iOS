@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "BNP (B-Type Natriuretic Peptide)",
+      "paragraph_US": [
+        "Used as an aid in the diagnosis of congestive heart failure (CHF)."
+      ],
+      "paragraph_SI": [
+        "Used as an aid in the diagnosis of congestive heart failure (CHF)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤51 pg/mL"
+      ],
+      "paragraph_SI": [
+        "≤51 ng/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "B-type natriuretic peptide (brain natriuretic peptide, BNP) is a small, ringed peptide secreted by the heart to regulate blood pressure and fluid balance.  This peptide is stored in and secreted predominantly from membrane granules in the heart ventricles in a pro form (Pro BNP). Once released from the heart in response to ventricle volume expansion and/or pressure overload, the N-terminal (NT) piece of 46 amino acids (NT-Pro BNP) is rapidly cleaved by an enzyme known as corin to release the active 32 amino acid peptide (BNP). Both BNP and NT-Pro BNP are markers of atrial and ventricular distension due to increased intracardiac pressure. The New York Heart Association (NYHA) developed a 4-stage functional classification system for congestive heart failure (CHF) based on the severity of the symptoms. Studies have demonstrated that the measured concentrations of circulating BNP and/or NT-Pro BNP increase with the severity of CHF based on the NYHA classification."
+      ],
+      "paragraph_SI": [
+        "B-type natriuretic peptide (brain natriuretic peptide, BNP) is a small, ringed peptide secreted by the heart to regulate blood pressure and fluid balance.  This peptide is stored in and secreted predominantly from membrane granules in the heart ventricles in a pro form (Pro BNP). Once released from the heart in response to ventricle volume expansion and/or pressure overload, the N-terminal (NT) piece of 46 amino acids (NT-Pro BNP) is rapidly cleaved by an enzyme known as corin to release the active 32 amino acid peptide (BNP). Both BNP and NT-Pro BNP are markers of atrial and ventricular distension due to increased intracardiac pressure. The New York Heart Association (NYHA) developed a 4-stage functional classification system for congestive heart failure (CHF) based on the severity of the symptoms. Studies have demonstrated that the measured concentrations of circulating BNP and/or NT-Pro BNP increase with the severity of CHF based on the NYHA classification."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "For patients with CHF, BNP values will generally be above 100 pg/mL; however, a more conservative interpretation of the BNP is that normal values are less than 50 pg/mL in order to achieve adequate sensitivity. There is a diagnostic 'gray area', often defined as between 100 and 500 pg/mL, for which the test is considered inconclusive. Values above 500 pg/mL are generally considered to be positive."
+      ],
+      "paragraph_SI": [
+        "For patients with CHF, BNP values will generally be above 100 ng/L; however, a more conservative interpretation of the BNP is that normal values are less than 50 ng/L in order to achieve adequate sensitivity. There is a diagnostic 'gray area', often defined as between 100 and 500 ng/L, for which the test is considered inconclusive. Values above 500 ng/L are generally considered to be positive."
+      ]
+    }
+  ]
+}

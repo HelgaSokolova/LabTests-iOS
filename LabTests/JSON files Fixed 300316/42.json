@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total cholesterol",
+      "paragraph_US": [
+        "Evaluation of cardiovascular risk."
+      ],
+      "paragraph_SI": [
+        "Evaluation of cardiovascular risk."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Desirable: < 200 mg/dL \nBorderline high: 200-239 mg/dL \nHigh: ≥240 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Desirable: < 5.2 mmol/L \nBorderline high: 5.2-6.2 mmol/L  \nHigh: ≥6.2 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Cholesterol is a steroid with a secondary hydroxyl group. It is synthesized in many types of tissue, but particularly in  the liver and intestinal wall. Approximately 75% of cholesterol is newly synthesized and 25% originates from dietary intake. Normally, the cholesterol in the plasma or serum is 60-80% esterified. Approximately 50-75% of the plasma cholesterol is transported by low density lipoproteins   (LDL) and 15-40% by high density lipoproteins (HDL). Serum cholesterol is elevated in the hereditary hyperlipoproteinemias and in various other metabolic diseases. Moderate to markedly elevated values are also seen in cholestatic liver disease.  Hypercholesterolemia reflects an increase of lipoproteins of 1 or  more specific classes (e.g., beta-LDL, alpha-1 HDL, alpha-2 HDL,   or LP-X). Hypercholesterolemia is a risk factor for cardiovascular disease. Low levels of cholesterol can be seen in disorders that include hyper-thyroidism, malabsorption, and deficiencies of apolipoproteins."
+      ],
+      "paragraph_SI": [
+        "Cholesterol is a steroid with a secondary hydroxyl group. It is synthesized in many types of tissue, but particularly in  the liver and intestinal wall. Approximately 75% of cholesterol is newly synthesized and 25% originates from dietary intake. Normally, the cholesterol in the plasma or serum is 60-80% esterified. Approximately 50-75% of the plasma cholesterol is transported by low density lipoproteins   (LDL) and 15-40% by high density lipoproteins (HDL). Serum cholesterol is elevated in the hereditary hyperlipoproteinemias and in various other metabolic diseases. Moderate to markedly elevated values are also seen in cholestatic liver disease.  Hypercholesterolemia reflects an increase of lipoproteins of 1 or  more specific classes (e.g., beta-LDL, alpha-1 HDL, alpha-2 HDL, or LP-X). Hypercholesterolemia is a risk factor for cardiovascular    disease.  Low levels of cholesterol can be seen in disorders that include hyper-thyroidism, malabsorption, and deficiencies of apolipoproteins."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Values above the normal range indicate a need for quantitative  analysis of the lipoprotein profile.  Values in hyperthyroidism usually are in the lower normal range;  malabsorption values may be <100 mg/dL, while beta-lipoprotein  or apolipoprotein B deficiency values usually are <80 mg/dL."
+      ],
+      "paragraph_SI": [
+        "Values above the normal range indicate a need for quantitative  analysis of the lipoprotein profile.  Values in hyperthyroidism usually are in the lower normal range;  malabsorption values may be <2.6 mmol/L, while beta-lipoprotein  or apolipoprotein B deficiency values usually are <2.0 mmol/L."
+      ]
+    }
+  ]
+}

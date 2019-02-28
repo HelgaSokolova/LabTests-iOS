@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Carbohydrate Antigen 19-9  (CA 19-9)",
+      "paragraph_US": [
+        "Potentially useful adjunct for diagnosis  and monitoring of pancreatic cancer.  It may also be used for differentiating patients with cholangiocarcinoma and primary sclerosing cholangitis  (PSC) from those with PSC alone."
+      ],
+      "paragraph_SI": [
+        "Potentially useful adjunct for diagnosis  and monitoring of pancreatic cancer.  It may also be used for differentiating patients with cholangiocarcinoma and primary sclerosing cholangitis  (PSC) from those with PSC alone."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<55 U/mL"
+      ],
+      "paragraph_SI": [
+        "<55 U/mL"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Serial monitoring of CA 19-9 should begin  prior to therapy to verify post-therapy  decreases in CA 19-9 and to establish a baseline for evaluating possible  recurrence. Single values of CA 19-9 are less  informative.     Elevated values may be caused by a variety of malignant and nonmalignant  conditions including cholangiocarcinoma, pancreatic cancer, and/or colon cancer."
+      ],
+      "paragraph_SI": [
+        "Serial monitoring of CA 19-9 should begin  prior to therapy to verify post-therapy  decreases in CA 19-9 and to establish a baseline for evaluating possible  recurrence. Single values of CA 19-9 are less  informative.     Elevated values may be caused by a variety of malignant and nonmalignant  conditions including cholangiocarcinoma, pancreatic cancer, and/or colon cancer."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Carbohydrate antigen 19-9 (CA 19-9) is a  modified Lewis(a) blood group antigen. CA 19-9 may be elevated in patients with  gastrointestinal malignancies  such as cholangiocarcinoma, pancreatic cancer, or colon cancer.  CA 19-9 is neither specific nor sensitive  enough to be used as a cancer  screen.     Some individuals do not express CA 19-9. Consequently low values in these  individuals are not informative regarding cancer recurrence.      Some patients who have been exposed to animal antigens, either in the  environment or as part of treatment or imaging procedures, may have circulating antianimal antibodies  present. These antibodies  may interfere with the assay reagents to produce unreliable results."
+      ],
+      "paragraph_SI": [
+        "Carbohydrate antigen 19-9 (CA 19-9) is a  modified Lewis(a) blood group antigen. CA 19-9 may be elevated in patients with  gastrointestinal malignancies  such as cholangiocarcinoma, pancreatic cancer, or colon cancer.  CA 19-9 is neither specific nor sensitive  enough to be used as a cancer  screen.     Some individuals do not express CA 19-9. Consequently low values in these  individuals are not informative regarding cancer recurrence.      Some patients who have been exposed to animal antigens, either in the  environment or as part of treatment or imaging procedures, may have circulating antianimal antibodies  present. These antibodies  may interfere with the assay reagents to produce unreliable results."
+      ]
+    }
+  ]
+}

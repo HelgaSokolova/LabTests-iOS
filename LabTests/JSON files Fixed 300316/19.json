@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Globulins (IgG, IgA, IgM)",
+      "paragraph_US": [
+        "Useful for detecting or monitoring of monoclonal gammopathies and immune deficiencies"
+      ],
+      "paragraph_SI": [
+        "Useful for detecting or monitoring of monoclonal gammopathies and immune deficiencies"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "IgG: 600-1,500 mg/dL \nIgA: 50-400 mg/dL \nIgM: 50-300 mg/dL"
+      ],
+      "paragraph_SI": [
+        "IgG: 5-15 g/L  \nIgA: 0.5-4.0 g/L  \nIgM: 0.5-3.0 g/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The gamma-globulin band as seen in conventional serum protein  electrophoresis consists of five immunoglobulins.  In normal serum,   about 80% is IgG, 15% is IgA, 5% is IgM, 0.2% is IgD, and a trace is IgE.  Elevations of IgG, IgA, and IgM may be due to polyclonal immunoglobulin  production.    Monoclonal gammopathies of all types may lead to a spike in the  gamma-globulin zone seen on serum protein electrophoresis.  Monoclonal elevations of IgG, IgA, IgD, and IgE characterize multiple  myeloma. Monoclonal elevations of IgM occur in macroglobulinemia.  Decreased immunoglobulin levels are found in patients with congenital  deficiencies."
+      ],
+      "paragraph_SI": [
+        "The gamma-globulin band as seen in conventional serum protein  electrophoresis consists of five immunoglobulins.  In normal serum,   about 80% is IgG, 15% is IgA, 5% is IgM, 0.2% is IgD, and a trace is IgE.  Elevations of IgG, IgA, and IgM may be due to polyclonal immunoglobulin  production.    Monoclonal gammopathies of all types may lead to a spike in the  gamma-globulin zone seen on serum protein electrophoresis.  Monoclonal elevations of IgG, IgA, IgD, and IgE characterize multiple  myeloma. Monoclonal elevations of IgM occur in macroglobulinemia.  Decreased immunoglobulin levels are found in patients with congenital  deficiencies."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Increased serum immunoglobulin concentrations occur due to   polyclonal or oligoclonal immunoglobulin proliferation in hepatic  disease (hepatitis, liver cirrhosis), connective tissue diseases, acute  and chronic infections, as well as in the cord blood of neonates with  intra uterine and perinatal infections.  Elevations of IgG, IgA, or IgM may occur in monoclonal gammopathies  such as multiple myeloma (IgG, IgA), macroglobulinemia (IgM),  primary systemic amyloidosis, monoclonal gammopathy of  undetermined significance, and related disorders.  Decreased levels are found in patients with primary or secondary  immune deficiencies."
+      ],
+      "paragraph_SI": [
+        "Increased serum immunoglobulin concentrations occur due to   polyclonal or oligoclonal immunoglobulin proliferation in hepatic  disease (hepatitis, liver cirrhosis), connective tissue diseases, acute  and chronic infections, as well as in the cord blood of neonates with  intra uterine and perinatal infections.  Elevations of IgG, IgA, or IgM may occur in monoclonal gammopathies  such as multiple myeloma (IgG, IgA), macroglobulinemia (IgM),  primary systemic amyloidosis, monoclonal gammopathy of  undetermined significance, and related disorders.  Decreased levels are found in patients with primary or secondary  immune deficiencies."
+      ]
+    }
+  ]
+}

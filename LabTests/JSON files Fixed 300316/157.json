@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Acetaminophen/Paracetamole",
+      "paragraph_US": [
+        "Always used in monitoring toxicity in  overdose cases.     Serum concentration and half-life are the only way to assess degree of  intoxication in early stages since other liver function studies (eg. bilirubin,  liver function enzymes) will not show clinically significant increases until  after tissue damage has occurred, at which point therapy is ineffective."
+      ],
+      "paragraph_SI": [
+        "Always used in monitoring toxicity in  overdose cases.     Serum concentration and half-life are the only way to assess degree of  intoxication in early stages since other liver function studies (eg. bilirubin,  liver function enzymes) will not show clinically significant increases until  after tissue damage has occurred, at which point therapy is ineffective."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: <50 µg/mL \nToxic concentration: ≥120 µg/mL \nHalf-life: <4 hours  \nToxic half-life: >4 hours  \nThe toxic level is dependent on half-life. When the half-life is 4 hours,  hepatotoxicity generally is not seen until the concentration is ≥120  µg/mL. The level at which toxicity occurs decreases with increasing half-lives  until it is encountered at values as low as 50 µg/mL when the half-life  reaches 12 hours."
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: <331 µmol/L  \nToxic concentration: ≥794 µmol/L  \nHalf-life: <4 hours  \nToxic half-life: >4 hours  \nThe toxic level is dependent on half-life. When the half-life is 4 hours,  hepatotoxicity generally is not seen until the concentration is ≥794 µmol/L. The level at which toxicity occurs decreases with increasing half-lives  until it is encountered at values as low as 331 µmol/L when the half-life  reaches 12 hours."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Paracetamole is a popular analgesic, antipyretic drug lacking significant  anti-inflammatory activity. It is metabolized by the liver with a normal  elimination half-life of <4 hours. In normal therapeutic doses, a minor  metabolite, possessing electrophilic alkylating activity, readily reacts with  glutathione in the liver to yield a detoxified product."
+      ],
+      "paragraph_SI": [
+        "Paracetamole is a popular analgesic, antipyretic drug lacking significant  anti-inflammatory activity. It is metabolized by the liver with a normal  elimination half-life of <4 hours. In normal therapeutic doses, a minor  metabolite, possessing electrophilic alkylating activity, readily reacts with  glutathione in the liver to yield a detoxified product."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "In overdose situations,  liver glutathione is consumed and the toxic metabolite (postulated metabolite:  benzoquinone) reacts with cellular proteins resulting in hepatotoxicity,  characterized by centrilobular necrosis, and possible death, if untreated N-acetylcysteine  can substitute for glutathione and serves as an antidote.  Remember that first specimen should be  drawn no sooner than 2 hours post-ingestion."
+      ],
+      "paragraph_SI": [
+        "In overdose situations,  liver glutathione is consumed and the toxic metabolite (postulated metabolite:  benzoquinone) reacts with cellular proteins resulting in hepatotoxicity,  characterized by centrilobular necrosis, and possible death, if untreated N-acetylcysteine  can substitute for glutathione and serves as an antidote.  Remember that first specimen should be  drawn no sooner than 2 hours post-ingestion."
+      ]
+    }
+  ]
+}

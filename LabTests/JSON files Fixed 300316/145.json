@@ -1,0 +1,37 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Lithium",
+      "paragraph_US": [
+        "Used for monitoring therapy of patients  with bipolar disorders, including recurrent episodes of mania and depression.  Also used for evaluating toxicity."
+      ],
+      "paragraph_SI": [
+        "Used for monitoring therapy of patients  with bipolar disorders, including recurrent episodes of mania and depression.  Also used for evaluating toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 0.8-1.2 mEq/L  (trough concentration)  Toxic concentration: >1.5 mEq/L  There is no relationship between peak concentration and degree of intoxication."
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 0.8-1.2 mmol/L  (trough concentration)  Toxic concentration: >1.5 mmol/L  There is no relationship between peak concentration and degree of intoxication."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Lithium alters the intraneuronal metabolism of catecholamines by an unknown mechanism. It is used to  suppress the manic phase of manic-depressive  psychosis.       Lithium is distributed throughout the total water spaces of the body and is excreted primarily by the  kidney.       Toxicity from lithium salts leads to ataxia, slurred speech, and confusion.  Since the  concentration of lithium in the serum varies with  the time after the dose, blood for lithium determination (trough values) should be drawn at a standard  time, preferably 8-12 hours after  the last dose."
+      ],
+      "paragraph_SI": [
+        "Lithium alters the intraneuronal metabolism of catecholamines by an unknown mechanism. It is used to  suppress the manic phase of manic-depressive  psychosis.       Lithium is distributed throughout the total water spaces of the body and is excreted primarily by the  kidney.       Toxicity from lithium salts leads to ataxia, slurred speech, and confusion.  Since the  concentration of lithium in the serum varies with  the time after the dose, blood for lithium determination (trough values) should be drawn at a standard  time, preferably 8-12 hours after  the last dose."
+      ]
+    }
+  ]
+}

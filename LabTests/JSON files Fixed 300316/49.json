@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total triiodothyronine",
+      "paragraph_US": [
+        "Second-order testing for hyperthyroidism in patients with low thyroid  stimulating hormone (TSH) values and normal T4 levels.   Also used for diagnosis of T3 toxicosis."
+      ],
+      "paragraph_SI": [
+        "Second-order testing for hyperthyroidism in patients with low thyroid  stimulating hormone (TSH) values and normal T4 levels.   Also used for diagnosis of T3 toxicosis."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "80-190 ng/dL"
+      ],
+      "paragraph_SI": [
+        "0.92-2.76 nmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Thyroid hormones regulate a number of developmental,  metabolic, and neural activities throughout the body. The two main  hormones secreted by the thyroid gland are thyroxine, which  contains four atoms of iodine (T4), and triiodothyronine (T3). T3 is  also produced by conversion (deiodination) of T4 in peripheral  tissues. Circulating levels of T4 are much greater than T3 levels,  but T3 is more metabolically active than T4, although its effect is  briefer.  Thyroid hormones circulate primarily bound to carrier proteins   (e.g., thyroid-binding globulin [TBG], albumin); a small fraction  circulates unbound (free). Only the free forms are metabolically  active. While both T3 and T4 are bound to TBG, T3 is bound less   firmly than T4. Total T3 consists of both the bound and unbound   fractions.  In hyperthyroidism both T4 and T3 levels are usually elevated,  but in a small subset of hyperthyroid patients only T3 is elevated  (T3 toxicosis).  In hypothyroidism T4 and T3 levels are decreased. T3 levels  are frequently low in sick or hospitalized euthyroid patients."
+      ],
+      "paragraph_SI": [
+        "Thyroid hormones regulate a number of developmental,  metabolic, and neural activities throughout the body. The two main  hormones secreted by the thyroid gland are thyroxine, which  contains four atoms of iodine (T4), and triiodothyronine (T3). T3 is  also produced by conversion (deiodination) of T4 in peripheral  tissues. Circulating levels of T4 are much greater than T3 levels,  but T3 is more metabolically active than T4, although its effect is  briefer.  Thyroid hormones circulate primarily bound to carrier proteins   (e.g., thyroid-binding globulin [TBG], albumin); a small fraction  circulates unbound (free). Only the free forms are metabolically  active. While both T3 and T4 are bound to TBG, T3 is bound less   firmly than T4. Total T3 consists of both the bound and unbound   fractions.  In hyperthyroidism both T4 and T3 levels are usually elevated,  but in a small subset of hyperthyroid patients only T3 is elevated  (T3 toxicosis).  In hypothyroidism T4 and T3 levels are decreased. T3 levels  are frequently low in sick or hospitalized euthyroid patients."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "T3 values >180 ng/dL in adults or >200 ng/dL in children are  consistent with hyperthyroidism or increased thyroid hormone-binding proteins.  Abnormal levels (high or low) of thyroid hormone-binding proteins  (primarily albumin and TBG) may cause abnormal T3  concentrations in euthyroid patients."
+      ],
+      "paragraph_SI": [
+        "T3 values >2.7 nmol/L in adults or >3.0 nmol/L in children are  consistent with hyperthyroidism or increased thyroid hormone-binding proteins.  Abnormal levels (high or low) of thyroid hormone-binding proteins  (primarily albumin and TBG) may cause abnormal T3  concentrations in euthyroid patients."
+      ]
+    }
+  ]
+}

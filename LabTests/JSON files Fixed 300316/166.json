@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Bilirubin (Urine)",
+      "paragraph_US": [
+        "Limited use in screening of patients for liver disease."
+      ],
+      "paragraph_SI": [
+        "Limited use in screening of patients for liver disease."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Negative"
+      ],
+      "paragraph_SI": [
+        "Negative"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated urinary bilirubin is suggestive  of hepatocellular disease or post-hepatic biliary obstruction."
+      ],
+      "paragraph_SI": [
+        "Elevated urinary bilirubin is suggestive  of hepatocellular disease or post-hepatic biliary obstruction."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Bilirubin is primarily derived from  metabolism of hemoglobin. Only conjugated bilirubin is excreted into the urine  and normally only trace amounts can be detected in urine. Elevated urinary  bilirubin occurs in patients with obstructive jaundice or jaundice due to  hepatocellular disease or injury. However, urine bilirubin is relatively  insensitive for detection of liver disease. Hyperbilirubinemia due to hemolysis  is principally due to unconjugated bilirubin, and therefore does not result in  increased urinary bilirubin.  False positive tests may occur if urine is  contaminated with stool, or if the patient is taking drugs which cause red  coloration of urine. False negative tests may occur after prolonged storage,  exposure to light, or if patient has taken large amounts of ascorbic acid."
+      ],
+      "paragraph_SI": [
+        "Bilirubin is primarily derived from  metabolism of hemoglobin. Only conjugated bilirubin is excreted into the urine  and normally only trace amounts can be detected in urine. Elevated urinary  bilirubin occurs in patients with obstructive jaundice or jaundice due to  hepatocellular disease or injury. However, urine bilirubin is relatively  insensitive for detection of liver disease. Hyperbilirubinemia due to hemolysis  is principally due to unconjugated bilirubin, and therefore does not result in  increased urinary bilirubin.  False positive tests may occur if urine is  contaminated with stool, or if the patient is taking drugs which cause red  coloration of urine. False negative tests may occur after prolonged storage,  exposure to light, or if patient has taken large amounts of ascorbic acid."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Desipramine",
+      "paragraph_US": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 100-300 ng/mL  Toxic concentration: ≥500 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 370-1100 nmol/L  Toxic concentration: ≥1800 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response  to desipramine with serum levels of 100 ng/mL to 300 ng/mL. Risk of toxicity is  increased with desipramine levels ≥500 ng/mL.     Some individuals may respond well outside of these ranges, or may display  toxicity within the therapeutic range, thus interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimen drawn at trough (i.e. immediately  before the next dose)."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response  to desipramine with serum levels of 370 nmol/L to 1100 nmol/L. Risk of toxicity is  increased with desipramine levels ≥1800 nmol/L.     Some individuals may respond well outside of these ranges, or may display  toxicity within the therapeutic range, thus interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimen drawn at trough (i.e. immediately  before the next dose)."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Desipramine is a tricyclic antidepressant (TCA); it also is a  metabolite of imipramine. These drugs have also been employed in the treatment  of enuresis (involuntary urination) in childhood and severe  obsessive-compulsive neurosis. Desipramine is the antidepressant of choice in  patients where maximal stimulation is indicated.     The therapeutic concentration of desipramine is 100 ng/mL to 300 ng/mL. About 1  to 3 weeks of treatment are required before therapeutic effectiveness becomes  apparent.     The most frequent side effects are those attributable to anticholinergic  effects; dry mouth, constipation, dizziness, tachycardia, palpitations, blurred  vision, and urinary retention. These occur at blood concentrations in excess of  300 ng/mL, although they may occur at therapeutic concentrations in the early  stage of therapy. Cardiac toxicity (first-degree heart block) is usually  associated with blood concentrations in excess of 500 ng/mL.     The most frequent side effects are those attributable to anticholinergic  effects: dry mouth, constipation, dizziness, tachycardia, palpitations, blurred  vision, and urinary retention. These occur at blood concentrations in excess of  300 ng/mL, although they may occur at therapeutic concentrations in the early  stage of therapy. Cardiac toxicity (first-degree heart block) is usually  associated with blood concentrations in excess of 500 ng/mL."
+      ],
+      "paragraph_SI": [
+        "Desipramine is a tricyclic antidepressant (TCA); it also is a  metabolite of imipramine. These drugs have also been employed in the treatment  of enuresis (involuntary urination) in childhood and severe  obsessive-compulsive neurosis. Desipramine is the antidepressant of choice in  patients where maximal stimulation is indicated.     The therapeutic concentration of desipramine is 100 ng/mL to 300 ng/mL. About 1  to 3 weeks of treatment are required before therapeutic effectiveness becomes  apparent.     The most frequent side effects are those attributable to anticholinergic  effects; dry mouth, constipation, dizziness, tachycardia, palpitations, blurred  vision, and urinary retention. These occur at blood concentrations in excess of  1100 nmol/L, although they may occur at therapeutic concentrations in the early  stage of therapy. Cardiac toxicity (first-degree heart block) is usually  associated with blood concentrations in excess of 1800 nmol/L.     The most frequent side effects are those attributable to anticholinergic  effects: dry mouth, constipation, dizziness, tachycardia, palpitations, blurred  vision, and urinary retention. These occur at blood concentrations in excess of  1100 nmol/L, although they may occur at therapeutic concentrations in the early  stage of therapy. Cardiac toxicity (first-degree heart block) is usually  associated with blood concentrations in excess of 1800 nmol/L."
+      ]
+    }
+  ]
+}

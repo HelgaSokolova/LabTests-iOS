@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "CK-MB",
+      "paragraph_US": [
+        "The serial quantitation of serum CKMB levels has traditionally  been used as an aid in the diagnosis of myocardial injury.  While  CKMB has been replaced by troponin assays in the workup of   many patients with acute chest pain, CKMB may be useful if the initial  troponin determination is abnormal or if a hospitalized patient has a  suspected re-infarction."
+      ],
+      "paragraph_SI": [
+        "The serial quantitation of serum CKMB levels has traditionally  been used as an aid in the diagnosis of myocardial injury.  While  CKMB has been replaced by troponin assays in the workup of   many patients with acute chest pain, CKMB may be useful if the initial  troponin determination is abnormal or if a hospitalized patient has a  suspected re-infarction."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤6.2 ng/mL (0-3%)"
+      ],
+      "paragraph_SI": [
+        "≤6.2 µg/L (0-3%)"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "CKMB should be ordered only in the following circumstances: if the initial troponin T determination is abnormal or if the patient has   had a suspected re-infarction in the hospital.  The primary source of CKMB is myocardium although it is also found  in skeletal muscle. CKMB levels increase with myocardial damage.  CKMB levels can be detected within 3-8 hours of the onset of chest  pain, peak within 12-24 hours, and usually return to baseline levels  within 24-48 hours. Serial sampling is often performed at admission  and 8, 16, and 24 hours after admission.  Extreme elevations of CKMB can be associated with skeletal muscle  cell turnover as in polymyositis and to a lesser degree in rhabdomyolysis.  It can also be elevated in cases of carbon monoxide poisoning,  crush injuries, pulmonary embolism, hypothyroidism, and muscular  dystrophy."
+      ],
+      "paragraph_SI": [
+        "CKMB should be ordered only in the following circumstances: if the initial troponin T determination is abnormal or if the patient has   had a suspected re-infarction in the hospital.  The primary source of CKMB is myocardium although it is also found  in skeletal muscle. CKMB levels increase with myocardial damage.  CKMB levels can be detected within 3-8 hours of the onset of chest  pain, peak within 12-24 hours, and usually return to baseline levels  within 24-48 hours. Serial sampling is often performed at admission  and 8, 16, and 24 hours after admission.  Extreme elevations of CKMB can be associated with skeletal muscle  cell turnover as in polymyositis and to a lesser degree in rhabdomyolysis.  It can also be elevated in cases of carbon monoxide poisoning,  crush injuries, pulmonary embolism, hypothyroidism, and muscular  dystrophy."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "CKMB usually appears in the serum within 4-6 hours after the  onset of pain in acute myocardial infarction (AMI) and peaks   within 18-24 hours."
+      ],
+      "paragraph_SI": [
+        "CKMB usually appears in the serum within 4-6 hours after the  onset of pain in acute myocardial infarction (AMI) and peaks   within 18-24 hours."
+      ]
+    }
+  ]
+}

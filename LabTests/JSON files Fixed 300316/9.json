@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Glucose (fasting)",
+		 "paragraph_US": [ "Glucose levels are used to diagnose and manage diabetes mellitus  and other carbohydrate metabolism disorders including gestational  diabetes, neonatal hypoglycemia, idiopathic hypoglycemia, and  pancreatic islet cell carcinoma."],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "Glucose levels are used to diagnose and manage diabetes mellitus and other carbohydrate metabolism disorders including gestational  diabetes, neonatal hypoglycemia, idiopathic hypoglycemia, and  pancreatic islet cell carcinoma."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "70-100 mg/dL"],
+		
+		"paragraph_SI": [ "4.2-6.1 mmol/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "The most common disease related to carbohydrate metabolism is  diabetes mellitus. Insufficient blood levels of active insulin  characterize diabetes mellitus. Symptoms include polyuria,  abnormally elevated blood and urine glucose values, excessive  thirst, constant hunger, sudden weight loss and possibly elevated  blood and urine ketones. Complications from diabetes are the third  leading cause of death in the US. Over production or excess administration of insulin causes a decrease  in blood glucose to levels below normal. In severe cases the resulting  extreme hypoglycemia is followed by muscular spasm and loss of  consciousness, known as insulin shock."],
+		
+		"paragraph_SI": [ "The most common disease related to carbohydrate metabolism is  diabetes mellitus. Insufficient blood levels of active insulin  characterize diabetes mellitus. Symptoms include polyuria,  abnormally elevated blood and urine glucose values, excessive  thirst, constant hunger, sudden weight loss and possibly elevated  blood and urine ketones. Complications from diabetes are the third  leading cause of death in the US. Over production or excess administration of insulin causes a decrease  in blood glucose to levels below normal. In severe cases the resulting  extreme hypoglycemia is followed by muscular spasm and loss of  consciousness, known as insulin shock."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Any of the following results, confirmed on a subsequent day, can be  considered diagnostic for diabetes:   fasting plasma or serum glucose ≥126 mg/dL after an 8-hour fast.  2-hour plasma or serum glucose ≥200 mg/ dL during a 75-gram oral  glucose tolerance test (OGTT). Random plasma or serum glucose >200 mg/ dL plus typical symptoms.  Patients with \"impaired\"  are those whose fasting serum or  plasma glucose falls between 110-126 mg/dL or whose 2-hour value  on OGTT fall between 140-199 mg/dL. These patients have a markedly  increased risk of developing type 2 diabetes and should be counseled  for lifestyle changes and followed up with more testing. Indications for  screening/testing include strong family history, marked obesity; history with  babies over 9 pounds, and recurrent skin and genitourinary infections."],
+		
+		"paragraph_SI": [ "Any of the following results, confirmed on a subsequent day, can be  considered diagnostic for diabetes:   fasting plasma or serum glucose ≥7 mmol/L after an 8-hour fast.  2-hour plasma or serum glucose ≥11.1 mmol/L during a 75-gram oral  glucose tolerance test (OGTT). Random plasma or serum glucose >11.1 mmol/L plus typical symptoms.  Patients with \"impaired\"  are those whose fasting serum or  plasma glucose falls between 6-7 mmol/L or whose 2-hour value  on OGTT fall between 7.8-11 mmol/L. These patients have a markedly  increased risk of developing type 2 diabetes and should be counseled  for lifestyle changes and followed up with more testing. Indications for  screening/testing include strong family history, marked obesity; history with  babies over 9 pounds, and recurrent skin and genitourinary infections."]
+	}]
+}

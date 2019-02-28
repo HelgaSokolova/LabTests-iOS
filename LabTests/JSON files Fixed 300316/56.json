@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Growth hormone (hGH, GH)",
+      "paragraph_US": [
+        "Used in diagnosis of acromegaly and assessment of treatment efficacy  (in conjunction with glucose suppression test) and for determining hGH deficiency (in conjunction with growth hormone   stimulation test)."
+      ],
+      "paragraph_SI": [
+        "Used in diagnosis of acromegaly and assessment of treatment efficacy  (in conjunction with glucose suppression test) and for determining hGH deficiency (in conjunction with growth hormone   stimulation test)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Males: 0.01-0.97 ng/mL \nFemales: 0.01-3.61 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Males: 0.01-0.97 µg/L  \nFemales: 0.01-3.61 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The anterior pituitary secretes human growth hormone (hGH)  in response to exercise, deep sleep, hypoglycemia, and protein  ingestion. hGH stimulates hepatic insulin-like growth factor-1(IGF-1)  and mobilizes fatty acids from fat deposits to the liver. Hyposecretion of   hGH causes dwarfism in children. Hypersecretion causes gigantism in   children or acromegaly in adults.  Because hGH levels in normal and diseased populations overlap,  hGH suppression and stimulation tests are needed to evaluate  conditions of hGH excess and deficiency; random hGH levels  are inadequate."
+      ],
+      "paragraph_SI": [
+        "The anterior pituitary secretes human growth hormone (hGH)  in response to exercise, deep sleep, hypoglycemia, and protein  ingestion. hGH stimulates hepatic insulin-like growth factor-1(IGF-1)  and mobilizes fatty acids from fat deposits to the liver. Hyposecretion of   hGH causes dwarfism in children. Hypersecretion causes gigantism in   children or acromegaly in adults.  Because hGH levels in normal and diseased populations overlap,  hGH suppression and stimulation tests are needed to evaluate  conditions of hGH excess and deficiency; random hGH levels  are inadequate."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Acromegaly: Glucose normally suppresses hGH (<1-2 ng/mL);  acromegalics show no decrease or a paradoxical increase in   hGH level. After successful treatment, a normal response to  glucose is observed, although hGH levels may not fall to  within normal limits.  Low levels, particularly under stimulation, indicate hGH deficiency."
+      ],
+      "paragraph_SI": [
+        "Acromegaly: Glucose normally suppresses hGH (<1-2 µg/L);  acromegalics show no decrease or a paradoxical increase in   hGH level. After successful treatment, a normal response to  glucose is observed, although hGH levels may not fall to  within normal limits.  Low levels, particularly under stimulation, indicate hGH deficiency."
+      ]
+    }
+  ]
+}

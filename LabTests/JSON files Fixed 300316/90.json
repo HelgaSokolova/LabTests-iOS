@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "pO2",
+      "paragraph_US": [
+        "pO2 (Partial Pressure of Oxygen) reflects the amount of oxygen gas dissolved in the blood."
+      ],
+      "paragraph_SI": [
+        "pO2 (Partial Pressure of Oxygen) reflects the amount of oxygen gas dissolved in the blood."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "9.6 - 14.4 kPa"
+      ],
+      "paragraph_SI": [
+        "9.6 - 14.4 kPa"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "It primarily measures the effectiveness of the lungs in pulling oxygen into the blood stream from the atmosphere."
+      ],
+      "paragraph_SI": [
+        "It primarily measures the effectiveness of the lungs in pulling oxygen into the blood stream from the atmosphere."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated pO2 levels are associated with:  Increased oxygen levels in the inhaled air or polycythemia"
+      ],
+      "paragraph_SI": [
+        "Elevated pO2 levels are associated with:  Increased oxygen levels in the inhaled air or polycythemia"
+      ]
+    }
+  ]
+}

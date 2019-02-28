@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Procainamide",
+      "paragraph_US": [
+        "Used to monitor therapy, assess compliance  or evaluate toxicity of procainamide (PA) or N-acetylprocainamide (NAPA)."
+      ],
+      "paragraph_SI": [
+        "Used to monitor therapy, assess compliance  or evaluate toxicity of procainamide (PA) or N-acetylprocainamide (NAPA)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Procainamide:     \nTherapeutic concentration: 4.0-8.0 µg/mL     \nToxic concentration: ≥16.0 µg/mL  \n\nN-acetylprocainamide:     \nTherapeutic concentration: 4.0-8.0 µg/mL     \nToxic concentration: ≥16.0 µg/mL  \n\nProcainamide and n-acetylprocainamide:     \nTherapeutic concentration: ≤30.0 µg/mL (total of both)       \nToxic concentration: ≥ 30.0 µg/mL (total of both)"
+      ],
+      "paragraph_SI": [
+        "Procainamide:     \nTherapeutic concentration: 16.0-32.0 µmol/L     \nToxic concentration: ≥54.0 µmol/L  \n\nN-acetylprocainamide:     \nTherapeutic concentration: 16.0-32.0 µmol/L     \nToxic concentration: ≥64.0 µmol/L  \n\nProcainamide and n-acetylprocainamide:     \nTherapeutic concentration: ≤120.0 µmol/L (total of both)       \nToxic concentration: ≥ 120.0 µmol/L (total of both)"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Administration of a dose of 50 mg/kg will  usually yield the optimal plasma concentration in the range of 4 µg/mL to 8  µg/mL.     Patients who are undergoing aggressive antiarrhythmic therapy under intensive  medical surveillance often can tolerate plasma concentrations up to 16 µg/mL  to maintain good rhythm control."
+      ],
+      "paragraph_SI": [
+        "Administration of a dose of 50 mg/kg will  usually yield the optimal plasma concentration in the range of 16 – 32  µmol/L.     Patients who are undergoing aggressive antiarrhythmic therapy under intensive  medical surveillance often can tolerate plasma concentrations up to 64 µmol/L  to maintain good rhythm control."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Procainamide is indicated in the treatment  of premature ventricular  contractions, ventricular tachycardia, atrial fibrillation, and paroxysmal atrial tachycardia.       Patients who have prolonged exposure to procainamide >12 µg/mL or the sum of procainamide plus NAPA  concentration >30 µg/mL are very  likely to exhibit symptoms of toxicity that are characterized by hypotension, ventricular fibrillation,  widened QRS complex, junctional tachycardia,  oliguria, confusion, nausea, and vomiting.     Renal disease, hepatic disease, cardiac failure, and states of low cardiac output reduce the metabolism  and clearance of PA and NAPA.     Co-administration of histamine H2 receptor antagonists, such as cimetidine and ranitidine reduce renal  clearance of PA and NAPA  resulting in higher plasma concentrations of each."
+      ],
+      "paragraph_SI": [
+        "Procainamide is indicated in the treatment  of premature ventricular  contractions, ventricular tachycardia, atrial fibrillation, and paroxysmal atrial tachycardia.       Patients who have prolonged exposure to procainamide >48 µmol/L or the sum of procainamide plus NAPA  concentration >120 µmol/L are very  likely to exhibit symptoms of toxicity that are characterized by hypotension, ventricular fibrillation,  widened QRS complex, junctional tachycardia,  oliguria, confusion, nausea, and vomiting.     Renal disease, hepatic disease, cardiac failure, and states of low cardiac output reduce the metabolism  and clearance of PA and NAPA.     Co-administration of histamine H2 receptor antagonists, such as cimetidine and ranitidine reduce renal  clearance of PA and NAPA  resulting in higher plasma concentrations of each."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Thyroid stimulating hormone (TSH or thyrotropin)",
+      "paragraph_US": [
+        "Monitoring  thyroid replacement therapy. Confirmation of TSH suppression in thyroid cancer patients on thyroxine therapy.  Prediction of TRH-stimulated TSH response.  An aid in the diagnosis of  hyperthyroidism and hypothyroidism."
+      ],
+      "paragraph_SI": [
+        "Monitoring  thyroid replacement therapy. Confirmation of TSH suppression in thyroid cancer patients on thyroxine therapy.  Prediction of TRH-stimulated TSH response.  An aid in the diagnosis of  hyperthyroidism and hypothyroidism."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.3-5.0 mIU/L"
+      ],
+      "paragraph_SI": [
+        "0.3-5.0 mIU/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Thyroid-stimulating hormone (TSH) is a glycoprotein hormone that   has 2 subunits. The alpha subunit is similar to those of follicle-stimulating hormone (FSH), human chorionic gonadotropin (hCG),   and luteinizing hormone (LH). The beta subunit is different from   those of the other glycoprotein hormones and confers its biochemical   specificity.  TSH is synthesized and secreted by the anterior pituitary in response  to a negative feedback mechanism involving concentrations of free  triiodothyronine (FT3) and free thyroxine (FT4). Additionally, the   hypothalamic tripeptide, thyrotropin-releasing hormone (TRH), directly   stimulates TSH production.  TSH interacts with specific cell receptors on the thyroid cell surface   and gives rise to two main actions. First, it stimulates cell reproduction   and hypertrophy. Second, it stimulates the thyroid gland to synthesize   and secrete T3 and T4.  In primary hypothyroidism, TSH levels will be elevated. In primary   hyperthyroidism, TSH levels will be low."
+      ],
+      "paragraph_SI": [
+        "Thyroid-stimulating hormone (TSH) is a glycoprotein hormone that   has 2 subunits. The alpha subunit is similar to those of follicle-stimulating hormone (FSH), human chorionic gonadotropin (hCG),   and luteinizing hormone (LH). The beta subunit is different from   those of the other glycoprotein hormones and confers its biochemical   specificity.  TSH is synthesized and secreted by the anterior pituitary in response  to a negative feedback mechanism involving concentrations of free  triiodothyronine (FT3) and free thyroxine (FT4). Additionally, the   hypothalamic tripeptide, thyrotropin-releasing hormone (TRH), directly   stimulates TSH production.  TSH interacts with specific cell receptors on the thyroid cell surface   and gives rise to two main actions. First, it stimulates cell reproduction   and hypertrophy. Second, it stimulates the thyroid gland to synthesize   and secrete T3 and T4.  In primary hypothyroidism, TSH levels will be elevated. In primary   hyperthyroidism, TSH levels will be low."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The ability to quantitate circulating levels of TSH is important in  evaluating thyroid function. It is especially useful in the differential   diagnosis of primary (thyroid) from secondary (pituitary) and tertiary   (hypothalamus) hypothyroidism. In primary hypothyroidism, TSH   levels are significantly elevated, while in secondary and tertiary  hypothyroidism, TSH levels are low or normal. Concentrations of 5.1-7.0 mIU/L are considered borderline hypothyroid.For primary hyperthyroidism, a high-sensitivity TSH assay is required   to detect the decrease in TSH with sufficient diagnostic accuracy.   This assay is an enhanced version of the sensitive TSH assay,   and has a sensitivity down to   0.002 mIU/L.  TRH stimulation differentiates all types of hypothyroidism by observing   the change in patient TSH levels in response to TRH. Typically, the   TSH response to TRH stimulation is exaggerated in cases of primary   hypothyroidism, absent in secondary hypothyroidism, and delayed in   tertiary hypothyroidism. Most individuals with primary hyperthyroidism   have TSH suppression and do not respond to TRH stimulation test   with an increase in TSH over their basal value. If the sensitive TSH result is ≤0.1 mIU/L, there is only   about a 1% chance the patient will respond to a TRH stimulation test.   Patients with sensitive TSH values between 0.1-0.4 mIU/L sometimes   respond, whereas patients with values ≥0.4 mIU/L will have a   complete or partial response to TRH."
+      ],
+      "paragraph_SI": [
+        "The ability to quantitate circulating levels of TSH is important in  evaluating thyroid function. It is especially useful in the differential   diagnosis of primary (thyroid) from secondary (pituitary) and tertiary   (hypothalamus) hypothyroidism. In primary hypothyroidism, TSH   levels are significantly elevated, while in secondary and tertiary  hypothyroidism, TSH levels are low or normal. Concentrations of 5.1-7.0 mIU/L are considered borderline hypothyroid.For primary hyperthyroidism, a high-sensitivity TSH assay is required   to detect the decrease in TSH with sufficient diagnostic accuracy.   This assay is an enhanced version of the sensitive TSH assay,   and has a sensitivity down to   0.002 mIU/L.  TRH stimulation differentiates all types of hypothyroidism by observing   the change in patient TSH levels in response to TRH. Typically, the   TSH response to TRH stimulation is exaggerated in cases of primary   hypothyroidism, absent in secondary hypothyroidism, and delayed in   tertiary hypothyroidism. Most individuals with primary hyperthyroidism   have TSH suppression and do not respond to TRH stimulation test   with an increase in TSH over their basal value. If the sensitive TSH result is ≤0.1 mIU/L, there is only   about a 1% chance the patient will respond to a TRH stimulation test.   Patients with sensitive TSH values between 0.1-0.4 mIU/L sometimes   respond, whereas patients with values ≥0.4 mIU/L will have a   complete or partial response to TRH."
+      ]
+    }
+  ]
+}

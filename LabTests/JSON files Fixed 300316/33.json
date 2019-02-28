@@ -1,0 +1,55 @@
+{
+  "dot_image": [
+    "Light Blue.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "D-dimer",
+      "paragraph_US": [
+        "D-dimer immunoassay is useful in the diagnosis of intravascular coagulation and fibrinolysis (ICF), also known as disseminated intravascular coagulation (DIC), especially when combined with clinical information and other laboratory test data (eg, platelet   count, assays of clottable fibrinogen and soluble fibrin monomer   complex; and clotting time assays, prothrombin time, and activated   partial thromboplastin time.)  Studies have also demonstrated the negative predictive value of  normal D-dimer assay results in excluding the diagnosis of acute  pulmonary embolism (PE) or deep vein thrombosis (DVT), particularly  when results of a sensitive D-dimer assay are combined with clinical  information, including pretest disease probability."
+      ],
+      "paragraph_SI": [
+        "D-dimer immunoassay is useful in the diagnosis of intravascular coagulation and fibrinolysis (ICF), also known as disseminated intravascular coagulation (DIC), especially when combined with clinical information and other laboratory test data (eg, platelet   count, assays of clottable fibrinogen and soluble fibrin monomer   complex; and clotting time assays, prothrombin time, and activated   partial thromboplastin time.)  Studies have also demonstrated the negative predictive value of  normal D-dimer assay results in excluding the diagnosis of acute  pulmonary embolism (PE) or deep vein thrombosis (DVT), particularly  when results of a sensitive D-dimer assay are combined with clinical  information, including pretest disease probability."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤250 ng/mL"
+      ],
+      "paragraph_SI": [
+        "<250 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "(Depends on the specific assay used)"
+      ],
+      "paragraph_SI": [
+        "(Depends on the specific assay used)"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Plasma D-dimer levels may be increased in individuals with clinical   or subclinical disseminated intravascular coagulation (DIC)/  intravascular coagulation and fibrinolysis (ICF), and in other conditions  associated with increased activation of the procoagulant and   fibrinolytic mechanisms such as with active or recent bleeding,   hematomas, trauma, surgical operation, or thromboembolism. Increased  D-dimer values can also occur in association with pregnancy, liver  disease, malignancy, inflammation, or chronic hypercoagulable  states."
+      ],
+      "paragraph_SI": [
+        "Plasma D-dimer levels may be increased in individuals with clinical   or subclinical disseminated intravascular coagulation (DIC)/  intravascular coagulation and fibrinolysis (ICF), and in other conditions  associated with increased activation of the procoagulant and   fibrinolytic mechanisms such as with active or recent bleeding,   hematomas, trauma, surgical operation, or thromboembolism. Increased  D-dimer values can also occur in association with pregnancy, liver  disease, malignancy, inflammation, or chronic hypercoagulable  states."
+      ]
+    },
+    {
+      "header": "",
+      "paragraph_US": [
+        "D-dimer values ≤250 ng/mL are normal. Within the reportable  reference range (110-250 ng/mL), measured values may reflect the  activation state of the procoagulant and fibrinolytic systems, but the  clinical utility of such quantitation is not established.  A normal D-dimer result (≤250 ng/mL) has a negative predictive   value of approximately 95% for the exclusion of acute PE when there  is low or moderate pretest PE probability. The negative predictive  value is probably somewhat less (approximately 90%) for excluding  low or moderate probability acute deep vein thrombosis (DVT).  Increased D-dimer values are abnormal but do not indicate a specific   disease state. D-dimer values may be increased as a result of clinical   or subclinical DIC/ICF, recent surgery, bleeding, trauma, or   thromboembolism; or in association with pregnancy, liver disease,   inflammation, malignancy, or hypercoagulable (procoagulant) states.   The degree of D-dimer increase does not definitely correlate with the   clinical severity of associated disease states."
+      ],
+      "paragraph_SI": [
+        "D-dimer values ≤250 µg/L are normal. Within the reportable  reference range (110-250 µg/L), measured values may reflect the  activation state of the procoagulant and fibrinolytic systems, but the  clinical utility of such quantitation is not established.  A normal D-dimer result (≤250 µg/L) has a negative predictive   value of approximately 95% for the exclusion of acute PE when there  is low or moderate pretest PE probability. The negative predictive  value is probably somewhat less (approximately 90%) for excluding  low or moderate probability acute deep vein thrombosis (DVT).  Increased D-dimer values are abnormal but do not indicate a specific   disease state. D-dimer values may be increased as a result of clinical   or subclinical DIC/ICF, recent surgery, bleeding, trauma, or   thromboembolism; or in association with pregnancy, liver disease,   inflammation, malignancy, or hypercoagulable (procoagulant) states.   The degree of D-dimer increase does not definitely correlate with the   clinical severity of associated disease states."
+      ]
+    }
+  ]
+}

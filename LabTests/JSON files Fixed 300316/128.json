@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "CSF.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Glucose (CSF)",
+      "paragraph_US": [
+        "Used for assessing possible central  nervous system (CNS) infection"
+      ],
+      "paragraph_SI": [
+        "Used for assessing possible central  nervous system (CNS) infection"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Spinal fluid glucose concentration should  be approximately 60% of the plasma/serum concentration and should be compared  with concurrently measured plasma/serum glucose for adequate clinical  interpretation."
+      ],
+      "paragraph_SI": [
+        "Spinal fluid glucose concentration should  be approximately 60% of the plasma/serum concentration and should be compared  with concurrently measured plasma/serum glucose for adequate clinical  interpretation."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "CSF glucose levels may be decreased in any  CNS infection, although levels are typically normal in viral meningitis, low in  bacterial meningitis, and may be normal or low in fungal meningitis.       CSF glucose levels are normally about 60% of blood glucose levels."
+      ],
+      "paragraph_SI": [
+        "CSF glucose levels may be decreased in any  CNS infection, although levels are typically normal in viral meningitis, low in  bacterial meningitis, and may be normal or low in fungal meningitis.       CSF glucose levels are normally about 60% of blood glucose levels."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Cerebrospinal fluid (CSF) is secreted by the choroid plexuses, around the  cerebral vessels, and along the walls of the ventricles of the brain, filling  the ventricles and cisternae and bathing the  spinal cord. CSF is reabsorbed into the blood through the arachnoid villi. CSF  turnover is rapid, exchanging about 4 times per day.       CSF glucose levels may be decreased due to consumption by microorganisms, impaired glucose  transport, or increased glycolysis.  Elevated CSF glucose levels are consistent with hyperglycemia."
+      ],
+      "paragraph_SI": [
+        "Cerebrospinal fluid (CSF) is secreted by the choroid plexuses, around the  cerebral vessels, and along the walls of the ventricles of the brain, filling  the ventricles and cisternae and bathing the  spinal cord. CSF is reabsorbed into the blood through the arachnoid villi. CSF  turnover is rapid, exchanging about 4 times per day.       CSF glucose levels may be decreased due to consumption by microorganisms, impaired glucose  transport, or increased glycolysis.  Elevated CSF glucose levels are consistent with hyperglycemia."
+      ]
+    }
+  ]
+}

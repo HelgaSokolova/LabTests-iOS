@@ -1,0 +1,55 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Red blood cell count (RBC)",
+      "paragraph_US": [
+        "An RBC (Erythrocyte count; Red blood cell count ) count is a blood test that tells how many red blood cells (RBCs) there is."
+      ],
+      "paragraph_SI": [
+        "An RBC (Erythrocyte count; Red blood cell count ) count is a blood test that tells how many red blood cells (RBCs) there is."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Male: 4.7 - 6.1 million cells/µL   \nFemale: 4.2 - 5.4 million cells/µL"
+      ],
+      "paragraph_SI": [
+        "Male: 4.7 - 6.1 million cells/µL   \nFemale: 4.2 - 5.4 million cells/µL"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Normal results vary in diffrent laboratory settings."
+      ],
+      "paragraph_SI": [
+        "Normal results vary in diffrent laboratory settings."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "RBCs contain hemoglobin, which carries oxygen. How much oxygen the tissues gets depends on how many RBCs there are and how well they work.  This test can help diagnose anemia and other conditions affecting red blood cells.  The RBC count is almost always part of the CBC (complete blood count) test."
+      ],
+      "paragraph_SI": [
+        "RBCs contain hemoglobin, which carries oxygen. How much oxygen the tissues gets depends on how many RBCs there are and how well they work.  This test can help diagnose anemia and other conditions affecting red blood cells.  The RBC count is almost always part of the CBC (complete blood count) test."
+      ]
+    },
+    {
+      "header": "",
+      "paragraph_US": [
+        "Damaged RBCs do not live as long as normal. Injury inside the blood vessels, such as that caused by artificial heart valves or peripheral blood vessel disease, can damage RBCs."
+      ],
+      "paragraph_SI": [
+        "Damaged RBCs do not live as long as normal. Injury inside the blood vessels, such as that caused by artificial heart valves or peripheral blood vessel disease, can damage RBCs."
+      ]
+    }
+  ]
+}

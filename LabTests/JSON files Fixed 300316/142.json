@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ethosuximide",
+      "paragraph_US": [
+        "Used for monitoring therapy, determining compliance or assessing toxicity"
+      ],
+      "paragraph_SI": [
+        "Used for monitoring therapy, determining compliance or assessing toxicity"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 40-100 µg/mL  Toxic concentration: ≥100 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 280-700 µmol/L  Toxic concentration: ≥700 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Dosage is guided by blood levels; the  therapeutic range for ethosuximide is 40 µg/mL to 100 µg/mL. Toxic concentration:  ≥100 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Dosage is guided by blood levels; the  therapeutic range for ethosuximide is 280 µmol/L to 700 µmol/L. Toxic concentration:  ≥700 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Ethosuximide is used in the  treatment of absence (petit mal)  seizures, although valproic acid and methsuximide are used more frequently for this condition.  Ethosuximide is completely absorbed  from the gastrointestinal tract, reaching a peak plasma concentration in 1 to 7 hours.       Approximately 10% to 20% of the drug is excreted unchanged in the urine; the remainder is  metabolized by hepatic microsomal enzymes.  The volume of distribution of ethosuximide is 0.7 L/kg, and its half-life is 40 to 50 hours.  Little ethosuximide circulating in the  blood is bound to protein.     Ethosuximide produces a barbiturate-like toxicity, characterized by central nervous system and  respiratory depression, nausea, and  vomiting when the blood level is ≥100 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Ethosuximide is used in the  treatment of absence (petit mal)  seizures, although valproic acid and methsuximide are used more frequently for this condition.  Ethosuximide is completely absorbed  from the gastrointestinal tract, reaching a peak plasma concentration in 1 to 7 hours.       Approximately 10% to 20% of the drug is excreted unchanged in the urine; the remainder is  metabolized by hepatic microsomal enzymes.  The volume of distribution of ethosuximide is 0.7 L/kg, and its half-life is 40 to 50 hours.  Little ethosuximide circulating in the  blood is bound to protein.     Ethosuximide produces a barbiturate-like toxicity, characterized by central nervous system and  respiratory depression, nausea, and  vomiting when the blood level is ≥700 µmol/L."
+      ]
+    }
+  ]
+}

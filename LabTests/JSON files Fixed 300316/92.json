@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "pCO2",
+      "paragraph_US": [
+        "pCO2 (Partial Pressure of Carbon Dioxide) reflects the the amount of carbon dioxide gas dissolved in the blood.   Indirectly, the pCO2 reflects the exchange of this gas through the lungs to the outside air."
+      ],
+      "paragraph_SI": [
+        "pCO2 (Partial Pressure of Carbon Dioxide) reflects the the amount of carbon dioxide gas dissolved in the blood.   Indirectly, the pCO2 reflects the exchange of this gas through the lungs to the outside air."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Males: 4.7-6.0 kPa  \nFemales: 4.3-5.7 kPa"
+      ],
+      "paragraph_SI": [
+        "Males: 4.7-6.0 kPa  \nFemales: 4.3-5.7 kPa"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Two factors each have a significant impact on the pCO2. The first is how rapidly and deeply the individual is breathing: Someone who is hyperventilating will \"blow off\" more CO2, leading to lower pCO2 levels. Someone who is holding their breath will retain CO2, leading to increased pCO2 levels   The second is the lungs capacity for freely exchanging CO2 across the alveolar membrane: With pulmonary edema, there is an extra layer of fluid in the alveoli that interferes with the lungs' ability to get rid of CO2. This leads to a rise in pCO2. With an acute asthmatic attack, even though the alveoli are functioning normally, there may be enough upper and middle airway obstruction to block alveolar ventilation, leading to CO2 retention."
+      ],
+      "paragraph_SI": [
+        "Two factors each have a significant impact on the pCO2. The first is how rapidly and deeply the individual is breathing: Someone who is hyperventilating will \"blow off\" more CO2, leading to lower pCO2 levels. Someone who is holding their breath will retain CO2, leading to increased pCO2 levels   The second is the lungs capacity for freely exchanging CO2 across the alveolar membrane: With pulmonary edema, there is an extra layer of fluid in the alveoli that interferes with the lungs' ability to get rid of CO2. This leads to a rise in pCO2. With an acute asthmatic attack, even though the alveoli are functioning normally, there may be enough upper and middle airway obstruction to block alveolar ventilation, leading to CO2 retention."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Increased pCO2 is caused by: Pulmonary edema or obstructive lung disease (e.g. COPD)"
+      ],
+      "paragraph_SI": [
+        "Increased pCO2 is caused by: Pulmonary edema or obstructive lung disease (e.g. COPD)"
+      ]
+    }
+  ]
+}

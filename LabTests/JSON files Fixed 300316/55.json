@@ -1,0 +1,55 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Adrenocorticotropic hormone (ACTH)",
+      "paragraph_US": [
+        "Useful for determining the cause of hypercortisolism and hypocortisolism states"
+      ],
+      "paragraph_SI": [
+        "Useful for determining the cause of hypercortisolism and hypocortisolism states"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "10-60 pg/mL (a.m. draws)  No established reference values for p.m. draws."
+      ],
+      "paragraph_SI": [
+        "10-60 ng/L (a.m. draws)  No established reference values for p.m. draws."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Adrenocorticotropic hormone (ACTH), the primary stimulator of   adrenal cortisol production, is synthesized by the pituitary in   response to corticotropin-releasing hormone (CRH), which is   released by the hypothalamus. Plasma ACTH and cortisol levels   exhibit peaks (6:00-8:00 am) and nadirs (11:00 pm).  Cortisol, the main glucocorticoid, plays a central role in glucose   metabolism and in the body's response to stress. Only a small   percentage of circulating cortisol is biologically active (free form),   with the majority of cortisol inactive (protein bound). Cortisol is   inactivated in the liver and excreted in the urine as conjugated   compounds (largely 17-hydroxysteroids). Urine free cortisol levels   reflect circulating free plasma cortisol levels.Hypercortisolism: Cushings disease (pituitary ACTH-producing   tumor).  Ectopic ACTH-producing tumor.  Ectopic CRH.  Adrenal cortisol-producing tumor.  Adrenal hyperplasia (non-ACTH dependent,   autonomous cortisol-producing adrenal nodules)"
+      ],
+      "paragraph_SI": [
+        "Adrenocorticotropic hormone (ACTH), the primary stimulator of   adrenal cortisol production, is synthesized by the pituitary in   response to corticotropin-releasing hormone (CRH), which is   released by the hypothalamus. Plasma ACTH and cortisol levels   exhibit peaks (6:00-8:00 am) and nadirs (11:00 pm).  Cortisol, the main glucocorticoid, plays a central role in glucose   metabolism and in the body's response to stress. Only a small   percentage of circulating cortisol is biologically active (free form),   with the majority of cortisol inactive (protein bound). Cortisol is   inactivated in the liver and excreted in the urine as conjugated   compounds (largely 17-hydroxysteroids). Urine free cortisol levels   reflect circulating free plasma cortisol levels.Hypercortisolism: Cushings disease (pituitary ACTH-producing   tumor).  Ectopic ACTH-producing tumor.  Ectopic CRH.  Adrenal cortisol-producing tumor.  Adrenal hyperplasia (non-ACTH dependent,   autonomous cortisol-producing adrenal nodules)"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Hypocortisolism: Addison's disease (primary adrenal insufficiency).  Secondary adrenal insufficiency:   Pituitary insufficiency. Hypothalamic insufficiency.  Congenital adrenal hyperplasia -defects in enzymes involved  in cortisol synthesis."
+      ],
+      "paragraph_SI": [
+        "Hypocortisolism: Addison's disease (primary adrenal insufficiency).  Secondary adrenal insufficiency:   Pituitary insufficiency. Hypothalamic insufficiency.  Congenital adrenal hyperplasia -defects in enzymes involved  in cortisol synthesis."
+      ]
+    },
+    {
+      "header": "",
+      "paragraph_US": [
+        "In a patient with hypocortisolism, an elevated ACTH indicates  primary adrenal insufficiency, whereas a value that is not elevated  is consistent with secondary adrenal insufficiency from a pituitary  or hypothalamic cause.  In a patient with hypercortisolism (Cushings syndrome), a   suppressed ACTH value is consistent with a cortisol-producing   adrenal adenoma or carcinoma, primary adrenal micronodular   hyperplasia, or exogenous corticosteroid use.  Normal or elevated ACTH in a patient with Cushings syndrome  puts the patient in the ACTH-dependent Cushings syndrome  category. This is due to either an ACTH-producing pituitary   adenoma or ectopic production of ACTH (bronchial carcinoid,   small cell lung cancer, etc). Further diagnostic studies such as   dexamethasone suppression testing, CRH-stimulation testing,   petrosal sinus sampling, and imaging studies are usually necessary   to define the ACTH source."
+      ],
+      "paragraph_SI": [
+        "In a patient with hypocortisolism, an elevated ACTH indicates  primary adrenal insufficiency, whereas a value that is not elevated  is consistent with secondary adrenal insufficiency from a pituitary  or hypothalamic cause.  In a patient with hypercortisolism (Cushings syndrome), a   suppressed ACTH value is consistent with a cortisol-producing   adrenal adenoma or carcinoma, primary adrenal micronodular   hyperplasia, or exogenous corticosteroid use.  Normal or elevated ACTH in a patient with Cushings syndrome  puts the patient in the ACTH-dependent Cushings syndrome  category. This is due to either an ACTH-producing pituitary   adenoma or ectopic production of ACTH (bronchial carcinoid,   small cell lung cancer, etc). Further diagnostic studies such as   dexamethasone suppression testing, CRH-stimulation testing,   petrosal sinus sampling, and imaging studies are usually necessary   to define the ACTH source."
+      ]
+    }
+  ]
+}

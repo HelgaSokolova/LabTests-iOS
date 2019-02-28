@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Base excess (BE)",
+      "paragraph_US": [
+        "The words \"base deficit\" and \"base excess\" are equivalent and are generally used interchangeably. The only difference is that base deficit is expressed as a positive number and base excess is expressed as a negative number."
+      ],
+      "paragraph_SI": [
+        "The words \"base deficit\" and \"base excess\" are equivalent and are generally used interchangeably. The only difference is that base deficit is expressed as a positive number and base excess is expressed as a negative number."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "-3 to +3"
+      ],
+      "paragraph_SI": [
+        "-3 to +3"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Whenever there is an accumulation of metabolically-produced acids, the body attempts to neutralize those acids to maintain a constant acid-base balance.  This neutralizing is achieved by using up various \"buffering\" compounds in the blood stream, to bind the acids, disallowing them from contributing to more acidity.  About half of these buffering compounds come from HCO3, and the other half from plasma and red blood cell proteins and phosphates."
+      ],
+      "paragraph_SI": [
+        "Whenever there is an accumulation of metabolically-produced acids, the body attempts to neutralize those acids to maintain a constant acid-base balance.  This neutralizing is achieved by using up various \"buffering\" compounds in the blood stream, to bind the acids, disallowing them from contributing to more acidity.  About half of these buffering compounds come from HCO3, and the other half from plasma and red blood cell proteins and phosphates."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Comparison of the base excess with the reference range assists in determining whether an acid/base disturbance is caused by a respiratory, metabolic, or mixed metabolic/respiratory problem.   A base excess value exceeding +3 indicates that a patient has blood that requires abnormally increased amounts of acid to return the pH to neutral, thus indicating alkalosis. Whereas a value below -3 usually indicates that the patient is acidotic, i.e. excess acid needs to be removed from the blood to return the pH back to normal."
+      ],
+      "paragraph_SI": [
+        "Comparison of the base excess with the reference range assists in determining whether an acid/base disturbance is caused by a respiratory, metabolic, or mixed metabolic/respiratory problem.   A base excess value exceeding +3 indicates that a patient has blood that requires abnormally increased amounts of acid to return the pH to neutral, thus indicating alkalosis. Whereas a value below -3 usually indicates that the patient is acidotic, i.e. excess acid needs to be removed from the blood to return the pH back to normal."
+      ]
+    }
+  ]
+}

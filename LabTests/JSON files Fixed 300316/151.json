@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Sirolimus",
+      "paragraph_US": [
+        "Used in monitoring whole blood sirolimus  concentration during therapy, particularly in individuals coadministered CYP3A4  substrates, inhibitors, or inducers. Also used to adjust dose to optimize  immunosuppression while minimizing toxicity and to evaluate patient compliance  in general"
+      ],
+      "paragraph_SI": [
+        "Used in monitoring whole blood sirolimus  concentration during therapy, particularly in individuals coadministered CYP3A4  substrates, inhibitors, or inducers. Also used to adjust dose to optimize  immunosuppression while minimizing toxicity and to evaluate patient compliance  in general"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "4-20 ng/mL"
+      ],
+      "paragraph_SI": [
+        "3-16 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal  response to sirolimus with trough whole blood levels 4 ng/ml to 20 ng/mL.  Preferred therapeutic ranges may vary by transplant type, protocol, and  comedications.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before a scheduled dose). Blood drawn at other times will yield higher results."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal  response to sirolimus with trough whole blood levels 3 – 16 nmol/L.  Preferred therapeutic ranges may vary by transplant type, protocol, and  comedications.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before a scheduled dose). Blood drawn at other times will yield higher results."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Sirolimus is a macrolide antibiotic,  isolated from Streptomyces  hygroscopicus, with potent effects including suppression of T-and B-cell proliferation,  and antineoplastic and antifungal activity. Adverse effects of sirolimus are  generally concentration-dependent, making therapeutic drug monitoring  essential.     Trough sirolimus concentrations are generally measured every 5 days. Target  concentrations vary depending on concomitant therapy, time posttransplant, the  desired degree of immunosuppression, and adverse effects. When given with  cyclosporine or tacrolimus, the therapeutic range for sirolimus is generally  between 4 ng/dL to 12 ng/dL, with minimal added benefit for concentrations  >10 ng/dL. When sirolimus is given without calcineurin inhibitors, higher  trough levels are needed; usually 12 ng/dL to 20 ng/dL, but occasionally up to  20 ng/mL to 30 ng/mL."
+      ],
+      "paragraph_SI": [
+        "Sirolimus is a macrolide antibiotic,  isolated from Streptomyces  hygroscopicus, with potent effects including suppression of T-and B-cell proliferation,  and antineoplastic and antifungal activity. Adverse effects of sirolimus are  generally concentration-dependent, making therapeutic drug monitoring  essential.     Trough sirolimus concentrations are generally measured every 5 days. Target  concentrations vary depending on concomitant therapy, time posttransplant, the  desired degree of immunosuppression, and adverse effects. When given with  cyclosporine or tacrolimus, the therapeutic range for sirolimus is generally  between 3 – 10 nmol/L, with minimal added benefit for concentrations  >8 nmol/L. When sirolimus is given without calcineurin inhibitors, higher  trough levels are needed; usually 10 – 16 ng/dL, but occasionally up to  16 – 24 ng/mL."
+      ]
+    }
+  ]
+}

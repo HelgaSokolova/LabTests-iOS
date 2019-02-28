@@ -1,0 +1,55 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Potassium (K)",
+      "dot_image": "Gold.png",
+      "paragraph_US": [
+        "Potassium is important in evaluation of electrolyte balance, cardiac arrhythmia, muscular weakness, hepatic encephalopathy and renal failure. Potassium should be monitored during treatment of many conditions but especially in diabetic ketoacidosis and any intravenous therapy for fluid replacement."
+      ],
+      "paragraph_SI": [
+        "Potassium is important in evaluation of electrolyte balance, cardiac arrhythmia, muscular weakness, hepatic encephalopathy and renal failure. Potassium should be monitored during treatment of many conditions but especially in diabetic ketoacidosis and any intravenous therapy for fluid replacement."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "3.6-5.2 mEq/L"
+      ],
+      "paragraph_SI": [
+        "3.6-5.2 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Potassium (K) is the major cation of the intracellular fluid. Disturbance of potassium homeostasis has serious consequences.\n",
+        "Decreases in extracellular potassium are characterized by muscle weakness, irritability, and eventual paralysis. Cardiac effects include tachycardia, other cardiac conduction abnormalities that are apparent by electrocardiographic examination, and eventual cardiac arrest.\n",
+        "Hypokalemia (low K) is common in vomiting, diarrhea, alcoholism, and folic acid deficiency. Additionally, >90% of hypertensive patients with aldosteronism have hypokalemia.\n",
+        "Abnormally high extracellular K levels produce symptoms of mental confusion; weakness, numbness and tingling of the extremities; weakness of the respiratory muscles; flaccid paralysis of the extremities; slowed heart rate; and eventually peripheral vascular collapse and cardiac arrest.  Hyperkalemia may be seen in end-stage renal failure, hemolysis, trauma, Addison's disease, metabolic acidosis, acute starvation, dehydration, and with rapid K infusion."
+      ],
+      "paragraph_SI": [
+        "Potassium (K) is the major cation of the intracellular fluid. Disturbance of potassium homeostasis has serious consequences.\n",
+        "Decreases in extracellular potassium are characterized by muscle weakness, irritability, and eventual paralysis. Cardiac effects include tachycardia, other cardiac conduction abnormalities that are apparent by electrocardiographic examination, and eventual cardiac arrest.\n",
+        "Hypokalemia (low K) is common in vomiting, diarrhea, alcoholism, and folic acid deficiency. Additionally, >90% of hypertensive patients with aldosteronism have hypokalemia.\n",
+        "Abnormally high extracellular K levels produce symptoms of mental confusion; weakness, numbness and tingling of the extremities; weakness of the respiratory muscles; flaccid paralysis of the extremities; slowed heart rate; and eventually peripheral vascular collapse and cardiac arrest.  Hyperkalemia may be seen in end-stage renal failure, hemolysis, trauma, Addison's disease, metabolic acidosis, acute starvation, dehydration, and with rapid K infusion."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Potassium levels <3.0 mEq/L are associated with marked neuromuscular symptoms and are evidence of a critical degree of intracellular depletion. Potassium levels <2.5 mEq/L are potentially life-threatening.\n",
+        "High potassium can be an acute medical emergency, particularly if the potassium increases over a short period of time. Potassium values >6.0 mEq/L are potentially life threatening. Symptoms are typically apparent at potassium levels >7.5 mEq/L; levels >10.0 mEq/L are, in most cases fatal."
+      ],
+      "paragraph_SI": [
+        "Potassium levels <3.0 mmol/L are associated with marked neuromuscular symptoms and are evidence of a critical degree of intracellular depletion. Potassium levels <2.5 mmol/L are potentially life-threatening.",
+        "High potassium can be an acute medical emergency, particularly if the potassium increases over a short period of time. Potassium values >6.0 mmol/L are potentially life threatening. Symptoms are typically apparent at potassium levels >7.5 mmol/L; levels >10.0 mmol/L are, in most cases fatal."
+      ]
+    }
+  ]
+}

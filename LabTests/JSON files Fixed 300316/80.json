@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Mean cell hemoglobin concentration (MCHC)",
+      "paragraph_US": [
+        "The mean corpuscular hemoglobin concentration, or MCHC, is a measure of the concentration of hemoglobin in a given volume of packed red blood cell."
+      ],
+      "paragraph_SI": [
+        "The mean corpuscular hemoglobin concentration, or MCHC, is a measure of the concentration of hemoglobin in a given volume of packed red blood cell."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "32-36 g/dL"
+      ],
+      "paragraph_SI": [
+        "320-360 g/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "It is reported as part of a standard complete blood count (CBC).  It is calculated by dividing the hemoglobin by the hematocrit."
+      ],
+      "paragraph_SI": [
+        "It is reported as part of a standard complete blood count (CBC).  It is calculated by dividing the hemoglobin by the hematocrit."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "It is diminished (hypochromic) in microcytic anemias, and normal (normochromic) in macrocytic anemias (due to larger cell size, though the hemoglobin amount or MCH is high, the concentration remains normal). MCHC is elevated in hereditary spherocytosis.  This count is used to give a rough guide to what shade of red, RBC will be (paler equals lower than the standard)"
+      ],
+      "paragraph_SI": [
+        "It is diminished (hypochromic) in microcytic anemias, and normal (normochromic) in macrocytic anemias (due to larger cell size, though the hemoglobin amount or MCH is high, the concentration remains normal). MCHC is elevated in hereditary spherocytosis.  This count is used to give a rough guide to what shade of red, RBC will be (paler equals lower than the standard)"
+      ]
+    }
+  ]
+}

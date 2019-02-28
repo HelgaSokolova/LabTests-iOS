@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "White Blood Cell Count (WBC)",
+      "paragraph_US": [
+        "A WBC count (Leukocyte count, White blood cell count ) is a blood test to measure the number of white blood cells (WBCs)."
+      ],
+      "paragraph_SI": [
+        "A WBC count (Leukocyte count, White blood cell count ) is a blood test to measure the number of white blood cells (WBCs)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "4,500-10,000 white blood cells/µL"
+      ],
+      "paragraph_SI": [
+        "4,500-10,000 white blood cells/µL"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "White blood cells help fight infections. They are also called leukocytes. There are five major types of white blood cells: Basophils, eosinophils, lymphocytes (T cells and B cells), monocytes and neutrophils."
+      ],
+      "paragraph_SI": [
+        "White blood cells help fight infections. They are also called leukocytes. There are five major types of white blood cells: Basophils, eosinophils, lymphocytes (T cells and B cells), monocytes and neutrophils."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A low number of WBCs is called leukopenia. It may be due to:  Bone marrow failure (for example, due to infection, tumor, or abnormal scarring), collagen-vascular diseases (such as lupus erythematosus), disease of the liver or spleen or radiation."
+      ],
+      "paragraph_SI": [
+        "A low number of WBCs is called leukopenia. It may be due to:  Bone marrow failure (for example, due to infection, tumor, or abnormal scarring), collagen-vascular diseases (such as lupus erythematosus), disease of the liver or spleen or radiation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dot_image": [
+    "Light Blue.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "INR",
+      "paragraph_US": [
+        "Used for monitoring intensity of oral anticoagulant therapy."
+      ],
+      "paragraph_SI": [
+        "Used for monitoring intensity of oral anticoagulant therapy."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.9-1.2"
+      ],
+      "paragraph_SI": [
+        "0.9-1.2"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        " The INR is used only for patients on stable oral anticoagulant therapy. It makes no significant contribution to the diagnosis or  treatment of patients whose PT is prolonged for other reasons. The INR is the most common test used for monitoring oral anticoagulant  therapy (warfarin or Coumadin, and congeners).Oral anticoagulants   reduce the activities of the four vitamin K-dependent procoagulant   The INR is a standardization of protrombin time (PT) because there are numerous thromboplastins and coagulation testing instruments, and they all  vary in their responsiveness to the concentrations or activities of  coagulation proteins.  The International Normalized Ratio (INR) is a   method of standardizing PT reporting for monitoring the intensity of   oral anticoagulant therapy.  The INR is the ratio of the patient's PT to   the mean normal (reference) PT that would have been obtained if   the WHO reference thromboplastin had been used."
+      ],
+      "paragraph_SI": [
+        " The INR is used only for patients on stable oral anticoagulant therapy. It makes no significant contribution to the diagnosis or  treatment of patients whose PT is prolonged for other reasons. The INR is the most common test used for monitoring oral anticoagulant  therapy (warfarin or Coumadin, and congeners).Oral anticoagulants   reduce the activities of the four vitamin K-dependent procoagulant   The INR is a standardization of protrombin time (PT) because there are numerous thromboplastins and coagulation testing instruments, and they all  vary in their responsiveness to the concentrations or activities of  coagulation proteins.  The International Normalized Ratio (INR) is a   method of standardizing PT reporting for monitoring the intensity of   oral anticoagulant therapy.  The INR is the ratio of the patient's PT to   the mean normal (reference) PT that would have been obtained if   the WHO reference thromboplastin had been used."
+      ]
+    }
+  ]
+}

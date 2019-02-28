@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Amitriptyline",
+      "paragraph_US": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 80-200 ng/mL  Toxic concentration: ≥1,000 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 288-720 nmol/L  Toxic concentration: ≥3,600 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response to amitriptyline when combined serum  levels of amitriptyline and nortriptyline are between 80 ng/mL and 200 ng/mL.  Risk of toxicity is increased with combined levels ≥1,000 ng/mL.     Most individuals display optimal response to nortriptyline with serum levels  between 70 ng/mL and 170 ng/mL. Risk of toxicity is increased with  nortriptyline levels ≥500 ng/mL.     Some individuals may respond well outside of these ranges, or may display  toxicity within the therapeutic range, thus interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response to amitriptyline when combined serum  levels of amitriptyline and nortriptyline are between 288 nmol/L and 720 nmol/L.  Risk of toxicity is increased with combined levels ≥3,600 nmol/L.     Most individuals display optimal response to nortriptyline with serum levels  between 252 nmol/L and 612 nmol/L. Risk of toxicity is increased with  nortriptyline levels ≥1800 nmol/L.     Some individuals may respond well outside of these ranges, or may display  toxicity within the therapeutic range, thus interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Amitriptyline is a tricyclic antidepressant (TCA) that is metabolized to  nortriptyline, which has similar pharmacologic activity. The relative blood  levels of amitriptyline and nortriptyline are highly variable among patients.  Amitriptyline is the drug of choice in treatment of depression when the side  effect of mild sedation is desirable. Nortriptyline is used when its  stimulatory side effect is considered to be of clinical advantage.     Amitriptyline displays major cardiac toxicity when the concentration of  amitriptyline and nortriptyline is in excess of 1000 ng/mL, characterized by  QRS widening leading to ventricular tachycardia and asystole. In some patients,  toxicity may manifest at lower concentrations."
+      ],
+      "paragraph_SI": [
+        "Amitriptyline is a tricyclic antidepressant (TCA) that is metabolized to  nortriptyline, which has similar pharmacologic activity. The relative blood  levels of amitriptyline and nortriptyline are highly variable among patients.  Amitriptyline is the drug of choice in treatment of depression when the side  effect of mild sedation is desirable. Nortriptyline is used when its  stimulatory side effect is considered to be of clinical advantage.     Amitriptyline displays major cardiac toxicity when the concentration of  amitriptyline and nortriptyline is in excess of 1000 ng/mL, characterized by  QRS widening leading to ventricular tachycardia and asystole. In some patients,  toxicity may manifest at lower concentrations."
+      ]
+    }
+  ]
+}

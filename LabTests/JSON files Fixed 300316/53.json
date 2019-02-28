@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Thyroperoxidase Antibodies (TPO-Ab, anti-TPO)",
+      "paragraph_US": [
+        "Used in the diagnosis of thyroid autoimmune disorders, differentiating thyroid autoimmune disorders from non-autoimmune  goiter or hypothyroidism and as a diagnostic tool in deciding whether to treat a patient who has   subclinical hypothyroidism."
+      ],
+      "paragraph_SI": [
+        "Used in the diagnosis of thyroid autoimmune disorders, differentiating thyroid autoimmune disorders from non-autoimmune  goiter or hypothyroidism and as a diagnostic tool in deciding whether to treat a patient who has   subclinical hypothyroidism."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<9.0 IU/mL"
+      ],
+      "paragraph_SI": [
+        "<9.0 IU/mL"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Thyroperoxidase (TPO) is an enzyme involved in thyroid hormone   synthesis, catalyzing the oxidation of iodide on tyrosine residues in   thyroglobulin for the synthesis of triiodothyronine (T3) and thyroxine   (tetraiodothyronine; T4). TPO is a membrane-associated   hemoglycoprotein expressed only in thyrocytes and is 1 of the most   important thyroid gland antigens.   Disorders of the thyroid gland are frequently caused by autoimmune   mechanisms with the production of autoantibodies. Anti-TPO antibodies   activate complement and are thought to be significantly involved in   thyroid dysfunction and the pathogenesis of hypothyroidism.  The determination of TPO antibody levels is the most sensitive test for   detecting autoimmune thyroid disease (eg, Hashimoto thyroiditis,   idiopathic myxedema, and Graves disease) and detectable   concentrations of anti-TPO antibodies are observed in most patients with  these disorders. The highest TPO antibody levels are observed in   patients suffering from Hashimoto thyroiditis. In this disease, the   prevalence of TPO antibodies is about 90% of cases, confirming the   autoimmune origin of the disease. These autoantibodies also frequently  occur (60%-80%) in the course of Graves disease.  In patients with subclinical hypothyroidism, the presence of TPO   antibodies is associated with an increased risk of developing overt   hypothyroidism. Many clinical endocrinologists use the TPO antibody   test as a diagnostic tool in deciding whether to treat a patient with   subclinical hypothyroidism."
+      ],
+      "paragraph_SI": [
+        "Thyroperoxidase (TPO) is an enzyme involved in thyroid hormone   synthesis, catalyzing the oxidation of iodide on tyrosine residues in   thyroglobulin for the synthesis of triiodothyronine (T3) and thyroxine   (tetraiodothyronine; T4). TPO is a membrane-associated   hemoglycoprotein expressed only in thyrocytes and is 1 of the most   important thyroid gland antigens.   Disorders of the thyroid gland are frequently caused by autoimmune   mechanisms with the production of autoantibodies. Anti-TPO antibodies   activate complement and are thought to be significantly involved in   thyroid dysfunction and the pathogenesis of hypothyroidism.  The determination of TPO antibody levels is the most sensitive test for   detecting autoimmune thyroid disease (eg, Hashimoto thyroiditis,   idiopathic myxedema, and Graves disease) and detectable   concentrations of anti-TPO antibodies are observed in most patients with  these disorders. The highest TPO antibody levels are observed in   patients suffering from Hashimoto thyroiditis. In this disease, the   prevalence of TPO antibodies is about 90% of cases, confirming the   autoimmune origin of the disease. These autoantibodies also frequently  occur (60%-80%) in the course of Graves disease.  In patients with subclinical hypothyroidism, the presence of TPO   antibodies is associated with an increased risk of developing overt   hypothyroidism. Many clinical endocrinologists use the TPO antibody   test as a diagnostic tool in deciding whether to treat a patient with   subclinical hypothyroidism."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Values >9.0 IU/mL generally are associated with autoimmune   thyroiditis, but elevations are also seen in other autoimmune   diseases.  In patients with subclinical hypothyroidism, the presence of TPO   antibodies predicts a higher risk of developing overt   hypothyroidism: 4.3% per year versus 2.1% per year in   antibody-negative individuals. Furthermore, it raises the concern   that such patients may be at  increased risk of developing other   autoimmune diseases, such as adrenal insufficiency and type 1   diabetes.  The frequency of detectable anti-TPO observed in nonimmune   thyroid disease is similar to the 10% to 12% observed in a healthy   population with normal thyroid function.  There is a good association between the presence of   autoantibodies against TPO and histological thyroiditis.   However, in view of the extensive regenerative capacity of the   thyroid under the influence of TSH, chronic thyroid disease may   be present for years before the clinical manifestation of   hypothyroidism becomes evident, if ever."
+      ],
+      "paragraph_SI": [
+        "Values >9.0 IU/mL generally are associated with autoimmune   thyroiditis, but elevations are also seen in other autoimmune   diseases.  In patients with subclinical hypothyroidism, the presence of TPO   antibodies predicts a higher risk of developing overt   hypothyroidism: 4.3% per year versus 2.1% per year in   antibody-negative individuals. Furthermore, it raises the concern   that such patients may be at  increased risk of developing other   autoimmune diseases, such as adrenal insufficiency and type 1   diabetes.  The frequency of detectable anti-TPO observed in nonimmune   thyroid disease is similar to the 10% to 12% observed in a healthy   population with normal thyroid function.  There is a good association between the presence of   autoantibodies against TPO and histological thyroiditis.   However, in view of the extensive regenerative capacity of the   thyroid under the influence of TSH, chronic thyroid disease may   be present for years before the clinical manifestation of   hypothyroidism becomes evident, if ever."
+      ]
+    }
+  ]
+}

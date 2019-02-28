@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Albumin",
+      "paragraph_US": [
+        "Plasma or serum levels of albumin are frequently used to  assess nutritional status."
+      ],
+      "paragraph_SI": [
+        "Plasma or serum levels of albumin are frequently used to  assess nutritional status."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "3.5-5.0 g/dL"
+      ],
+      "paragraph_SI": [
+        "35-50 g/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Albumin is a carbohydrate-free protein, which constitutes 55-65%   of total plasma protein. It maintains oncotic plasma pressure, is   involved in the transport and storage of a wide variety of ligands,   and is a source of endogenous amino acids. Albumin binds and   solubilizes various compounds, including bilirubin, calcium,   long-chain fatty acids, toxic heavy metal ions, and numerous   pharmaceuticals.  Hypoalbuminemia is caused by several factors: impaired synthesis  due either to liver disease (primary) or due to diminished protein   intake (secondary); increased catabolism as a result of tissue   damage and inflammation; malabsorption of amino acids; and increased renal excretion (e.g. nephrotic syndrome)."
+      ],
+      "paragraph_SI": [
+        "Albumin is a carbohydrate-free protein, which constitutes 55-65%   of total plasma protein. It maintains oncotic plasma pressure, is   involved in the transport and storage of a wide variety of ligands,   and is a source of endogenous amino acids. Albumin binds and   solubilizes various compounds, including bilirubin, calcium,   long-chain fatty acids, toxic heavy metal ions, and numerous   pharmaceuticals.  Hypoalbuminemia is caused by several factors: impaired synthesis  due either to liver disease (primary) or due to diminished protein   intake (secondary); increased catabolism as a result of tissue   damage and inflammation; malabsorption of amino acids; and increased renal excretion (e.g. nephrotic syndrome)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Hyperalbuminemia is of little diagnostic significance except in the case  of dehydration. When plasma or serum albumin values fall below 2.0  g/dL, edema is usually present."
+      ],
+      "paragraph_SI": [
+        "Hyperalbuminemia is of little diagnostic significance except in the case  of dehydration. When plasma or serum albumin values fall below 2 g/L, edema is usually present."
+      ]
+    }
+  ]
+}

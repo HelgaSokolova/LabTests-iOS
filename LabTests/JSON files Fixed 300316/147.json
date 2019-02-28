@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Phenytoin",
+      "paragraph_US": [
+        "Used in monitoring for appropriate  therapeutic concentration or assessing toxicity."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring for appropriate  therapeutic concentration or assessing toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Phenytoin, total:  \nTherapeutic concentration: 10.0-20.0 µg/mL  \nToxic concentration: ≥30.0 µg/mL \n\nPhenytoin, free:  \nTherapeutic concentration: 1.0-2.0 µg/mL  \nToxic concentration: ≥2.5 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Phenytoin, total:  \nTherapeutic concentration: 40.0-80.0 µmol/L  \nToxic concentration: ≥120.0 µmol/L  \n\nPhenytoin, free:  \nTherapeutic concentration: 4.0-8.0 µmol/L  \nToxic concentration: ≥10.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Dose should be adjusted to achieve  steady-state blood concentration of free phenytoin between 1 µg/mL to 2  µg/mL. In patients with renal failure, total phenytoin is likely to be less  than the therapeutic range of 10 µg/mL to 20 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Dose should be adjusted to achieve  steady-state blood concentration of free phenytoin between 4 to 8 µmol/L. In patients with renal failure, total phenytoin is likely to be less  than the therapeutic range of 40 to 80 µmol/L."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Phenytoin is the drug of choice to treat  and prevent tonic-clonic and psychomotor seizures. If phenytoin alone will not  prevent seizure activity, coadministration with phenobarbital is usually  effective.     Initial therapy with phenytoin is started at doses of 100 mg/day to 300 mg/day  for adults or 4 mg/kg/day for children. Because absorption is variable and the  drug exhibits zero-order (nonlinear) kinetics, dose must be adjusted within 5  days using blood concentration to guide therapy. Oral bioavailability ranges  from 80% to 95% and is diet-dependent.     Phenytoin exhibits zero-order pharmacokinetics; the rate of clearance of the  drug is dependent upon the concentration of drug present. Therefore, phenytoin  does not have a classical half-life like other drugs, since it varies with  blood concentration. At a blood concentration of 15 µg/mL, approximately half  the drug in the patient's body will be eliminated in 20 hours. As the blood  concentration drops, the rate at which phenytoin is excreted increases.     Phenytoin has a volume of distribution of 0.65 L/kg, and is highly protein  bound (90%), mostly to albumin.     Phenytoin pharmacokinetics are significantly affected by a number of other  drugs. Phenytoin and phenobarbital are frequently co-administered. Induction of  the cytochrome P450 enzyme system by phenobarbital will increase the rate at  which phenytoin is metabolized and cleared. At steady-state, enzyme induction  will increase the rate of clearance of phenytoin such that the dose must be  increased approximately 30% to maintain therapeutic levels.     Uremia has a similar effect on phenytoin protein binding. Dosage must be  reduced to avoid toxicity.     The free phenytoin level is the best indicator of adequate therapy. Ten percent  of the phenytoin circulates in the free, unbound form; thus the reference range  for free phenytoin is 1 µg/mL to 2 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Phenytoin is the drug of choice to treat  and prevent tonic-clonic and psychomotor seizures. If phenytoin alone will not  prevent seizure activity, coadministration with phenobarbital is usually  effective.     Initial therapy with phenytoin is started at doses of 100 mg/day to 300 mg/day  for adults or 4 mg/kg/day for children. Because absorption is variable and the  drug exhibits zero-order (nonlinear) kinetics, dose must be adjusted within 5  days using blood concentration to guide therapy. Oral bioavailability ranges  from 80% to 95% and is diet-dependent.     Phenytoin exhibits zero-order pharmacokinetics; the rate of clearance of the  drug is dependent upon the concentration of drug present. Therefore, phenytoin  does not have a classical half-life like other drugs, since it varies with  blood concentration. At a blood concentration of 15 µg/mL, approximately half  the drug in the patient's body will be eliminated in 20 hours. As the blood  concentration drops, the rate at which phenytoin is excreted increases.     Phenytoin has a volume of distribution of 0.65 L/kg, and is highly protein  bound (90%), mostly to albumin.     Phenytoin pharmacokinetics are significantly affected by a number of other  drugs. Phenytoin and phenobarbital are frequently co-administered. Induction of  the cytochrome P450 enzyme system by phenobarbital will increase the rate at  which phenytoin is metabolized and cleared. At steady-state, enzyme induction  will increase the rate of clearance of phenytoin such that the dose must be  increased approximately 30% to maintain therapeutic levels.     Uremia has a similar effect on phenytoin protein binding. Dosage must be  reduced to avoid toxicity.     The free phenytoin level is the best indicator of adequate therapy. Ten percent  of the phenytoin circulates in the free, unbound form; thus the reference range  for free phenytoin is 4 to 8 µmol/L."
+      ]
+    }
+  ]
+}

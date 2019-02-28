@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Lactate",
+		 "paragraph_US": [ "Diagnosing and monitoring patients with lactic acidosis."],
+		"dot_image": "Gray.png",
+		"paragraph_SI": [ "Diagnosing and monitoring patients with lactic acidosis."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "5.4-20.7 mg/dL"],
+		
+		"paragraph_SI": [ "0.6-2.3 mmol/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Lactate is the end product of anaerobic carbohydrate metabolism. Major sites of production are skeletal muscle, brain, and erythrocytes. Lactate is metabolized by the liver. The concentration of lactate depends on the rate of production and the rate of liver clearance. The liver can adequately clear lactate until the concentration reaches approximately 18.0 mg/dL. When this level is exceeded, lactate begins to accumulate rapidly. For example, while resting lactate levels are usually <9 mg/dL,   during strenuous exercise, levels can rise above 180 mg/dL within a few seconds. Lactic acidosis signals the deterioration of the cellular oxidative   process and is associated with hyperpnea, weakness, fatigue, stupor, and finally coma. These conditions may be irreversible, even after treatment is administered. Lactate acidosis may be associated with hypoxic conditions (e.g., shock, hypovolemia, heart failure, pulmonary insufficiency), metabolic disorders (e.g., diabetic ketoacidosis, malignancies), and toxin exposures (e.g., ethanol, methanol, salicylates)."],
+		
+		"paragraph_SI": [ "Lactate is the end product of anaerobic carbohydrate   metabolism. Major sites of production are skeletal muscle, brain, and erythrocytes. Lactate is metabolized by the liver. The   concentration of lactate depends on the rate of production and the rate of liver clearance. The liver can adequately clear lactate until the concentration reaches approximately 2.0 mmol/L. When this level is exceeded, lactate begins to accumulate rapidly. For example, while resting lactate levels are usually <1 mmol/L, during strenuous exercise, levels can rise above 20 mmol/L within a few seconds. Lactic acidosis signals the deterioration of the cellular oxidative process and is associated with hyperpnea, weakness, fatigue, stupor, and finally coma. These conditions may be irreversible, even after treatment is administered. Lactate acidosis may be associated with hypoxic conditions (e.g., shock, hypovolemia, heart failure, pulmonary insufficiency), metabolic disorders (e.g., diabetic ketoacidosis, malignancies), and toxin exposures (e.g., ethanol, methanol, salicylates)."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "While no definitive concentration of lactate has been established for the diagnosis of lactic acidosis, lactate concentrations   exceeding 45 mg/dL and pH <7.25 are generally considered indicative of significant lactic acidosis."],
+		
+		"paragraph_SI": [ "While no definitive concentration of lactate has been established for the diagnosis of lactic acidosis, lactate concentrations exceeding 5 mmol/L and pH <7.25 are generally considered indicative of significant lactic acidosis."]
+	}]
+}

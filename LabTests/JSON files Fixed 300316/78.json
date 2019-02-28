@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Hematocrit (Hct)",
+      "paragraph_US": [
+        "Hematocrit is a blood test that measures the number of red blood cells and the size of red blood cells. It gives a percentage of red blood cells found in whole blood."
+      ],
+      "paragraph_SI": [
+        "Hematocrit is a blood test that measures the number of red blood cells and the size of red blood cells. It gives a percentage of red blood cells found in whole blood."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Male: 40.7 - 50.3%   \nFemale: 36.1 - 44.3%"
+      ],
+      "paragraph_SI": [
+        "Male: 40.7 - 50.3%   \nFemale: 36.1 - 44.3%"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "This test is almost always ordered as part of a complete blood count (CBC). May be ordered if there are signs of anemia, leukemia and diet deficiency."
+      ],
+      "paragraph_SI": [
+        "This test is almost always ordered as part of a complete blood count (CBC). May be ordered if there are signs of anemia, leukemia and diet deficiency."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Low hematocrit:   Anemia, blood loss (hemorrhage), bone marrow failure, destruction of red blood cells, leukemia, malnutrition or specific diet deficiencies.  multiple myeloma or  rheumatoid arthritis High hematocrit:    Dehydration,  burns,  diarrhea, erythrocytosis or polycythemia vera."
+      ],
+      "paragraph_SI": [
+        "Low hematocrit:   Anemia, blood loss (hemorrhage), bone marrow failure, destruction of red blood cells, leukemia, malnutrition or specific diet deficiencies.  multiple myeloma or  rheumatoid arthritis High hematocrit:    Dehydration,  burns,  diarrhea, erythrocytosis or polycythemia vera."
+      ]
+    }
+  ]
+}

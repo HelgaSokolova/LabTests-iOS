@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Primidone",
+      "paragraph_US": [
+        "Used to assess compliance, monitor appropriate  therapeutic level or assess toxicity."
+      ],
+      "paragraph_SI": [
+        "Used to assess compliance, monitor appropriate  therapeutic level or assess toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 9.0-12.5 µg/mL  \nToxic concentration: ≥15.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration 41.0-57.5 µmol/L  \nToxic concentration: ≥69.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "At steady-state, which is achieved  approximately 2 weeks after therapy is initiated, blood levels of primidone  that correlate with optimal response to the drug range from 9.0 µg/mL to 12.5  µg/mL for adults and 7.0 µg/mL to 10.0 µg/mL for children <5 years of  age."
+      ],
+      "paragraph_SI": [
+        "At steady-state, which is achieved  approximately 2 weeks after therapy is initiated, blood levels of primidone  that correlate with optimal response to the drug range from 41.0 – 57.5  µmol/L for adults and 32.0 – 46.0 µmol/L for children <5 years of  age."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Primidone is used for control of grand mal seizures that are refractory to  other antiepileptics and seizures of psychomotor or focal origin.     Primidone exhibits a volume of distribution of 0.6 L/kg and a half-life of 8  hours."
+      ],
+      "paragraph_SI": [
+        "Primidone is used for control of grand mal seizures that are refractory to  other antiepileptics and seizures of psychomotor or focal origin.     Primidone exhibits a volume of distribution of 0.6 L/kg and a half-life of 8  hours."
+      ]
+    }
+  ]
+}

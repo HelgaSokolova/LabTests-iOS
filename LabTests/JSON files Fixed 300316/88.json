@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "pH",
+      "paragraph_US": [
+        "pH is a measurement of the acidity of the blood, reflecting the number of hydrogen ions present."
+      ],
+      "paragraph_SI": [
+        "pH is a measurement of the acidity of the blood, reflecting the number of hydrogen ions present."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "7.37-7.45"
+      ],
+      "paragraph_SI": [
+        "7.37-7.45"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Lower numbers mean more acidity; higher number mean more alkalinity."
+      ],
+      "paragraph_SI": [
+        "Lower numbers mean more acidity; higher number mean more alkalinity."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "pH is elevated with:  Hyperventilation (Anxiety, pain),   anemia,   shock,   some degrees of Pulmonary disease,   some degrees of Congestive heart failure,   myocardial infarction,   hypokalemia,   gastric suctioning or vomiting,   antacid administration and aspirin intoxication  pH is decreased with:  Strenuous physical exercise,   obesity,   starvation,   diarrhea,   ventilatory failure,   more severe degrees of Pulmonary Disease,   more severe degrees of Congestive Heart Failure,   pulmonary edema,   cardiac arrest and  renal failure."
+      ],
+      "paragraph_SI": [
+        "pH is elevated with:  Hyperventilation (Anxiety, pain),   anemia,   shock,   some degrees of Pulmonary disease,   some degrees of Congestive heart failure,   myocardial infarction,   hypokalemia,   gastric suctioning or vomiting,   antacid administration and aspirin intoxication  pH is decreased with:  Strenuous physical exercise,   obesity,   starvation,   diarrhea,   ventilatory failure,   more severe degrees of Pulmonary Disease,   more severe degrees of Congestive Heart Failure,   pulmonary edema,   cardiac arrest and  renal failure."
+      ]
+    }
+  ]
+}

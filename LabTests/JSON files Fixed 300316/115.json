@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Renin Activity",
+      "paragraph_US": [
+        "Investigation of primary aldosteronism (eg, adrenal adenoma/carcinoma and adrenal cortical hyperplasia) and secondary  aldosteronism (renovascular disease, salt depletion, potassium  loading, cardiac failure with ascites, pregnancy, Bartter's syndrome)."
+      ],
+      "paragraph_SI": [
+        "Investigation of primary aldosteronism (eg, adrenal adenoma/carcinoma and adrenal cortical hyperplasia) and secondary  aldosteronism (renovascular disease, salt depletion, potassium  loading, cardiac failure with ascites, pregnancy, Bartter's syndrome)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "1.9 - 3.7 ng/mL/hour"
+      ],
+      "paragraph_SI": [
+        "1.9 - 3.7 µg/L/hr"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Variation occur with the following: Salt intake, Pregnancy, Time of the day, Body position (sitting, lying down), State of water intake and dehydration, Use of anti-hypertensive drugs, estrogen-containing forms of hormonal contraception, anti-anginals drugs, etc (basically, most drugs that are active on the heart, blood vessels and/or the kidneys.  Certain diseases of the heart, kidneys, etc."
+      ],
+      "paragraph_SI": [
+        "Variation occur with the following: Salt intake, Pregnancy, Time of the day, Body position (sitting, lying down), State of water intake and dehydration, Use of anti-hypertensive drugs, estrogen-containing forms of hormonal contraception, anti-anginals drugs, etc (basically, most drugs that are active on the heart, blood vessels and/or the kidneys.  Certain diseases of the heart, kidneys, etc."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The renal juxtaglomerular apparatus generates renin, an enzyme  that converts angiotensinogen to angiotensin I. The inactive  angiotensin I is enzymatically converted to the active octapeptide  angiotensin II, a potent vasopressor responsible for hypertension of renal  origin. Angiotensin II also stimulates the zona glomerulosa of the adrenal  cortex to release aldosterone.     Renin secretion by the kidney is stimulated by a fall in glomerular blood  pressure, by decreased sodium concentration at the macula densa at the  distal tubule, or by stimulation of sympathetic outflow to the kidney, such  as in renal vascular diseases."
+      ],
+      "paragraph_SI": [
+        "The renal juxtaglomerular apparatus generates renin, an enzyme  that converts angiotensinogen to angiotensin I. The inactive  angiotensin I is enzymatically converted to the active octapeptide  angiotensin II, a potent vasopressor responsible for hypertension of renal  origin. Angiotensin II also stimulates the zona glomerulosa of the adrenal  cortex to release aldosterone.     Renin secretion by the kidney is stimulated by a fall in glomerular blood  pressure, by decreased sodium concentration at the macula densa at the  distal tubule, or by stimulation of sympathetic outflow to the kidney, such  as in renal vascular diseases."
+      ]
+    }
+  ]
+}

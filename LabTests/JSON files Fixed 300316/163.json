@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Estimated GFR (eGFR)",
+      "paragraph_US": [
+        "Estimated Glomerular Filtration Rate (eGFR) is used for people with chronic  kidney disease (CKD) and those with risk factors for CKD (diabetes,  hypertension, cardiovascular disease, and family history of kidney disease)."
+      ],
+      "paragraph_SI": [
+        "Estimated Glomerular Filtration Rate (eGFR) is used for people with chronic  kidney disease (CKD) and those with risk factors for CKD (diabetes,  hypertension, cardiovascular disease, and family history of kidney disease)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        ">60 mL/min/1.73 m2"
+      ],
+      "paragraph_SI": [
+        ">60 mL/min/1.73 m2"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Chronic kidney disease (CKD) is defined as the presence of: persistent and  usually progressive reduction in GFR (GFR <60 mL/min/1.73 m2) and/or  albuminuria (>30 mg of urinary albumin per gram of urinary creatinine),  regardless of GFR."
+      ],
+      "paragraph_SI": [
+        "Chronic kidney disease (CKD) is defined as the presence of: persistent and  usually progressive reduction in GFR (GFR <60 mL/min/1.73 m2) and/or  albuminuria (>30 mg of urinary albumin per gram of urinary creatinine),  regardless of GFR."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Several factors may influence serum creatinine independent of changes in GFR. For instance, creatinine generation is dependent upon muscle mass. Thus, young, muscular males may have significantly higher serum creatinine levels than elderly females, despite having similar GFRs."
+      ],
+      "paragraph_SI": [
+        "Several factors may influence serum creatinine independent of changes in GFR. For instance, creatinine generation is dependent upon muscle mass. Thus, young, muscular males may have significantly higher serum creatinine levels than elderly females, despite having similar GFRs. "
+      ]
+    }
+  ]
+}

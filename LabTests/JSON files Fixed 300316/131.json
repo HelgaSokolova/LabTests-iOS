@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "CSF.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "VDRL (CSF)",
+      "paragraph_US": [
+        "Used in the diagnosis of neurosyphilis"
+      ],
+      "paragraph_SI": [
+        "Used in the diagnosis of neurosyphilis"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Negative. Positive results will usualy be titered."
+      ],
+      "paragraph_SI": [
+        "Negative. Positive results will usualy be titered."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A positive Venereal Disease Research Laboratories (VDRL) on spinal fluid is highly  specific for neurosyphilis."
+      ],
+      "paragraph_SI": [
+        "A positive Venereal Disease Research Laboratories (VDRL) on spinal fluid is highly  specific for neurosyphilis."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "The Venereal Disease Research Laboratory  (VDRL) is a nontreponemal serologic test for syphilis that uses a  cardiolipin-cholesterol-lecithin antigen to detect reaginic antibodies.     The presence of neurosyphilis in untreated patients can be detected by the  presence of pleocytosis, elevated protein, and a positive VDRL. Be  aware that VDRL on  spinal fluid gives a high percentage of false-negatives."
+      ],
+      "paragraph_SI": [
+        "The Venereal Disease Research Laboratory  (VDRL) is a nontreponemal serologic test for syphilis that uses a  cardiolipin-cholesterol-lecithin antigen to detect reaginic antibodies.     The presence of neurosyphilis in untreated patients can be detected by the  presence of pleocytosis, elevated protein, and a positive VDRL. Be  aware that VDRL on  spinal fluid gives a high percentage of false-negatives."
+      ]
+    }
+  ]
+}

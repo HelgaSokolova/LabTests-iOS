@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total calcium (Ca)",
+      "paragraph_US": [
+        "Diagnosis and monitoring of a wide range of disorders including   disorders of protein and vitamin D, and diseases of bone, kidney,   parathyroid gland, or gastrointestinal tract."
+      ],
+      "paragraph_SI": [
+        "Diagnosis and monitoring of a wide range of disorders including   disorders of protein and vitamin D, and diseases of bone, kidney,   parathyroid gland, or gastrointestinal tract."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "8.9-10.1 mg/dL"
+      ],
+      "paragraph_SI": [
+        "2.2-2.5 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The calcium content of an adult is somewhat over 1 kg (about 2%   of the body weight). Of this, 99% is present as calcium hydroxyapatite  in bones and less <1% is present in the extra-osseous intracellular  space or extracellular space (ECS). The calcium level in the ECS   is in dynamic equilibrium with the rapidly exchangeable fraction of   bone calcium. In serum, calcium is bound to a considerable extent   to proteins (approximately 40%), 10% is in the form of inorganic   complexes, and 50% is present as free or ionized calcium.  Calcium ions affect the contractility of the heart and the skeletal  musculature, and are essential for the function of the nervous   system. In addition, calcium ions play an important role in blood   clotting and bone mineralization.  Hypocalcemia is due to the absence or impaired function of the  parathyroid glands or impaired vitamin-D synthesis. Chronic renal   failure is also frequently associated with hypocalcemia due to   decreased vitamin-D synthesis as well as hyperphosphatemia and   skeletal resistance to the action of parathyroid hormone (PTH).   A characteristic symptom of hypocalcemia is latent or manifest   tetany and osteeomalacia.  Hypercalcemia is brought about by increased mobilization of   calcium from the skeletal system or increased intestinal absorption.   The majority of cases are due to primary hyperparathyroidism   (pHPT) or bone metastasis of carcinoma of the breast, prostate,   thyroid gland, or lung. Patients who have pHPT and bone disease,  renal stones or nephrocalcinosis, or other signs or symptoms are  candidates for surgical removal of the parathyroid gland(s). Severe  hypercalcemia may result in cardiac arrhythmia.Total calcium levels also may reflect protein levels."
+      ],
+      "paragraph_SI": [
+        "The calcium content of an adult is somewhat over 1 kg (about 2%   of the body weight). Of this, 99% is present as calcium hydroxyapatite  in bones and less <1% is present in the extra-osseous intracellular  space or extracellular space (ECS). The calcium level in the ECS   is in dynamic equilibrium with the rapidly exchangeable fraction of   bone calcium. In serum, calcium is bound to a considerable extent   to proteins (approximately 40%), 10% is in the form of inorganic   complexes, and 50% is present as free or ionized calcium.  Calcium ions affect the contractility of the heart and the skeletal  musculature, and are essential for the function of the nervous   system. In addition, calcium ions play an important role in blood   clotting and bone mineralization.  Hypocalcemia is due to the absence or impaired function of the  parathyroid glands or impaired vitamin-D synthesis. Chronic renal   failure is also frequently associated with hypocalcemia due to   decreased vitamin-D synthesis as well as hyperphosphatemia and   skeletal resistance to the action of parathyroid hormone (PTH).   A characteristic symptom of hypocalcemia is latent or manifest   tetany and osteeomalacia.  Hypercalcemia is brought about by increased mobilization of   calcium from the skeletal system or increased intestinal absorption.   The majority of cases are due to primary hyperparathyroidism   (pHPT) or bone metastasis of carcinoma of the breast, prostate,   thyroid gland, or lung. Patients who have pHPT and bone disease,  renal stones or nephrocalcinosis, or other signs or symptoms are  candidates for surgical removal of the parathyroid gland(s). Severe  hypercalcemia may result in cardiac arrhythmia.Total calcium levels also may reflect protein levels."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Hypocalcemia:  Long-term therapy must be tailored to the specific disease causingthe hypocalcemia. The therapeutic endpoint is to achieve a serum  calcium level of 8.0-8.5 mg/dL to prevent tetany. For symptomatic  hypocalcemia, calcium may be administered intravenously.  Hypercalcemia:  The level at which hypercalcemic symptoms occur varies from  patient to patient. Symptoms are common when serum calcium  levels are >11.5 mg/dL, although patients may be asymptomatic at   this level. Levels >12.0 mg/dL are considered a critical value. Severe hypercalcemia (>15.0 mg/dL) is a medical emergency."
+      ],
+      "paragraph_SI": [
+        "Hypocalcemia:  Long-term therapy must be tailored to the specific disease causingthe hypocalcemia. The therapeutic endpoint is to achieve a serum  calcium level of 2.0-2.1 mmol/L to prevent tetany. For symptomatic  hypocalcemia, calcium may be administered intravenously.  Hypercalcemia:  The level at which hypercalcemic symptoms occur varies from  patient to patient. Symptoms are common when serum calcium  levels are >2.8 mmol/L, although patients may be asymptomatic at   this level. Levels >3.0 mmol/L are considered a critical value. Severe hypercalcemia (>3.7 mmol/L) is a medical emergency."
+      ]
+    }
+  ]
+}

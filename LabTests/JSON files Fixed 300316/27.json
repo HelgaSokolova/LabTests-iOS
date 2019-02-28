@@ -1,0 +1,48 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Troponin",
+      "paragraph_US": [
+        "Useful for  exclusion diagnosis of acute myocardial infarction,  monitoring acute coronary syndromes and estimating prognosis and  possible utility in monitoring patients with nonischemic causes of   cardiac injury"
+      ],
+      "paragraph_SI": [
+        "Useful for  exclusion diagnosis of acute myocardial infarction,  monitoring acute coronary syndromes and estimating prognosis and  possible utility in monitoring patients with nonischemic causes of   cardiac injury"
+      ]
+    },
+    {
+      "header": "Reference Range",
+              "paragraph_US": [
+                               "Troponin.png",
+                               "<0.01 ng/mL"
+      ],
+              "paragraph_SI": [
+                               "Troponin.png",
+                               "<0.01 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Values ≥0.01 ng/mL have been shown to have prognostic value."
+      ],
+      "paragraph_SI": [
+        "Values ≥0.01 ng/mL have been shown to have prognostic value."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Troponin T is a myofibrillar protein found in striated musculature.   There are 2 types of myofilament, a thick filament containing   myosin and a thin filament consisting of 3 different proteins: actin,   tropomyosin, and troponin. Troponin is itself a complex of 3 protein   subunits: troponin T, troponin I, and troponin C. Troponin T binds  the troponin complex to tropomyosin. Troponin I inhibits actomyosin   ATPase in relation to the calcium concentration. Troponin C, with its   4 binding sites for calcium, mediates calcium dependency.  In the cytosol, troponin T is found in both free and protein-bound forms.   The unbound (free) pool of troponin T is the source of the troponin T   released in the early stages of myocardial damage. Bound troponin T   is released from the structural elements at a later stage, corresponding   with the degradation of myofibrils that occurs in irreversible myocardial   damage. The most common cause of cardiac injury is myocardial ischemia,   ie, acute myocardial infarction (AMI). Troponin T becomes elevated 2 to 4   hours after the onset of myocardial necrosis, and can remain elevated for   up to 14 days.  Elevations in troponin T are also seen in patients with unstable angina.   The finding of unstable angina and an elevated troponin T are known   to have adverse short- and long-term prognoses, as well as a unique   beneficial response to an invasive interventional strategy and treatment   with the newer antiplatelet agents and low-molecular-weight heparin."
+      ],
+      "paragraph_SI": [
+        "Troponin T is a myofibrillar protein found in striated musculature.   There are 2 types of myofilament, a thick filament containing   myosin and a thin filament consisting of 3 different proteins: actin,   tropomyosin, and troponin. Troponin is itself a complex of 3 protein   subunits: troponin T, troponin I, and troponin C. Troponin T binds  the troponin complex to tropomyosin. Troponin I inhibits actomyosin   ATPase in relation to the calcium concentration. Troponin C, with its   4 binding sites for calcium, mediates calcium dependency.  In the cytosol, troponin T is found in both free and protein-bound forms.   The unbound (free) pool of troponin T is the source of the troponin T   released in the early stages of myocardial damage. Bound troponin T   is released from the structural elements at a later stage, corresponding   with the degradation of myofibrils that occurs in irreversible myocardial   damage. The most common cause of cardiac injury is myocardial ischemia,   ie, acute myocardial infarction (AMI). Troponin T becomes elevated 2 to 4   hours after the onset of myocardial necrosis, and can remain elevated for   up to 14 days.  Elevations in troponin T are also seen in patients with unstable angina.   The finding of unstable angina and an elevated troponin T are known   to have adverse short- and long-term prognoses, as well as a unique   beneficial response to an invasive interventional strategy and treatment   with the newer antiplatelet agents and low-molecular-weight heparin."
+      ]
+    }
+  ]
+}

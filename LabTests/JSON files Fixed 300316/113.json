@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Haptoglobin",
+      "paragraph_US": [
+        "Confirmation of intravascular hemolysis"
+      ],
+      "paragraph_SI": [
+        "Confirmation of intravascular hemolysis"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "30-200 mg/dL"
+      ],
+      "paragraph_SI": [
+        "3-20 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Haptoglobin is an immunoglobulin-like plasma protein that binds  hemoglobin. The haptoglobin-hemoglobin complex is removed  from plasma by macrophages and the hemoglobin is catabolyzed.     When the hemoglobin-binding capacity of haptoglobin is exceeded,  hemoglobin passes through the renal glomeruli, resulting in  hemoglobinuria. If all the plasma haptoglobin is removed following  an episode of intravascular hemolysis, and if hemolysis ceases, the  haptoglobin concentration should return to normal in a week.  Absence    of plasma haptoglobin may therefore indicate intravascular hemolysis.  However, congenital anhaptoglobinemia is common, particularly in  African-Americans. For this reason, it may be difficult or impossible to  interpret a single measurement of plasma haptoglobin.   If the assay  value is low, the test should be repeated after one to two weeks  following an acute episode of hemolysis.     Chronic intravascular hemolysis causes persistently low haptoglobin  concentration. Regular strenuous exercise may cause sustained low  haptoglobin, presumably from low-grade hemolysis. Low serum  haptoglobin may also be due to severe liver disease.    Neonatal plasma or serum specimens usually do not contain  measurable haptoglobin. Adult levels are achieved by six months.    Increase in plasma haptoglobin concentration occurs as an acute-phase  reaction. Levels may appear to be increased in conditions such as  burns and nephrotic syndrome. An acute-phase response may be  confirmed and monitored by assay of other acute-phase reactants  such as alpha-1-antitrypsin and C-reactive protein."
+      ],
+      "paragraph_SI": [
+        "Haptoglobin is an immunoglobulin-like plasma protein that binds  hemoglobin. The haptoglobin-hemoglobin complex is removed  from plasma by macrophages and the hemoglobin is catabolyzed.     When the hemoglobin-binding capacity of haptoglobin is exceeded,  hemoglobin passes through the renal glomeruli, resulting in  hemoglobinuria. If all the plasma haptoglobin is removed following  an episode of intravascular hemolysis, and if hemolysis ceases, the  haptoglobin concentration should return to normal in a week.  Absence    of plasma haptoglobin may therefore indicate intravascular hemolysis.  However, congenital anhaptoglobinemia is common, particularly in  African-Americans. For this reason, it may be difficult or impossible to  interpret a single measurement of plasma haptoglobin.   If the assay  value is low, the test should be repeated after one to two weeks  following an acute episode of hemolysis.     Chronic intravascular hemolysis causes persistently low haptoglobin  concentration. Regular strenuous exercise may cause sustained low  haptoglobin, presumably from low-grade hemolysis. Low serum  haptoglobin may also be due to severe liver disease.    Neonatal plasma or serum specimens usually do not contain  measurable haptoglobin. Adult levels are achieved by six months.    Increase in plasma haptoglobin concentration occurs as an acute-phase  reaction. Levels may appear to be increased in conditions such as  burns and nephrotic syndrome. An acute-phase response may be  confirmed and monitored by assay of other acute-phase reactants  such as alpha-1-antitrypsin and C-reactive protein."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Low levels of serum haptoglobin may indicate intravascular hemolysis."
+      ],
+      "paragraph_SI": [
+        "Low levels of serum haptoglobin may indicate intravascular hemolysis."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Vancomycin",
+      "paragraph_US": [
+        "Useful in monitoring patients receiving  vancomycin therapy."
+      ],
+      "paragraph_SI": [
+        "Useful in monitoring patients receiving  vancomycin therapy."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Peak: 25.0-50.0 µg/mL \n\nThrough: \nTherapeutic concentration: 10.0-20.0 µg/mL \nComplicated infections: 15.0-20.0 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Peak: 4-28 µmol/L  \n\nThrough: \nTherapeutic concentration: 3-7 µmol/L \nComplicated infections: 105-140 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Typical peak levels are between 25 µg/mL  to 50 µg/mL. Trough levels correlate better with  efficacy than peak levels, with target trough levels of 10 µg/mL to 20 µg/mL,  depending on the type of infection."
+      ],
+      "paragraph_SI": [
+        "Typical peak levels are between 175 – 350 µmol/L. Trough levels correlate better with  efficacy than peak levels, with target trough levels of 70 – 140 µmol/L,  depending on the type of infection."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Vancomycin is an antibiotic used to treat  infections caused by gram-positive organisms that are resistant to beta-lactam  antibiotics, such as methicillin-resistant staphylococci (MRSA), Staphylococcus viridans   group, penicillin/cephalosporin-resistant Streptococcus  pneumoniae, and  penicillin/ampicillin-resistant Enterococcus species.      The oral formulation, which is not absorbed, is used in the treatment of  pseudomembranous colitis caused by Clostridium  difficile. Vancomycin is also  used when patients are intolerant or allergic to beta lactams.      Vancomycin has been associated with nephrotoxicity and ototoxicity, although it  appears that many of these reports reflected impurities in early formulations.  Monitoring of vancomycin-related nephrotoxicity   is recommended only for patients with reduced renal function, those receiving  aggressive or prolonged vancomycin regimens, or those at high risk including  patients comedicated with other nephrotoxic agents.     Trough concentrations are recommended for therapeutic monitoring of vancomycin,  preferably acquired at steady-state (just before fourth dose). To avoid  development of resistance, vancomycin trough levels   should remain >10 µg/mL. Complicated infections require higher target  levels, typically 15 µg/mL to 20 µg/mL. Peak concentrations do not correlate  well to efficacy or nephrotoxicity, but may be useful for  pharmacokinetic analyses (eg. area under the curve [AUC] studies) or for select  patients."
+      ],
+      "paragraph_SI": [
+        "Vancomycin is an antibiotic used to treat  infections caused by gram-positive organisms that are resistant to beta-lactam  antibiotics, such as methicillin-resistant staphylococci (MRSA), Staphylococcus viridans   group, penicillin/cephalosporin-resistant Streptococcus  pneumoniae, and  penicillin/ampicillin-resistant Enterococcus species.      The oral formulation, which is not absorbed, is used in the treatment of  pseudomembranous colitis caused by Clostridium  difficile. Vancomycin is also  used when patients are intolerant or allergic to beta lactams.      Vancomycin has been associated with nephrotoxicity and ototoxicity, although it  appears that many of these reports reflected impurities in early formulations.  Monitoring of vancomycin-related nephrotoxicity   is recommended only for patients with reduced renal function, those receiving  aggressive or prolonged vancomycin regimens, or those at high risk including  patients comedicated with other nephrotoxic agents.     Trough concentrations are recommended for therapeutic monitoring of vancomycin,  preferably acquired at steady-state (just before fourth dose). To avoid  development of resistance, vancomycin trough levels   should remain >70 µmol/L. Complicated infections require higher target  levels, typically 105 – 140 µmol/L. Peak concentrations do not correlate  well to efficacy or nephrotoxicity, but may be useful for  pharmacokinetic analyses (eg. area under the curve [AUC] studies) or for select  patients."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Drugs of Abuse (Urine)",
+      "paragraph_US": [
+        "Can usually detect drug abuse involving  amphetamines, barbiturates, benzodiazepines, cocaine, methadone, opiates, PCP, propoxyphene, THC, and ethanol."
+      ],
+      "paragraph_SI": [
+        "Can usually detect drug abuse involving  amphetamines, barbiturates, benzodiazepines, cocaine, methadone, opiates, PCP, propoxyphene, THC, and ethanol."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Negative"
+      ],
+      "paragraph_SI": [
+        "Negative"
+      ]
+    },
+    {
+      "header": "Cut-off concentrations:",
+      "paragraph_US": [
+        "Amphetamines: 1,000 ng/mL  \nBarbiturates: 200 ng/mL  \nBenzodiazepines: 200 ng/mL  \nCocaine/metabolite: 300 ng/mL  \nMDMA (Ecstasy): 500 ng/mL  \nMethadone: 300 ng/mL  \nOpiates: 300 ng/mL  \nPhencyclidine: 25 ng/mL  \nPropoxyphene: 300 ng/mL  \nTHC: 50 ng/mL  \nEthanol: 10 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Amphetamines: 1,000 µg/L  \nBarbiturates: 200 µg/L  \nBenzodiazepines: 200 µg/L  \nCocaine/metabolite: 300 µg/L  \nMDMA (Ecstasy): 500 µg/L  \nMethadone: 300 µg/L  \nOpiates: 300 µg/L  \nPhencyclidine: 25 µg/L  \nPropoxyphene: 300 µg/L  \nTHC: 50 µg/L  \nEthanol: 10 µg/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A positive result indicates that the patient may have used one of the drugs  detected by this technique in the recent past.      As a general guideline, the length of time after last use that drug may be present in the urine is: \nAmphetamines: 2-3 days \nBarbiturates: 10 days   \nBenzodiazepines: 40 days   \nCocaine and metabolites: 4 days   \nMarijuana metabolite: 30-60 days \nMethadone: 3-4 days  \nOpiates: 6-8 days   \nPCP: 2-3 days \nPropoxyphene: 2-3 days"
+      ],
+      "paragraph_SI": [
+        "A positive result indicates that the patient may have used one of the drugs  detected by this technique in the recent past.      As a general guideline, the length of time after last use that drug may be present in the urine is: \nAmphetamines: 2-3 days \nBarbiturates: 10 days   \nBenzodiazepines: 40 days   \nCocaine and metabolites: 4 days   \nMarijuana metabolite: 30-60 days \nMethadone: 3-4 days  \nOpiates: 6-8 days   \nPCP: 2-3 days \nPropoxyphene: 2-3 days"
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "These tests usualy use immunologic testing, and screens for the presence of  amphetamines, barbiturates, benzodizaepines,  cocaine metabolites, methadone, opiates, phencyclidine  (PCP), propoxyphene and tetrahydrocannabinol (THC),  and ethanol.   These tests often have a small false-positive  rate due to the interaction of the reagents with naturally occurring substances  and over-the-counter drugs."
+      ],
+      "paragraph_SI": [
+        "These tests usualy use immunologic testing, and screens for the presence of  amphetamines, barbiturates, benzodizaepines,  cocaine metabolites, methadone, opiates, phencyclidine  (PCP), propoxyphene and tetrahydrocannabinol (THC),  and ethanol.   These tests often have a small false-positive  rate due to the interaction of the reagents with naturally occurring substances  and over-the-counter drugs."
+      ]
+    }
+  ]
+}

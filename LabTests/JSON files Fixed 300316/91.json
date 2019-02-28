@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Oxygen saturation (SAT)",
+      "paragraph_US": [
+        "Oxygen Saturation (sO2, SAT) measures the percent of hemoglobin which is fully combined with oxygen."
+      ],
+      "paragraph_SI": [
+        "Oxygen Saturation (sO2, SAT) measures the percent of hemoglobin which is fully combined with oxygen."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "95-99%"
+      ],
+      "paragraph_SI": [
+        "95-99%"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "While this measurement can be obtained from an arterial or venous blood sample, it's major attractive feature is that it can be obtained non-invasively and continuously through the use of a \"pulseoximeter.\"  Normally, oxygen saturation on room air is in excess of 95%. With deep or rapid breathing, this can be increased to 98-99%. While breathing oxygen-enriched air (40% - 100%), the oxygen saturation can be pushed to 100%."
+      ],
+      "paragraph_SI": [
+        "While this measurement can be obtained from an arterial or venous blood sample, it's major attractive feature is that it can be obtained non-invasively and continuously through the use of a \"pulseoximeter.\"  Normally, oxygen saturation on room air is in excess of 95%. With deep or rapid breathing, this can be increased to 98-99%. While breathing oxygen-enriched air (40% - 100%), the oxygen saturation can be pushed to 100%."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Oxygen Saturation will fall if: Inspired oxygen levels are diminished, such as at increased altitudes. Upper or middle airway obstruction exists (such as during an acute asthmatic attack).  Significant alveolar lung disease exists, interfering with the free flow of oxygen across the alveolar membrane.   Oxygen Saturation will rise if: Deep or rapid breathing occurs. Inspired oxygen levels are increased, such as breathing from a 100% oxygen source"
+      ],
+      "paragraph_SI": [
+        "Oxygen Saturation will fall if: Inspired oxygen levels are diminished, such as at increased altitudes. Upper or middle airway obstruction exists (such as during an acute asthmatic attack).  Significant alveolar lung disease exists, interfering with the free flow of oxygen across the alveolar membrane.   Oxygen Saturation will rise if: Deep or rapid breathing occurs. Inspired oxygen levels are increased, such as breathing from a 100% oxygen source"
+      ]
+    }
+  ]
+}

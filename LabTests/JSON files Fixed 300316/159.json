@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Green.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ethanol",
+      "paragraph_US": [
+        "Detection of ethanol (ethyl alcohol) in  serum to document prior consumption  or administration of ethanol. Quantification of the concentration of ethanol in serum  correlates with degree of intoxication."
+      ],
+      "paragraph_SI": [
+        "Detection of ethanol (ethyl alcohol) in  serum to document prior consumption  or administration of ethanol. Quantification of the concentration of ethanol in serum  correlates with degree of intoxication."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "None detected.  Toxic concentration: ≥400 mg/dL"
+      ],
+      "paragraph_SI": [
+        "None detected.  Toxic concentration: ≥80 mmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Blood ethanol levels >50 mg/dL  (>0.05%) are frequently associated with  a state of increased euphoria.     A blood alcohol level ≥400 mg/dL (≥0.4%) may be lethal as normal  respiration may be depressed below the level necessary to maintain life.     The blood ethanol level is also useful in diagnosis of alcoholism. A patient  who chronically consumes ethanol will develop a tolerance to the drug and  requires higher levels than described above to achieve various states of  intoxication. An individual who can function in a relatively normal manner with  a blood ethanol level >150 mg/dL (>0.15%) is highly likely to have  developed a tolerance to the drug achieved by high levels of chronic intake."
+      ],
+      "paragraph_SI": [
+        "Blood ethanol levels >1 mmol/L  (>0.05%) are frequently associated with  a state of increased euphoria.     A blood alcohol level ≥80 mmol/L (≥0.4%) may be lethal as normal  respiration may be depressed below the level necessary to maintain life.     The blood ethanol level is also useful in diagnosis of alcoholism. A patient  who chronically consumes ethanol will develop a tolerance to the drug and  requires higher levels than described above to achieve various states of  intoxication. An individual who can function in a relatively normal manner with  a blood ethanol level >30 mmol/L (>0.15%) is highly likely to have  developed a tolerance to the drug achieved by high levels of chronic intake."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Ethanol is the single most important  substance of abuse in the western world. It is the active agent in beer, wine,  vodka, whiskey, rum, and other liquors.     Ethanol acts on cerebral functions as a depressant similar to general anesthetics. This depression causes  most of the typical symptoms such  as impaired thought, clouded judgment, and changed behavior. As the level of alcohol increases, the  degree of impairment becomes progressively  increased.       In the context of medical/clinical assessment, serum is submitted for analysis. On average,  the serum  concentration of  the alcohols is 1.2-fold higher than blood."
+      ],
+      "paragraph_SI": [
+        "Ethanol is the single most important  substance of abuse in the western world. It is the active agent in beer, wine,  vodka, whiskey, rum, and other liquors.     Ethanol acts on cerebral functions as a depressant similar to general anesthetics. This depression causes  most of the typical symptoms such  as impaired thought, clouded judgment, and changed behavior. As the level of alcohol increases, the  degree of impairment becomes progressively  increased.       In the context of medical/clinical assessment, serum is submitted for analysis. On average,  the serum  concentration of  the alcohols is 1.2-fold higher than blood."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Carcinoembryonic Antigen (CEA)",
+      "paragraph_US": [
+        "Useful in monitoring colorectal cancer and  selected other cancers such as medullary thyroid carcinoma. It may also be  useful in assessing the effectiveness of chemotherapy or radiation treatment. CEA  levels are not useful in screening the general population for undetected cancers!"
+      ],
+      "paragraph_SI": [
+        "Useful in monitoring colorectal cancer and  selected other cancers such as medullary thyroid carcinoma. It may also be  useful in assessing the effectiveness of chemotherapy or radiation treatment. CEA  levels are not useful in screening the general population for undetected cancers!"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Nonsmokers: ≤3.0 ng/mL  \nSome smokers may have elevated CEA, usually ≤5.0 ng/mL."
+      ],
+      "paragraph_SI": [
+        "Nonsmokers: ≤3.0 µg/L  \nSome smokers may have elevated CEA, usually ≤5.0 µg/L."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Grossly elevated CEA concentrations  (>20 ng/mL) in a patient with compatible symptoms are strongly suggestive of  the presence of cancer and also suggest metastasis.     Most healthy subjects (97%) have values ≤3.0 ng/mL.     After removal of a colorectal tumor, the serum CEA concentration should return  to normal by 6 weeks, unless there is residual tumor.      Increases in test values over time in a patient with a history of cancer  suggest tumor recurrence."
+      ],
+      "paragraph_SI": [
+        "Grossly elevated CEA concentrations  (>20 µg/L) in a patient with compatible symptoms are strongly suggestive of  the presence of cancer and also suggest metastasis.     Most healthy subjects (97%) have values ≤3.0 µg/L.     After removal of a colorectal tumor, the serum CEA concentration should return  to normal by 6 weeks, unless there is residual tumor.      Increases in test values over time in a patient with a history of cancer  suggest tumor recurrence."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "CEA is a glycoprotein normally found in  embryonic entodermal epithelium.     Increased levels may be found in patients with primary colorectal cancer or  other malignancies including medullary thyroid carcinoma and breast, gastrointestinal tract,  liver, lung, ovarian, pancreatic,   and prostatic cancers.     Serial monitoring of CEA should begin prior to therapy to verify post therapy decrease in concentration and  to establish a baseline for evaluating  possible recurrence. Levels generally return to normal   within 1 to 4 months after removal of cancerous tissue.  Single values of CEA are less informative  than changes assessed over time.      Some patients who have been exposed to animal antigens, either in the  environment or as part of treatment or imaging procedures, may have circulating  antianimal antibodies present. These antibodies   may interfere with the assay reagents to produce unreliable results."
+      ],
+      "paragraph_SI": [
+        "CEA is a glycoprotein normally found in  embryonic entodermal epithelium.     Increased levels may be found in patients with primary colorectal cancer or  other malignancies including medullary thyroid carcinoma and breast, gastrointestinal tract,  liver, lung, ovarian, pancreatic,   and prostatic cancers.     Serial monitoring of CEA should begin prior to therapy to verify post therapy decrease in concentration and  to establish a baseline for evaluating  possible recurrence. Levels generally return to normal   within 1 to 4 months after removal of cancerous tissue.  Single values of CEA are less informative  than changes assessed over time.      Some patients who have been exposed to animal antigens, either in the  environment or as part of treatment or imaging procedures, may have circulating  antianimal antibodies present. These antibodies   may interfere with the assay reagents to produce unreliable results."
+      ]
+    }
+  ]
+}

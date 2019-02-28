@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "CD4+ cells",
+      "paragraph_US": [
+        "Useful For  Monitoring CD4 levels in HIV infected patients."
+      ],
+      "paragraph_SI": [
+        "Useful For  Monitoring CD4 levels in HIV infected patients."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "There are  relevant variations depending on age. Please consult relevant clinical references."
+      ],
+      "paragraph_SI": [
+        "There are  relevant variations depending on age. Please consult relevant clinical references."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The infection of and subsequent decrease in the number of T-cells  expressing the CD4 receptor (T helper cells) is the main pathogenic  mechanism of human immunodeficiency virus (HIV). Progressive  depletion of CD4 T-cells is associated with an increased likelihood  of acquired immune deficiency syndrome (AIDS) and an unfavorable  prognosis.     The United States Public Health Service recommends that CD4   levels be monitored every 3 to 6 months in all HIV-infected persons."
+      ],
+      "paragraph_SI": [
+        "The infection of and subsequent decrease in the number of T-cells  expressing the CD4 receptor (T helper cells) is the main pathogenic  mechanism of human immunodeficiency virus (HIV). Progressive  depletion of CD4 T-cells is associated with an increased likelihood  of acquired immune deficiency syndrome (AIDS) and an unfavorable  prognosis.     The United States Public Health Service recommends that CD4   levels be monitored every 3 to 6 months in all HIV-infected persons."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "When the CD4 count falls below 500 cells/μL, an HIV-positive patient can receive antiretroviral therapy. When the CD4 count falls below 200 cells/μL, an HIV-positive patient is diagnosed with AIDS. When the CD4 count falls below 200 cells/μL, prophylaxis against Pneumocystis jiroveci (formerly carinii) pneumonia is recomended. When the CD4 count falls below 50 cells/μL, prophylaxis against Mycobacterium avium-intracellulare infection is recomended."
+      ],
+      "paragraph_SI": [
+        "When the CD4 count falls below 500 cells/μL, an HIV-positive patient can receive antiretroviral therapy. When the CD4 count falls below 200 cells/μL, an HIV-positive patient is diagnosed with AIDS. When the CD4 count falls below 200 cells/μL, prophylaxis against Pneumocystis jiroveci (formerly carinii) pneumonia is recomended. When the CD4 count falls below 50 cells/μL, prophylaxis against Mycobacterium avium-intracellulare infection is recomended."
+      ]
+    }
+  ]
+}

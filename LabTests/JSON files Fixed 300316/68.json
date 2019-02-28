@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Reticulocytes",
+      "paragraph_US": [
+        "Assessing erythropoietic bone marrow activity in anemia and other   hematologic conditions."
+      ],
+      "paragraph_SI": [
+        "Assessing erythropoietic bone marrow activity in anemia and other   hematologic conditions."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "% Reticulocytes: 0.60-1.83%   Absolute reticulocytes: 29-87·109/L"
+      ],
+      "paragraph_SI": [
+        "% Reticulocytes: 0.60-1.83%   Absolute reticulocytes: 29-87·109/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Reticulocytes are immature erythrocytes (RBCs) that have been   released into the peripheral blood from the bone marrow after   extrusion of their nucleus. The reticulocyte contains residual   polyribosomes used in the formation of hemoglobin in the   developing erythrocyte.    The reticulocyte count is a measure of the number of RBCs   delivered by the bone marrow. It is elevated with active   erythropoiesis such as regeneration and is decreased in   hypoplastic or deficiency conditions such as vitamin B12  deficiency."
+      ],
+      "paragraph_SI": [
+        "Reticulocytes are immature erythrocytes (RBCs) that have been   released into the peripheral blood from the bone marrow after   extrusion of their nucleus. The reticulocyte contains residual   polyribosomes used in the formation of hemoglobin in the   developing erythrocyte.    The reticulocyte count is a measure of the number of RBCs   delivered by the bone marrow. It is elevated with active   erythropoiesis such as regeneration and is decreased in   hypoplastic or deficiency conditions such as vitamin B12  deficiency."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Reticulocyte counts must be carefully correlated with other   clinical and laboratory findings."
+      ],
+      "paragraph_SI": [
+        "Reticulocyte counts must be carefully correlated with other   clinical and laboratory findings."
+      ]
+    }
+  ]
+}

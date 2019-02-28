@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "pH (Urine)",
+      "paragraph_US": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ],
+      "paragraph_SI": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "4.6-8.0"
+      ],
+      "paragraph_SI": [
+        "4.6-8.0"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Urine pH is affected by diet, medications,  systemic acid-base disturbances, and renal tubular function. pH may affect  urinary stone formation. For example, urine pH <6.0 may help reduce the  tendency for calcium phosphate stones and pH >6 may reduce the tendency for  uric acid stone formation."
+      ],
+      "paragraph_SI": [
+        "Urine pH is affected by diet, medications,  systemic acid-base disturbances, and renal tubular function. pH may affect  urinary stone formation. For example, urine pH <6.0 may help reduce the  tendency for calcium phosphate stones and pH >6 may reduce the tendency for  uric acid stone formation."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (eg, infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ],
+      "paragraph_SI": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (eg, infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ]
+    }
+  ]
+}

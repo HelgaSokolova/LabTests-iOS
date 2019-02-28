@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Antinuclear antibodies (ANA)",
+      "paragraph_US": [
+        "Evaluating patients suspected of having a systemic rheumatic disease (SRD)."
+      ],
+      "paragraph_SI": [
+        "Evaluating patients suspected of having a systemic rheumatic disease (SRD)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤1.0 U (negative) \n1.1-2.9 U (weakly positive)   \n3.0-5.9 U (positive)   \n≥6.0 U (strongly positive)"
+      ],
+      "paragraph_SI": [
+        "≤1.0 U (negative) \n1.1-2.9 U (weakly positive)   \n3.0-5.9 U (positive)   \n≥6.0 U (strongly positive)"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Antinuclear antibodies (ANA) occur in patients with a variety of  autoimmune diseases, both systemic and organ-specific. They are  particularly common in the systemic rheumatic diseases (SRD), which  include lupus erythematosus (LE), discoid LE, drug-induced LE, mixed  connective tissue disease, Sjogren syndrome, scleroderma (systemic  sclerosis), CREST (calcinosis, Raynaud's phenomenon, esophageal  dysmotility, sclerodactyly, telangiectasia) syndrome, polymyositis/  dermatomyositis, and rheumatoid arthritis."
+      ],
+      "paragraph_SI": [
+        "Antinuclear antibodies (ANA) occur in patients with a variety of  autoimmune diseases, both systemic and organ-specific. They are  particularly common in the systemic rheumatic diseases (SRD), which  include lupus erythematosus (LE), discoid LE, drug-induced LE, mixed  connective tissue disease, Sjogren syndrome, scleroderma (systemic  sclerosis), CREST (calcinosis, Raynaud's phenomenon, esophageal  dysmotility, sclerodactyly, telangiectasia) syndrome, polymyositis/  dermatomyositis, and rheumatoid arthritis."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A large number of healthy individuals have weakly-positive ANA  results, many of which are likely to be clinical false-positives;  therefore, second-order testing of all positive ANAs yields a very  low percentage of positive results to the specific nuclear antigens.    A positive ANA result at any level is consistent with the diagnosis  of SRD, but a result ≥3.0 U is more strongly associated with SRD  than a weakly-positive result.     Positive ANA results >3.0 U are associated with the presence of  detectable autoantibodies to specific nuclear antigens. The  nuclear antigens are associated with specific diseases (e.g.,  anti-Scl 70 is associated with scleroderma) and can be detected  with second-order testing."
+      ],
+      "paragraph_SI": [
+        "A large number of healthy individuals have weakly-positive ANA  results, many of which are likely to be clinical false-positives;  therefore, second-order testing of all positive ANAs yields a very  low percentage of positive results to the specific nuclear antigens.    A positive ANA result at any level is consistent with the diagnosis  of SRD, but a result ≥3.0 U is more strongly associated with SRD  than a weakly-positive result.     Positive ANA results >3.0 U are associated with the presence of  detectable autoantibodies to specific nuclear antigens. The  nuclear antigens are associated with specific diseases (e.g.,  anti-Scl 70 is associated with scleroderma) and can be detected  with second-order testing."
+      ]
+    }
+  ]
+}

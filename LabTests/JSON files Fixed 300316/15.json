@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Insulin",
+		 "paragraph_US": [ "Management of diabetes mellitus. Diagnosing insulinoma, when used in conjunction with proinsulin and C-peptide measurements."],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "Management of diabetes mellitus. Diagnosing insulinoma, when used in conjunction with proinsulin and C-peptide measurements."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "2.6-25 μU/mL"],
+		
+		"paragraph_SI": [ "18-173 pmol/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Insulin is a hormone produced by the beta cells of the pancreas. It regulates the uptake and utilization of glucose and is also involved in protein synthesis and triglyceride storage."],
+		
+		"paragraph_SI": [ "Insulin is a hormone produced by the beta cells of the pancreas. It regulates the uptake and utilization of glucose and is also involved in protein synthesis and triglyceride storage."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Type 1 diabetes (insulin-dependent diabetes) is caused by insulin deficiency due to destruction of insulin-producing pancreatic islet (beta) cells. Type 2 diabetes (noninsulin dependent diabetes) is characterized by resistance to the action of insulin (insulin resistance). Insulin levels may be increased in patients with pancreatic beta cell tumors (insulinoma)."],
+		
+		"paragraph_SI": [ "Type 1 diabetes (insulin-dependent diabetes) is caused by insulin deficiency due to destruction of insulin-producing pancreatic islet (beta) cells. Type 2 diabetes (noninsulin dependent diabetes) is characterized by resistance to the action of insulin (insulin resistance). Insulin levels may be increased in patients with pancreatic beta cell tumors (insulinoma)."]
+	}]
+}

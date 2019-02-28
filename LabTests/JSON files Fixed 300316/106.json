@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Double stranded DNA Antibodies (dsDNA-Ab)",
+      "paragraph_US": [
+        "Used for evaluating patients with signs and symptoms consistent with lupus  erythematosus (LE).Also used for monitoring patients with documented LE for flares in disease activity."
+      ],
+      "paragraph_SI": [
+        "Used for evaluating patients with signs and symptoms consistent with lupus  erythematosus (LE).Also used for monitoring patients with documented LE for flares in disease activity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<5 IU/mL (negative)   \n5-9 IU/mL (indeterminate)   \n≥10 IU/mL (positive)   \nNegative is considered normal."
+      ],
+      "paragraph_SI": [
+        "<5 IU/mL (negative)   \n5-9 IU/mL (indeterminate)   \n≥10 IU/mL (positive)   \nNegative is considered normal."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Double-stranded (ds, native) DNA antibodies of the IgG class are  an accepted criterion (American College of Rheumatology) for the  diagnosis of idiopathic systemic lupus erythematosus (LE).  dsDNA antibodies are detectable in approximately 85% of patients  with untreated LE, and are rarely detectable in other connective  tissue diseases. Weakly-positive results caused by low-avidity  antibodies to dsDNA are not specific for LE and can occur in a  variety of diseases.   Testing for IgG antibodies to dsDNA is indicated in patients who  have a positive test for antinuclear antibodies (ANA) along with  signs and symptoms that are compatible with the diagnosis of  LE. If the ANA test is negative, there is no reason to test for  antibodies to dsDNA. The levels of IgG antibodies to dsDNA in serum are known to  fluctuate with disease activity in LE, often increasing prior to  an increase in inflammation.."
+      ],
+      "paragraph_SI": [
+        "Double-stranded (ds, native) DNA antibodies of the IgG class are  an accepted criterion (American College of Rheumatology) for the  diagnosis of idiopathic systemic lupus erythematosus (LE).  dsDNA antibodies are detectable in approximately 85% of patients  with untreated LE, and are rarely detectable in other connective  tissue diseases. Weakly-positive results caused by low-avidity  antibodies to dsDNA are not specific for LE and can occur in a  variety of diseases.   Testing for IgG antibodies to dsDNA is indicated in patients who  have a positive test for antinuclear antibodies (ANA) along with  signs and symptoms that are compatible with the diagnosis of  LE. If the ANA test is negative, there is no reason to test for  antibodies to dsDNA. The levels of IgG antibodies to dsDNA in serum are known to  fluctuate with disease activity in LE, often increasing prior to  an increase in inflammation.."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A positive test result for dsDNA antibodies is consistent with the  diagnosis of LE.    Increases of at least 25% in the level of IgG antibodies to dsDNA  may indicate an exacerbation of disease."
+      ],
+      "paragraph_SI": [
+        "A positive test result for dsDNA antibodies is consistent with the  diagnosis of LE.    Increases of at least 25% in the level of IgG antibodies to dsDNA  may indicate an exacerbation of disease."
+      ]
+    }
+  ]
+}

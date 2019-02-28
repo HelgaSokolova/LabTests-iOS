@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Green.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Volatile and Ethylene Glycol",
+      "paragraph_US": [
+        "Used for detection and quantitation of  acetone, methanol, isopropanol, and ethanol in serum. Also used for confirming  and monitoring ethylene glycol toxicity"
+      ],
+      "paragraph_SI": [
+        "Used for detection and quantitation of  acetone, methanol, isopropanol, and ethanol in serum. Also used for confirming  and monitoring ethylene glycol toxicity"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Ethylene Glycol:  \nToxic concentration: ≥20 mg/dL  \n\nEthanol:  None detected (cutoff concentration: 10 mg/dL)  \nToxic concentration: ≥400 mg/dL  \n\nMethanol:  None detected (cutoff concentration: 10 mg/dL)  \nToxic concentration: ≥10 mg/dL (Positive results are usually quantitated)  \n\nAcetone:  None detected (cutoff concentration: 10 mg/dL)  \nToxic concentration: ≥10 mg/dL  \n\nIsopropanol:  None detected (cutoff concentration: 10 mg/dL)  Toxic concentration: ≥50 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Ethylene Glycol:  \nToxic concentration: ≥3 mmol/L  \n\nEthanol:  None detected (cutoff concentration: 1.6 mmol/L)  \nToxic concentration: ≥64 mmol/L  \n\nMethanol:  None detected (cutoff concentration: 0.3 mmol/L)  \nToxic concentration: ≥0.3 mmol/L (Positive results are usually quantitated)  \n\nAcetone:  None detected (cutoff concentration: 1.7 mmol/L)  \nToxic concentration: ≥1.7 mmol/L  \n\nIsopropanol:  None detected (cutoff concentration: 0.2 mmol/L)  Toxic concentration: ≥1 mmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Volatiles: Volatile substances in the blood include acetone, methanol, isopropanol, and  ethanol. Acetone is generally elevated in metabolic conditions such diabetic  ketoacidosis. Methanol and isopropanol  are highly toxic and result from exogenous ingestion.     Ethanol is the single most important substance of abuse. It is the active agent  in beer, wine, vodka, whiskey, rum, and other liquors. Ethanol acts on cerebral  function as a depressant similar  to general anesthetics. This depression causes  most of the typical symptoms of  intoxication including impaired  thought,  clouded judgment, and changed behavior. As the level of  alcohol increases, the degree of  impairment becomes progressively increased.     \n\nEthylene Glycol: Ethylene glycol is the active ingredient in automobile antifreeze which is  sometimes consumed as a substitute for ethanol since in the early stages the inebriating  effects of the 2 chemicals are similar. It is converted to several toxic,  acidic metabolites including oxalic  acid, which precipitates as calcium oxalate crystals in the kidney, identifiable as such in the urine."
+      ],
+      "paragraph_SI": [
+        "Volatiles: Volatile substances in the blood include acetone, methanol, isopropanol, and  ethanol. Acetone is generally elevated in metabolic conditions such diabetic  ketoacidosis. Methanol and isopropanol  are highly toxic and result from exogenous ingestion.     Ethanol is the single most important substance of abuse. It is the active agent  in beer, wine, vodka, whiskey, rum, and other liquors. Ethanol acts on cerebral  function as a depressant similar  to general anesthetics. This depression causes  most of the typical symptoms of  intoxication including impaired  thought,  clouded judgment, and changed behavior. As the level of  alcohol increases, the degree of  impairment becomes progressively increased.     \n\nEthylene Glycol: Ethylene glycol is the active ingredient in automobile antifreeze which is  sometimes consumed as a substitute for ethanol since in the early stages the inebriating  effects of the 2 chemicals are similar. It is converted to several toxic,  acidic metabolites including oxalic  acid, which precipitates as calcium oxalate crystals in the kidney, identifiable as such in the urine."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Toxic manifestations include central nervous system depression, nausea and vomiting, muscle paralysis,  ataxia, renal failure, congestive  heart failure, pulmonary edema, convulsions, and coma.  Other findings included pronounced  metabolic acidosis with large anion gap and Kussmaul respirations, osmolar gap,  and hypocalcemia.     4-Methylpyrazole is the antidote of choice; however, ethanol administered in a 10% concentration of 5% dextrose in water (D5W) may also be used as an  antidote. Both antidotes inhibit conversion of the relatively nontoxic ethylene glycol to its toxic  metabolites."
+      ],
+      "paragraph_SI": [
+        "Toxic manifestations include central nervous system depression, nausea and vomiting, muscle paralysis,  ataxia, renal failure, congestive  heart failure, pulmonary edema, convulsions, and coma.  Other findings included pronounced  metabolic acidosis with large anion gap and Kussmaul respirations, osmolar gap,  and hypocalcemia.     4-Methylpyrazole is the antidote of choice; however, ethanol administered in a 10% concentration of 5% dextrose in water (D5W) may also be used as an  antidote. Both antidotes inhibit conversion of the relatively nontoxic ethylene glycol to its toxic  metabolites."
+      ]
+    }
+  ]
+}

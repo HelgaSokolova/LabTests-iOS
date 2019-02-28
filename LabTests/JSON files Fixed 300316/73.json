@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Alpha 1-antitrypsin (AAT)",
+      "paragraph_US": [
+        "Workup of individuals with suspected disorders such as  familial chronic obstructive lung disease.    Diagnosis of A1A deficiency."
+      ],
+      "paragraph_SI": [
+        "Workup of individuals with suspected disorders such as  familial chronic obstructive lung disease.    Diagnosis of A1A deficiency."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "100-190 mg/dL"
+      ],
+      "paragraph_SI": [
+        "18-35 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Alpha-1-antitripsin (A1A) is the most abundant serum protease  inhibitor and inhibits trypsin and elastin, as well as several other  proteases.    The release of proteolytic enzymes from plasma onto organ   surfaces and into tissue spaces results in tissue damage   unless inhibitors are present.    Congenital deficiency of A1A is associated with the development   of emphysema at an unusually early age and with an increased   incidence of neonatal hepatitis, usually progressing to cirrhosis."
+      ],
+      "paragraph_SI": [
+        "Alpha-1-antitripsin (A1A) is the most abundant serum protease  inhibitor and inhibits trypsin and elastin, as well as several other  proteases.    The release of proteolytic enzymes from plasma onto organ   surfaces and into tissue spaces results in tissue damage   unless inhibitors are present.    Congenital deficiency of A1A is associated with the development   of emphysema at an unusually early age and with an increased   incidence of neonatal hepatitis, usually progressing to cirrhosis."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Patients with serum levels <70 mg/dL may have a homozygous deficiency  and are at risk for early lung disease.  A1A phenotyping should be done to  confirm the presence of homozygous deficiency alleles.    If clinically indicated, patients with serum levels <125 mg/dL should be  phenotyped in order to identify heterozygous individuals.  (Heterozygotes  do not appear to be at increased risk for early emphysema.)"
+      ],
+      "paragraph_SI": [
+        "Patients with serum levels <13 µmol/L may have a homozygous deficiency  and are at risk for early lung disease.  A1A phenotyping should be done to  confirm the presence of homozygous deficiency alleles.    If clinically indicated, patients with serum levels <23 µmol/L should be  phenotyped in order to identify heterozygous individuals.  (Heterozygotes  do not appear to be at increased risk for early emphysema.)"
+      ]
+    }
+  ]
+}

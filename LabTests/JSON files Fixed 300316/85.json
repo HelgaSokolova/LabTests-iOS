@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Platelet count (Thrombocytes)",
+      "paragraph_US": [
+        "Platelets, or thrombocytes, are small, irregularly shaped anuclear cells, 2-4 µm in diameter, which are derived from fragmentation of precursor megakaryocytes. The average life span of a platelet is between 8 and 12 days. Platelets play a fundamental role in hemostasis and are a natural source of growth factors. They  are involved in hemostasis leading to the formation of blood clots."
+      ],
+      "paragraph_SI": [
+        "Platelets, or thrombocytes, are small, irregularly shaped anuclear cells, 2-4 µm in diameter, which are derived from fragmentation of precursor megakaryocytes. The average life span of a platelet is between 8 and 12 days. Platelets play a fundamental role in hemostasis and are a natural source of growth factors. They  are involved in hemostasis leading to the formation of blood clots."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "A normal platelet count in a healthy person is between 150-400E+9/L"
+      ],
+      "paragraph_SI": [
+        "A normal platelet count in a healthy person is between 150-400E+9/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "If the number of platelets is too low, excessive bleeding can occur; however, if the number of platelets is too high, blood clots can form (thrombosis), these can block blood vessels, and may cause a stroke and/or a heart attack. An abnormality or disease of the platelets is called a thrombocytopathy, which could be either a low number (thrombocytopenia), a decrease in function (thrombasthenia) or an increase in number (thrombocytosis)."
+      ],
+      "paragraph_SI": [
+        "If the number of platelets is too low, excessive bleeding can occur; however, if the number of platelets is too high, blood clots can form (thrombosis), these can block blood vessels, and may cause a stroke and/or a heart attack. An abnormality or disease of the platelets is called a thrombocytopathy, which could be either a low number (thrombocytopenia), a decrease in function (thrombasthenia) or an increase in number (thrombocytosis)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "High and low counts: Both thrombocytopenia (thrombopenia) and thrombocytosis may present with coagulation problems. In general, low platelet counts increase bleeding risks (although there are exceptions, e.g., immune heparin-induced thrombocytopenia), and thrombocytosis  may lead to thrombosis (although this is mainly when the elevated count is due to myeloproliferative disorder).  Low platelet counts are, in general, not corrected by transfusion unless the patient is bleeding or the count has fallen below 5 x 109/L. It is contraindicated in thrombotic thrombocytopenic purpura (TTP), as it fuels the coagulopathy. In patients having surgery, a level below 50 x 109/L) is associated with abnormal surgical bleeding, and regional anaesthetic procedures such as epidurals are avoided for levels below 80-100.  Normal platelet counts are not a guarantee of adequate function. In some states, the platelets, while being adequate in number, are dysfunctional. For instance, aspirin irreversibly disrupts platelet function by inhibiting cyclooxygenase-1 (COX1), and hence normal hemostasis. Normal platelet function will not return until the aspirin has ceased and enough of the affected platelets have been replaced by new ones, which can take over a week.  Uremia (a consequence of renal failure) leads to platelet dysfunction that may be ameliorated by the administration of desmopressin."
+      ],
+      "paragraph_SI": [
+        "High and low counts: Both thrombocytopenia (thrombopenia) and thrombocytosis may present with coagulation problems. In general, low platelet counts increase bleeding risks (although there are exceptions, e.g., immune heparin-induced thrombocytopenia), and thrombocytosis  may lead to thrombosis (although this is mainly when the elevated count is due to myeloproliferative disorder).  Low platelet counts are, in general, not corrected by transfusion unless the patient is bleeding or the count has fallen below 5 x 109/L. It is contraindicated in thrombotic thrombocytopenic purpura (TTP), as it fuels the coagulopathy. In patients having surgery, a level below 50 x 109/L) is associated with abnormal surgical bleeding, and regional anaesthetic procedures such as epidurals are avoided for levels below 80-100.  Normal platelet counts are not a guarantee of adequate function. In some states, the platelets, while being adequate in number, are dysfunctional. For instance, aspirin irreversibly disrupts platelet function by inhibiting cyclooxygenase-1 (COX1), and hence normal hemostasis. Normal platelet function will not return until the aspirin has ceased and enough of the affected platelets have been replaced by new ones, which can take over a week.  Uremia (a consequence of renal failure) leads to platelet dysfunction that may be ameliorated by the administration of desmopressin."
+      ]
+    }
+  ]
+}

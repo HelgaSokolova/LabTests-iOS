@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Specific Gravity (Urine)",
+      "paragraph_US": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ],
+      "paragraph_SI": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "A descriptive report should be supplied"
+      ],
+      "paragraph_SI": [
+        "A descriptive report should be supplied"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Specific gravity varies with hydration and is an  indicator of the kidneys' ability to concentrate or dilute urine. In general,  specific gravity >1.025 suggests that concentrating ability is intact. Low specific gravity that is not  responsive to changes in fluid intake may be seen in diabetes insipidus or  advanced renal disease."
+      ],
+      "paragraph_SI": [
+        "Specific gravity varies with hydration and is an  indicator of the kidneys' ability to concentrate or dilute urine. In general,  specific gravity >1.025 suggests that concentrating ability is intact. Low specific gravity that is not  responsive to changes in fluid intake may be seen in diabetes insipidus or  advanced renal disease."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ],
+      "paragraph_SI": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ]
+    }
+  ]
+}

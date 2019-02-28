@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ferritin",
+		 "paragraph_US": [ "Useful for diagnosing iron deficiency and iron-overload conditions."],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "Useful for diagnosing iron deficiency and iron-overload conditions."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "Males: 24-336 µg/L  \nFemales: 11-307 µg/L"],
+		
+		"paragraph_SI": [ "Males: 24-336 µg/L  \nFemales: 11-307 µg/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Ferritin is a high-molecular-weight protein that contains approximately   20% iron. It occurs normally in almost all tissues of the body but   especially in hepatocytes and reticuloendothelial cells, where it   serves as an iron reserve. Ferritin is also present in the serum in   minute amounts, where it appears to reflect iron stores in normal   individuals.   Ferritin plays a significant role in the absorption, storage, and   release of iron. As the storage form of iron, ferritin remains in the   body tissues until it is needed for erythropoiesis. When needed, the   iron molecules are released from the apoferritin shell and bind to   transferrin, the circulating plasma protein that transports iron to the   erythropoietic cells.   A low serum ferritin value is thought to be the best laboratory   indicator of iron depletion. Virtually all patients with low serum iron   and low ferritin have iron deficiency. Serum ferritin is clinically useful   in distinguishing between iron-deficiency anemia (serum ferritin   levels diminished) and \"anemia of chronic disease\" (serum ferritin   levels usually normal or elevated). Serum ferritin is a good screening   test in separating erythrocyte microcytosis due to iron deficiency (low   values) from microcytosis related to thalassemia minor (normal or   high values). An iron-depletion state with a decreased serum ferritin   value is quite common among menstruating and reproductively active   females and in children.   Ferritin is an acute phase reactant. A normal serum ferritin value,   therefore, cannot be used to exclude iron deficiency if a hepatic,   malignant, or inflammatory condition is present.   A high serum ferritin value is seen in hemochromatosis and other   iron-overload states, as well as acute hepatitis, Gaucher disease,   malignancies, and chronic inflammatory disorders."],
+		
+		"paragraph_SI": [ "Ferritin is a high-molecular-weight protein that contains approximately   20% iron. It occurs normally in almost all tissues of the body but   especially in hepatocytes and reticuloendothelial cells, where it   serves as an iron reserve. Ferritin is also present in the serum in   minute amounts, where it appears to reflect iron stores in normal   individuals.   Ferritin plays a significant role in the absorption, storage, and   release of iron. As the storage form of iron, ferritin remains in the   body tissues until it is needed for erythropoiesis. When needed, the   iron molecules are released from the apoferritin shell and bind to   transferrin, the circulating plasma protein that transports iron to the   erythropoietic cells.   A low serum ferritin value is thought to be the best laboratory   indicator of iron depletion. Virtually all patients with low serum iron   and low ferritin have iron deficiency. Serum ferritin is clinically useful   in distinguishing between iron-deficiency anemia (serum ferritin   levels diminished) and \"anemia of chronic disease\" (serum ferritin   levels usually normal or elevated). Serum ferritin is a good screening   test in separating erythrocyte microcytosis due to iron deficiency (low   values) from microcytosis related to thalassemia minor (normal or   high values). An iron-depletion state with a decreased serum ferritin   value is quite common among menstruating and reproductively active   females and in children.   Ferritin is an acute phase reactant. A normal serum ferritin value,   therefore, cannot be used to exclude iron deficiency if a hepatic,   malignant, or inflammatory condition is present.   A high serum ferritin value is seen in hemochromatosis and other   iron-overload states, as well as acute hepatitis, Gaucher disease,   malignancies, and chronic inflammatory disorders."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Hereditary hemochromatosis or other iron-overload states, acute   hepatitis, and Gaucher disease are associated with very high serum   ferritin levels. Slight-to-moderate elevation occurs in many malignancies   and in chronic inflammatory disorders.   Iron deficiency (uncomplicated):   Males:  <24 µg/L   Females:  <11 µg/L   Iron overload:   Males:  >336 µg/L   Females:  >307 µg/L   In hemochromatosis, ferritin is often >1,000 µg/L"],
+		
+		"paragraph_SI": [ "Hereditary hemochromatosis or other iron-overload states, acute   hepatitis, and Gaucher disease are associated with very high serum   ferritin levels. Slight-to-moderate elevation occurs in many malignancies   and in chronic inflammatory disorders.   Iron deficiency (uncomplicated):   Males:  <24 µg/L   Females:  <11 µg/L   Iron overload:   Males:  >336 µg/L   Females:  >307 µg/L   In hemochromatosis, ferritin is often >1,000 µg/L"]
+	}]
+}

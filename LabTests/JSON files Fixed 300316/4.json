@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Osmolality",
+     "paragraph_US": [ "Useful For  evaluating acutely ill or comatose patients.    A comparison of measured and calculated serum osmolality produces  a delta-osmolality. If this is >40 mosmol/kg a H(2)O in a critically ill patient, the  prognosis is poor."],
+		"dot_image": "Red.png",
+    "paragraph_SI": [ "Useful For  evaluating acutely ill or comatose patients.    A comparison of measured and calculated serum osmolality produces  a delta-osmolality. If this is >40 mosmol/kg a H(2)O in a critically ill patient, the  prognosis is poor."]
+	},
+  {
+    "header": "Reference Range",
+     "paragraph_US": [ "275-295 mOsmol/kg"],
+		
+    "paragraph_SI": [ "275-295 mmol/kg"]
+	},
+  {
+    "header": "Clinical Information",
+     "paragraph_US": [ "Osmolality is a measure of the number of dissolved solute particles  in solution.  It is determined by the number and not by the nature of the  particles in solution.    Dissolved solutes change the physical properties of solutions,  increasing the osmotic pressure and boiling point and decreasing  the vapor pressure and freezing point.  The osmolality of serum increases with dehydration and decreases with  overhydration. The patient receiving intravenous fluids should have a  normal osmolality. If the osmolality rises, the fluids contain relatively  more electrolytes than water. If the osmolality falls, relatively more  water than electrolytes is being administered.  Normally, the ratio of serum sodium, in mEq/L, to serum osmolality,  in mosmol/kg, is between 0.43 and 0.5.  The ratio may be distorted in  drug intoxication.  Generally, the same conditions that decrease or increase the serum  sodium concentration affect the osmolality.  Both serum and urine osmolality must be measured to assess osmolar  clearance."],
+		
+    "paragraph_SI": [ "Osmolality is a measure of the number of dissolved solute particles  in solution.  It is determined by the number and not by the nature of the  particles in solution.    Dissolved solutes change the physical properties of solutions,  increasing the osmotic pressure and boiling point and decreasing  the vapor pressure and freezing point.  The osmolality of serum increases with dehydration and decreases with  overhydration. The patient receiving intravenous fluids should have a  normal osmolality. If the osmolality rises, the fluids contain relatively  more electrolytes than water. If the osmolality falls, relatively more  water than electrolytes is being administered.  Normally, the ratio of serum sodium, in mmol/L, to serum osmolality,  in mmol/kg, is between 0.43 and 0.5.  The ratio may be distorted in  drug intoxication.  Generally, the same conditions that decrease or increase the serum  sodium concentration affect the osmolality.  Both serum and urine osmolality must be measured to assess osmolar  clearance."]
+	},
+  {
+    "header": "Interpretation",
+     "paragraph_US": [ "An increased gap between measured and calculated osmolality may  indicate ingestion of poison, ethylene glycol, methanol, or  isopropanol."],
+		
+    "paragraph_SI": [ "An increased gap between measured and calculated osmolality may  indicate ingestion of poison, ethylene glycol, methanol, or  isopropanol."]
+	}]
+}

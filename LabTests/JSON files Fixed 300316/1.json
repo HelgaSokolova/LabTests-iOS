@@ -1,0 +1,52 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    "https://labtestsonline.org/understanding/analytes/sodium",
+    "https://en.wikipedia.org/wiki/Sodium_in_biology",
+    "http://www.ncbi.nlm.nih.gov/pubmed/22071811"
+  ],
+  "Article": [
+    {
+      "header": "Sodium (Na)",
+      "paragraph_US": [
+        "Sodium assays are important in assessing acid-base balance, water balance, water intoxication, and dehydration."
+      ],
+      "paragraph_SI": [
+        "Sodium assays are important in assessing acid-base balance, water balance, water intoxication, and dehydration."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "135-145 mEq/L"
+      ],
+      "paragraph_SI": [
+        "135-145 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Sodium is the primary extracellular cation. Sodium is responsible for almost one half the osmolality of the plasma and therefore plays a central role in maintaining the normal distribution of water and the osmotic pressure in the extracellular fluid compartment. The amount of sodium in the body is a reflection of the balance beween sodium intake and output."
+      ],
+      "paragraph_SI": [
+        "Sodium is the primary extracellular cation. Sodium is responsible for almost one half the osmolality of the plasma and therefore plays a central role in maintaining the normal distribution of water and the osmotic pressure in the extracellular fluid compartment. The amount of sodium in the body is a reflection of the balance beween sodium intake and output."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Hyponatremia (low sodium) is a predictable consequence of decreased intake of sodium, particularly that precipitated or complicated by unusual losses of sodium from the gastrointestinal tract (e.g. vomiting and diarrhea), kidneys or sweat glands. Renal loss may be caused by inappropriate choice, dose or use of diuretics; by primary or secondary deficiency of aldosterone and other mineralocorticoids; or by severe polyuria. It is common in metabolic acidosis. Hyponatremia also occurs in nephrotic syndrome, hypoporteinemia, primary and secondary adrenocortical insufficiency and congestive heart failure. Symptoms of hyponatremia are a result of brain swelling and range from weakness to seizures, coma and death.\n",
+        "Hypernatremia (high sodium) is often attributable to excessive loss of sodium-poor body fluids. Hypernatremia is often associated with hypercalcemia and hypokalemia and is seen in liver disease, cardiac failure, pregnancy, burns, and osmotic diuresis. Other causes include decreased production of ADH or decreased tubular sensitivity to the hormone (i.e., diabetes insipidus), inappropriate forms of parenteral therapy with saline solutions, or high salt intake without corresponding intake of water. Hypernatremia occurs in dehydration, increased renal sodium conservation in hyperaldosteronism, Cushing's syndrome, and diabetic acidosis. Severe hypernatremia may be associated with volume contraction, lactic acidosis and increased hematocrit. Symptoms of hypernatremia range from thirst to confusion, irritability, seizures, coma and death.\n",
+        "Symptoms of hyponatremia depends primarily upon the rate of change in sodium concentration, rather than the absolute level. Typically, sodium values less 120 mEq/L result in weakness; values less than 100 mEq/L in bulbar or pseudobulbar palsy; and values between 90 and 105 mEq/L in severe signs and symptoms of neurological impairment. Symptoms associated with hypernatremia depend on the degree of hyperosmolality present."
+      ],
+      "paragraph_SI": [
+        "Hyponatremia (low sodium) is a predictable consequence of decreased intake of sodium, particularly that precipitated or complicated by unusual losses of sodium from the gastrointestinal tract (e.g. vomiting and diarrhea), kidneys or sweat glands. Renal loss may be caused by inappropriate choice, dose or use of diuretics; by primary or secondary deficiency of aldosterone and other mineralocorticoids; or by severe polyuria. It is common in metabolic acidosis. Hyponatremia also occurs in nephrotic syndrome, hypoporteinemia, primary and secondary adrenocortical insufficiency and congestive heart failure. Symptoms of hyponatremia are a result of brain swelling and range from weakness to seizures, coma and death.\n",
+        "Hypernatremia (high sodium) is often attributable to excessive loss of sodium-poor body fluids. Hypernatremia is often associated with hypercalcemia and hypokalemia and is seen in liver disease, cardiac failure, pregnancy, burns, and osmotic diuresis. Other causes include decreased production of ADH or decreased tubular sensitivity to the hormone (i.e., diabetes insipidus), inappropriate forms of parenteral therapy with saline solutions, or high salt intake without corresponding intake of water. Hypernatremia occurs in dehydration, increased renal sodium conservation in hyperaldosteronism, Cushing's syndrome, and diabetic acidosis. Severe hypernatremia may be associated with volume contraction, lactic acidosis and increased hematocrit. Symptoms of hypernatremia range from thirst to confusion, irritability, seizures, coma and death.\n",
+        "Symptoms of hyponatremia depends primarily upon the rate of change in sodium concentration, rather than the absolute level. Typically, sodium values less 120 mmol/L result in weakness; values less than 100 mmol/L in bulbar or pseudobulbar palsy; and values between 90 and 105 mmol/L in severe signs and symptoms of neurological impairment. Symptoms associated with hypernatremia depend on the degree of hyperosmolality present."
+      ]
+    }
+  ]
+}

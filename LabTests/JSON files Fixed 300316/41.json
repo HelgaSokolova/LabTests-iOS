@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Triglycerides",
+      "paragraph_US": [
+        "Used for evaluation of risk factors in individuals with elevated cholesterol values. Since cholesterol and triglycerides can vary independently,  measurement of both is more meaningful than the measurement of  cholesterol only."
+      ],
+      "paragraph_SI": [
+        "Used for evaluation of risk factors in individuals with elevated cholesterol values. Since cholesterol and triglycerides can vary independently,  measurement of both is more meaningful than the measurement of  cholesterol only."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Normal:  <150 mg/dL \nBorderline high:  150-199 mg/dL \nHigh:  200-499 mg/dL \nVery high:  ≥500 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Normal:  <3.9 mmol/L  \nBorderline high:  3.9-5.1 mmol/L  \nHigh: 5.1-12.9 mmol/L  \nVery high:  ≥13.0 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Triglycerides are esters of the trihydric alcohol glycerol with 3  long-chain fatty acids. They are partly synthesized in the liver  and partly derived from the diet.  Increased plasma triglyceride levels are indicative of a metabolic  abnormality and, along with elevated cholesterol, are considered  a risk factor for atherosclerotic disease. Hyperlipidemia may be  inherited or be associated with biliary obstruction, diabetes mellitus,  nephrotic syndrome, renal failure, or metabolic disorders related  to endocrinopathies. Increased triglycerides may also be medication-induced (eg, prednisone)."
+      ],
+      "paragraph_SI": [
+        "Triglycerides are esters of the trihydric alcohol glycerol with 3  long-chain fatty acids. They are partly synthesized in the liver  and partly derived from the diet.  Increased plasma triglyceride levels are indicative of a metabolic  abnormality and, along with elevated cholesterol, are considered  a risk factor for atherosclerotic disease. Hyperlipidemia may be  inherited or be associated with biliary obstruction, diabetes mellitus,  nephrotic syndrome, renal failure, or metabolic disorders related  to endocrinopathies. Increased triglycerides may also be medication-induced (eg, prednisone)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "In the presence of other coronary heart disease risk factors,  both borderline high (150-199 mg/dL) and high values (>200  mg/dL) require attention.  Triglyceride concentrations >1,000 mg/dL can lead to abdominal  pain and may be life-threatening due to chylomicron-induced  pancreatitis."
+      ],
+      "paragraph_SI": [
+        "In the presence of other coronary heart disease risk factors,  both borderline high and high values require attention. Triglyceride concentrations ≥11.0 mmol/L can lead to abdominal  pain and may be life-threatening due to chylomicron-induced  pancreatitis."
+      ]
+    }
+  ]
+}

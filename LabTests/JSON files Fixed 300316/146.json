@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Phenobarbital",
+      "paragraph_US": [
+        "Used to monitor appropriate therapeutic  concentration, but also in assessing compliance or toxicity."
+      ],
+      "paragraph_SI": [
+        "Used to monitor appropriate therapeutic  concentration, but also in assessing compliance or toxicity."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 20.0-40.0 µg/mL  \nToxic concentration: ≥60.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 80.0-160.0 µmol/L  \nToxic concentration: ≥240.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Clinical response to the drug correlates  strongly with blood concentration.     Dosage adjustments are made after 2 weeks of therapy to achieve steady-state  blood levels in the range of 20 µg/mL to 40 µg/mL for adults; 15 µg/mL to 30  µg/mL for infants and children.     Patients chronically administered phenobarbital usually do not experience  sedation unless the blood concentration is >40 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Clinical response to the drug correlates  strongly with blood concentration.     Dosage adjustments are made after 2 weeks of therapy to achieve steady-state  blood levels in the range of 80 µmol/L to 160 µmol/L for adults; 60 µmol/L to 120 µmol/L for infants and children.     Patients chronically administered phenobarbital usually do not experience  sedation unless the blood concentration is >160 µmol/L."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Phenobarbital is a general central nervous system (CNS) suppressant that has  proven effective in the control of generalized and partial seizures. It is  frequently coadministered with phenytoin for control of complex seizure  disorders and with valproic acid for complex parietal seizures.     Phenobarbital is administered in doses of 60 mg/day to 300 mg/day in adults or  3 mg/kg/day to 6 mg/kg/day in children.     Phenobarbital is slowly but completely absorbed, with bioavailability in the  range of 100%. It is approximately 50% protein bound with a volume of  distribution of 0.5 L/kg. Phenobarbital has a long half-life of 96 hours, with  no known active metabolites.     Sedation is common at therapeutic concentrations for the first 2 to 3 weeks of  therapy, but this side effect disappears with time.     Toxicity due to phenobarbital overdose is characterized by CNS sedation and  reduced respiratory function. Mild symptoms characterized by ataxia, nystagmus,  fatigue, or attention loss, occur at blood concentrations in >40 µg/mL.  Symptoms become severe at concentrations ≥60 µg/mL. Toxicity becomes  life-threatening >100 µg/mL. Death usually occurs due to respiratory arrest  when pulmonary support is not supplied manually.     There are no known drug interactions that significantly affect the  pharmacokinetics of phenobarbital; conversely, phenobarbital affects the  pharmacokinetics of other drugs significantly because it induces the synthesis  of enzymes associated with the hepatic cytochrome P450 metabolic pathway.     Acute intermittent porphyria attacks may be induced by phenobarbital  stimulation of hepatic cytochrome P450."
+      ],
+      "paragraph_SI": [
+        "Phenobarbital is a general central nervous system (CNS) suppressant that has  proven effective in the control of generalized and partial seizures. It is  frequently coadministered with phenytoin for control of complex seizure  disorders and with valproic acid for complex parietal seizures.     Phenobarbital is administered in doses of 60 mg/day to 300 mg/day in adults or  3 mg/kg/day to 6 mg/kg/day in children.     Phenobarbital is slowly but completely absorbed, with bioavailability in the  range of 100%. It is approximately 50% protein bound with a volume of  distribution of 0.5 L/kg. Phenobarbital has a long half-life of 96 hours, with  no known active metabolites.     Sedation is common at therapeutic concentrations for the first 2 to 3 weeks of  therapy, but this side effect disappears with time.     Toxicity due to phenobarbital overdose is characterized by CNS sedation and  reduced respiratory function. Mild symptoms characterized by ataxia, nystagmus,  fatigue, or attention loss, occur at blood concentrations in >160 µmol/L.  Symptoms become severe at concentrations ≥240 µmol/L. Toxicity becomes  life-threatening >400 µmol/L. Death usually occurs due to respiratory arrest  when pulmonary support is not supplied manually.     There are no known drug interactions that significantly affect the  pharmacokinetics of phenobarbital; conversely, phenobarbital affects the  pharmacokinetics of other drugs significantly because it induces the synthesis  of enzymes associated with the hepatic cytochrome P450 metabolic pathway.     Acute intermittent porphyria attacks may be induced by phenobarbital  stimulation of hepatic cytochrome P450."
+      ]
+    }
+  ]
+}

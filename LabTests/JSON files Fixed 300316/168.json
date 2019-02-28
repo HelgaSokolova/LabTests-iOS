@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Glucose (Urine)",
+      "paragraph_US": [
+        "Limited usefulness in the screening or  management of diabetes mellitus"
+      ],
+      "paragraph_SI": [
+        "Limited usefulness in the screening or  management of diabetes mellitus"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤0.15 g/specimen"
+      ],
+      "paragraph_SI": [
+        "≤0.15 g/specimen"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated urine glucose concentration  reflects either the presence of hyperglycemia  or a defect in proximal tubule function.      As a screening test for diabetes mellitus, urine glucose testing has a low sensitivity (though reasonably  good specificity)."
+      ],
+      "paragraph_SI": [
+        "Elevated urine glucose concentration  reflects either the presence of hyperglycemia  or a defect in proximal tubule function.      As a screening test for diabetes mellitus, urine glucose testing has a low sensitivity (though reasonably  good specificity)."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Under normal circumstances essentially no glucose is normally excreted in the  urine. Elevated serum   glucose concentrations (such as occur with diabetes mellitus) may result in an increase in filtered load  of glucose and may result in glucosuria.       Other conditions which adversely affect kidney function may also result in decreased  reabsorption of glucose, and increased urinary  glucose concentration, even in the presence of normal plasma glucose concentrations.  Some of  these conditions include Fanconi syndrome,  Wilson's disease, hereditary glucosuria, and interstitial nephritis.  These conditions are  relatively rare, and most causes for elevated  urine glucose concentrations are due to elevated serum glucose levels."
+      ],
+      "paragraph_SI": [
+        "Under normal circumstances essentially no glucose is normally excreted in the  urine. Elevated serum   glucose concentrations (such as occur with diabetes mellitus) may result in an increase in filtered load  of glucose and may result in glucosuria.       Other conditions which adversely affect kidney function may also result in decreased  reabsorption of glucose, and increased urinary  glucose concentration, even in the presence of normal plasma glucose concentrations.  Some of  these conditions include Fanconi syndrome,  Wilson's disease, hereditary glucosuria, and interstitial nephritis.  These conditions are  relatively rare, and most causes for elevated  urine glucose concentrations are due to elevated serum glucose levels."
+      ]
+    }
+  ]
+}

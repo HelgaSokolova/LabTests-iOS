@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "hsCRP (high-sensitive CRP)",
+      "paragraph_US": [
+        "Useful for assessment of risk of developing myocardial infarction in patients   presenting with acute coronary syndromes and assessment of risk of developing cardiovascular disease or ischemic events in individuals who do not manifest disease at present."
+      ],
+      "paragraph_SI": [
+        "Useful for assessment of risk of developing myocardial infarction in patients   presenting with acute coronary syndromes and assessment of risk of developing cardiovascular disease or ischemic events in individuals who do not manifest disease at present."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Low risk: <1.0 mg/L  Average risk: 1.0-3.0 mg/L  High risk: >3.0 mg/L  Acute inflammation: >10.0 mg/L"
+      ],
+      "paragraph_SI": [
+        "Low risk: <1.0 mg/L  Average risk: 1.0-3.0 mg/L  High risk: >3.0 mg/L  Acute inflammation: >10.0 mg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "C-reactive protein (CRP) is one of the most sensitive acute-phase  reactants. Plasma CRP levels can increase dramatically (100-fold or more) after severe trauma, bacterial infection, inflammation,  surgery, or neoplastic proliferation. Measurement of CRP has  been used historically to assess activity of inflammatory disease,  to detect infections after surgery, to detect transplant rejection, and  to monitor these inflammatory processes. While assays for CRP have  been available for many years, the traditional assays lack  the sensitivity to measure basal levels of CRP.  In the mid-1990s, more sensitive methods for measurement of CRP   were introduced. These methods, referred to as high sensitivity CRP   (hs-CRP), can accurately measure basal levels of CRP throughout   the currently accepted cardiovascular risk assessment range   (0.20-10.0 mg/L).   These hs-CRP assays were used to assess outcomes in patients  with unstable angina and showed that hs-CRP values in the upper  tertile (>3.0mg/L) were associated with increased risk of developing  myocardial infarction. Data from prospective studies monitoring  hs-CRP in apparently healthy populations also has been published.  All prospective studies reported to date have been positive, with  adjusted relative risks of developing cardiovascular disease or  ischemic events ranging from 2.3-4.8 in the highest quartile or quintile  of data versus the lowest quartile or quintile. It also has been shown  that hs-CRP is additive with total cholesterol, low-density lipoprotein   cholesterol (LDL) and high-density lipoprotein cholesterol (HDL), as well   as the Framingham 10-year risk score, with respect to risk prediction.   More aggressive treatment strategies may be pursued in patients determined to be at increased risk by hs-CRP values."
+      ],
+      "paragraph_SI": [
+        "C-reactive protein (CRP) is one of the most sensitive acute-phase  reactants. Plasma CRP levels can increase dramatically (100-fold or more) after severe trauma, bacterial infection, inflammation,  surgery, or neoplastic proliferation. Measurement of CRP has  been used historically to assess activity of inflammatory disease,  to detect infections after surgery, to detect transplant rejection, and  to monitor these inflammatory processes. While assays for CRP have  been available for many years, the traditional assays lack  the sensitivity to measure basal levels of CRP.  In the mid-1990s, more sensitive methods for measurement of CRP   were introduced. These methods, referred to as high sensitivity CRP   (hs-CRP), can accurately measure basal levels of CRP throughout   the currently accepted cardiovascular risk assessment range   (0.20-10.0 mg/L).   These hs-CRP assays were used to assess outcomes in patients  with unstable angina and showed that hs-CRP values in the upper  tertile (>3.0mg/L) were associated with increased risk of developing  myocardial infarction. Data from prospective studies monitoring  hs-CRP in apparently healthy populations also has been published.  All prospective studies reported to date have been positive, with  adjusted relative risks of developing cardiovascular disease or  ischemic events ranging from 2.3-4.8 in the highest quartile or quintile  of data versus the lowest quartile or quintile. It also has been shown  that hs-CRP is additive with total cholesterol, low-density lipoprotein   cholesterol (LDL) and high-density lipoprotein cholesterol (HDL), as well   as the Framingham 10-year risk score, with respect to risk prediction.   More aggressive treatment strategies may be pursued in patients determined to be at increased risk by hs-CRP values."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Increased hs-CRP values are associated with increased risks of   cardiovascular disease or cardiovascular events."
+      ],
+      "paragraph_SI": [
+        "Increased hs-CRP values are associated with increased risks of   cardiovascular disease or cardiovascular events."
+      ]
+    }
+  ]
+}

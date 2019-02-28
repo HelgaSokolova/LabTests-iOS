@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Myoglobin",
+      "paragraph_US": [
+        "Assessing muscle damage from any cause."
+      ],
+      "paragraph_SI": [
+        "Assessing muscle damage from any cause."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.00-0.09 µg/mL"
+      ],
+      "paragraph_SI": [
+        "0-90 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Myoglobin is a heme protein found in smooth and skeletal muscles. Serum myoglobin reflects a balance between intravascular release of myoglobin from muscle and renal clearance."
+      ],
+      "paragraph_SI": [
+        "Myoglobin is a heme protein found in smooth and skeletal muscles. Serum myoglobin reflects a balance between intravascular release of myoglobin from muscle and renal clearance."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Previously serum myoglobin had been advocated as a sensitive marker for early acute myocardial injury (eg, acute myocardial infarction, AMI). However more recent studies indicate that other newer markers (eg, troponin) provide superior diagnostic utility in detecting early myocardial injury."
+      ],
+      "paragraph_SI": [
+        "Previously serum myoglobin had been advocated as a sensitive marker for early acute myocardial injury (eg, acute myocardial infarction, AMI). However more recent studies indicate that other newer markers (eg, troponin) provide superior diagnostic utility in detecting early myocardial injury."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Free thyroxine (FT4)",
+      "paragraph_US": [
+        "The FT4 value combined with the TSH value gives a more accurate   picture of the thyroid status in patients with abnormal TBG levels such as  those who are pregnant or those who are receiving treatment with  estrogens, androgens, dilantin, or salicylates."
+      ],
+      "paragraph_SI": [
+        "The FT4 value combined with the TSH value gives a more accurate   picture of the thyroid status in patients with abnormal TBG levels such as  those who are pregnant or those who are receiving treatment with  estrogens, androgens, dilantin, or salicylates."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.8-1.8 ng/dL"
+      ],
+      "paragraph_SI": [
+        "10-23 pmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Free thyroxine (FT4) comprises a small fraction of total T4. The free   T4 is available to the tissues and is, therefore, the metabolically   active fraction.   Elevations in FT4 result in hyperthyroidism, while decreases result  in hypothyroidism.  The test generally is used as a second line test after thyroid-stimulating hormone (TSH) to help evaluate TSH changes.  FT4 works well to correct total T4 values for thyroxine-binding  globulin (TBG) alterations, but may give misleading values when  abnormal binding proteins are present or the patient has other  major illnesses (\"Euthyroid Sick Syndrome\")."
+      ],
+      "paragraph_SI": [
+        "Free thyroxine (FT4) comprises a small fraction of total T4. The free   T4 is available to the tissues and is, therefore, the metabolically   active fraction.   Elevations in FT4 result in hyperthyroidism, while decreases result  in hypothyroidism.  The test generally is used as a second line test after thyroid-stimulating hormone (TSH) to help evaluate TSH changes.  FT4 works well to correct total T4 values for thyroxine-binding  globulin (TBG) alterations, but may give misleading values when  abnormal binding proteins are present or the patient has other  major illnesses (\"Euthyroid Sick Syndrome\")."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated values suggest hyperthyroidism or exogenous thyroxine.  Decreased values suggest hypothyroidism."
+      ],
+      "paragraph_SI": [
+        "Elevated values suggest hyperthyroidism or exogenous thyroxine.  Decreased values suggest hypothyroidism."
+      ]
+    }
+  ]
+}

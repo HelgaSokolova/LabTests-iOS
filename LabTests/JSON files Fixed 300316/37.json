@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Phosphate, inorganic",
+      "paragraph_US": [
+        "Phosphate levels may be used in the diagnosis and management  of a variety of disorders including bone, parathyroid and renal  disease."
+      ],
+      "paragraph_SI": [
+        "Phosphate levels may be used in the diagnosis and management  of a variety of disorders including bone, parathyroid and renal  disease."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "2.5-4.5 mg/dL"
+      ],
+      "paragraph_SI": [
+        "0.8-1.5 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Eighty-eight percent of the phosphorus contained in the body is  localized in bone in the form of hydroxyapatite. The remainder is  involved in intermediary carbohydrate metabolism and in  physiologically important substances such as phospholipids,  nucleic acids, and adenosine triphosphate (ATP). Phosphorus  occurs in blood in the form of inorganic phosphate and organically   bound phosphoric acid. The small amount of extracellular organic   phosphorus is found exclusively in the form of phospholipids.   Serum contains approximately 2.5-4.5 mg/dL of inorganic phosphate   (the fraction measure in routine biochemical assays). Serum   phosphate concentrations are dependent on meals and variation i  n the secretion of hormones such as parathyroid hormone (PTH)   and may vary widely.  Hypophosphatemia may have 4 general causes: shift of phosphate  from extracellular to intracellular, renal phosphate wasting, loss   from the gastrointestinal tract, and loss from intracellular stores.  Hyperphosphatemia is usually secondary to an inability of the kidneys  to excrete phosphate. Other factors may relate to increased intake   or a shift of phosphate from the tissues into the extracellular fluid."
+      ],
+      "paragraph_SI": [
+        "Eighty-eight percent of the phosphorus contained in the body is  localized in bone in the form of hydroxyapatite. The remainder is  involved in intermediary carbohydrate metabolism and in  physiologically important substances such as phospholipids,  nucleic acids, and adenosine triphosphate (ATP). Phosphorus  occurs in blood in the form of inorganic phosphate and organically   bound phosphoric acid. The small amount of extracellular organic   phosphorus is found exclusively in the form of phospholipids.   Serum contains approximately 0.8-1.4 mmol/L of inorganic phosphate   (the fraction measure in routine biochemical assays). Serum   phosphate concentrations are dependent on meals and variation i  n the secretion of hormones such as parathyroid hormone (PTH)   and may vary widely.  Hypophosphatemia may have 4 general causes: shift of phosphate  from extracellular to intracellular, renal phosphate wasting, loss   from the gastrointestinal tract, and loss from intracellular stores.  Hyperphosphatemia is usually secondary to an inability of the kidneys  to excrete phosphate. Other factors may relate to increased intake   or a shift of phosphate from the tissues into the extracellular fluid."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Hypophosphatemia is relatively common in hospitalized patients.  Serum concentrations of phosphate between 1.5 and 2.4 mg/dL  may be consider moderately decreased and are not usually  associated with clinical signs and symptoms. Levels less than 1.5  mg/dL may result in muscle weakness, hemolysis of red cells,   coma, and bone deformity and impaired bone growth.  The most acute problem associated with rapid elevations of   serum phosphate levels is hypocalcemia with tetany, seizures, and   hypotension. Soft tissue calcification is also an important long-term   effect of high phosphorus levels.  Phosphorus levels less than 1.0 mg/dL are potentially life-threatening   and are considered a critical value."
+      ],
+      "paragraph_SI": [
+        "Hypophosphatemia is relatively common in hospitalized patients.  Serum concentrations of phosphate between 0.5 and 0.8 mmol/L may be consider moderately decreased and are not usually  associated with clinical signs and symptoms. Levels less than 0.5 mmol/L may result in muscle weakness, hemolysis of red cells,   coma, and bone deformity and impaired bone growth.  The most acute problem associated with rapid elevations of   serum phosphate levels is hypocalcemia with tetany, seizures, and   hypotension. Soft tissue calcification is also an important long-term   effect of high phosphorus levels.  Phosphorus levels less than 0.3 mmol/L are potentially life-threatening   and are considered a critical value."
+      ]
+    }
+  ]
+}

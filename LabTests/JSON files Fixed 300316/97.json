@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Basophil granulocytes",
+      "paragraph_US": [
+        "Basophils are the least common of the granulocytes, representing about 0.01% to 0.3% of circulating leukocytes (white blood cells).  Like all circulating granulocytes, basophils can be recruited out of the blood into a tissue when needed."
+      ],
+      "paragraph_SI": [
+        "Basophils are the least common of the granulocytes, representing about 0.01% to 0.3% of circulating leukocytes (white blood cells).  Like all circulating granulocytes, basophils can be recruited out of the blood into a tissue when needed."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<0.2E+9/L"
+      ],
+      "paragraph_SI": [
+        "<0.2E+9/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. They also contain the vasodilator histamine, which promotes blood flow to tissues."
+      ],
+      "paragraph_SI": [
+        "Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. They also contain the vasodilator histamine, which promotes blood flow to tissues."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "They can be found in unusually high numbers at sites of exoparasite infection, e.g., ticks. They also appear in tissues where allergic reactions are occurring and probably contribute to the severity of these reactions. Basophils have protein receptors on their cell surface that bind IgE antibody very tightly. It is the bound IgE antibody that confers a selective response of these cells to environmental substances, for example, pollen proteins."
+      ],
+      "paragraph_SI": [
+        "They can be found in unusually high numbers at sites of exoparasite infection, e.g., ticks. They also appear in tissues where allergic reactions are occurring and probably contribute to the severity of these reactions. Basophils have protein receptors on their cell surface that bind IgE antibody very tightly. It is the bound IgE antibody that confers a selective response of these cells to environmental substances, for example, pollen proteins."
+      ]
+    }
+  ]
+}

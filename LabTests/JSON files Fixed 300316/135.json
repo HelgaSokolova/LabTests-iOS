@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Nortriptyline",
+      "paragraph_US": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ],
+      "paragraph_SI": [
+        "Used in monitoring serum concentration  during therapy, evaluating potential toxicity or for evaluating patient  compliance."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration: 70-170 ng/mL  Toxic concentration: ≥500 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration: 270-650 nmol/L  Toxic concentration: ≥1900 nmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Most individuals display optimal response to nortriptyline with serum levels of  70 ng/mL to 170 ng/mL. Risk of toxicity is increased with nortriptyline levels  ≥500 ng/mL.     Some individuals may respond well outside of this range, or may display  toxicity within the therapeutic range; thus, interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ],
+      "paragraph_SI": [
+        "Most individuals display optimal response to nortriptyline with serum levels of  270 nmol/L to 650 nmol/L. Risk of toxicity is increased with nortriptyline levels  ≥1900 nmol/L.     Some individuals may respond well outside of this range, or may display  toxicity within the therapeutic range; thus, interpretation should include  clinical evaluation.     Therapeutic ranges are based on specimens drawn at trough (i.e. immediately  before the next dose)."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Nortriptyline is unique among the antidepressants in that its blood level  exhibits the classical therapeutic window effect; blood concentrations above or  below the therapeutic window correlate with poor clinical response. Thus,  therapeutic monitoring to ensure that the blood level is within the therapeutic  window is critical to accomplish successful treatment with this drug.     Nortriptyline is a TCA used for treatment of endogenous depression. It also is  a metabolite of the antidepressant amitriptyline. Nortriptyline is used when  its stimulatory side effect is considered to be of clinical advantage;  amitriptyline is used when the side effect of mild sedation is desirable.     Like amitriptyline, nortriptyline can cause major cardiac toxicity when the  concentration is in excess of 500 ng/mL, characterized by QRS widening leading  to ventricular tachycardia and asystole. In some patients, toxicity may  manifest at lower concentrations.   Nortriptyline analytical interferences;  sertraline may cause falsely low results, and metformin may cause false  elevations."
+      ],
+      "paragraph_SI": [
+        "Nortriptyline is unique among the antidepressants in that its blood level  exhibits the classical therapeutic window effect; blood concentrations above or  below the therapeutic window correlate with poor clinical response. Thus,  therapeutic monitoring to ensure that the blood level is within the therapeutic  window is critical to accomplish successful treatment with this drug.     Nortriptyline is a TCA used for treatment of endogenous depression. It also is  a metabolite of the antidepressant amitriptyline. Nortriptyline is used when  its stimulatory side effect is considered to be of clinical advantage;  amitriptyline is used when the side effect of mild sedation is desirable.     Like amitriptyline, nortriptyline can cause major cardiac toxicity when the  concentration is in excess of 1900 nmol/L, characterized by QRS widening leading  to ventricular tachycardia and asystole. In some patients, toxicity may  manifest at lower concentrations.   Nortriptyline analytical interferences;  sertraline may cause falsely low results, and metformin may cause false  elevations."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Green.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ascorbic acid (Vitamin C)",
+      "paragraph_US": [
+        "Diagnosing vitamin C deficiency    and as an aid to deter excessive intake."
+      ],
+      "paragraph_SI": [
+        "Diagnosing vitamin C deficiency    and as an aid to deter excessive intake."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "0.6-2.0 mg/dL"
+      ],
+      "paragraph_SI": [
+        "34-114 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Ascorbic acid (vitamin C) is essential for the enzymatic amidation   of neuropeptides, production of adrenal cortical steroid hormones,   promotion of the conversion of tropocollagen to collagen, and   metabolism of tyrosine and folate. It also plays a role in lipid and   vitamin metabolism and is a powerful reducing agent or antioxidant.   Specific actions include: activation of detoxifying enzymes in the liver,   antioxidation, interception and destruction of free radicals, preservation   and restoration of the antioxidant potential of vitamin E, and blockage   of the formation of carcinogenic nitrosamines. In addition, vitamin C   appears to function in a variety of other metabolic processes in which   its role has not been well characterized.      Prolonged deficiency of vitamin C leads to the development of scurvy,   a disease characterized by an inability to form adequate intercellular   substance in connective tissues. This results in the formation of swollen,   ulcerative lesions in the gums, mouth, and other tissues that are structurally   weakened. Early symptoms may include weakness, easy fatigue and   listlessness, as well as shortness of breath and aching joints, bones,   and muscles.    The need for vitamin C can be increased by the use of aspirin, oral  contraceptives, tetracycline, and a variety of other medications.  Psychologic stress and advancing age also tend to increase the  need for vitamin C. Among the elderly, lack of fresh fruit and vegetables   often adds vitamin C depletion to the inherently increased need,   with development of near-scurvy status."
+      ],
+      "paragraph_SI": [
+        "Ascorbic acid (vitamin C) is essential for the enzymatic amidation   of neuropeptides, production of adrenal cortical steroid hormones,   promotion of the conversion of tropocollagen to collagen, and   metabolism of tyrosine and folate. It also plays a role in lipid and   vitamin metabolism and is a powerful reducing agent or antioxidant.   Specific actions include: activation of detoxifying enzymes in the liver,   antioxidation, interception and destruction of free radicals, preservation   and restoration of the antioxidant potential of vitamin E, and blockage   of the formation of carcinogenic nitrosamines. In addition, vitamin C   appears to function in a variety of other metabolic processes in which   its role has not been well characterized.      Prolonged deficiency of vitamin C leads to the development of scurvy,   a disease characterized by an inability to form adequate intercellular   substance in connective tissues. This results in the formation of swollen,   ulcerative lesions in the gums, mouth, and other tissues that are structurally   weakened. Early symptoms may include weakness, easy fatigue and   listlessness, as well as shortness of breath and aching joints, bones,   and muscles.    The need for vitamin C can be increased by the use of aspirin, oral  contraceptives, tetracycline, and a variety of other medications.  Psychologic stress and advancing age also tend to increase the  need for vitamin C. Among the elderly, lack of fresh fruit and vegetables   often adds vitamin C depletion to the inherently increased need,   with development of near-scurvy status."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Values <0.3 mg/dL indicate significant deficiency.    Values >0.6 mg/dL indicate adequate supply.    The actual level at which vitamin C is excessive has not been  defined. Values >3.0 mg/dL are suggestive of excess intake.   Whether vitamin C in excess is indeed toxic continues to be  uncertain. However, recent limited observations suggest that this  condition may induce uricosuria and, especially in those with  glucose-6-phosphate dehydrogenase deficiency, may induce   increased red blood cell fragility."
+      ],
+      "paragraph_SI": [
+        "Values <17 µmol/L indicate significant deficiency.    Values >34 µmol/L indicate adequate supply.    The actual level at which vitamin C is excessive has not been  defined. Values >170 µmol/L are suggestive of excess intake.   Whether vitamin C in excess is indeed toxic continues to be  uncertain. However, recent limited observations suggest that this  condition may induce uricosuria and, especially in those with  glucose-6-phosphate dehydrogenase deficiency, may induce   increased red blood cell fragility."
+      ]
+    }
+  ]
+}

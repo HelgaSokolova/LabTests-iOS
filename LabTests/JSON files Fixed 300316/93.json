@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Bicarbonate (HCO3)",
+      "paragraph_US": [
+        "Together with pH determination, bicarbonate measurements are   used in the diagnosis and treatment of numerous potentially serious   disorders associated with acid-base imbalance in the respiratory   and metabolic systems. Some of these conditions are diarrhea,   renal tubular acidosis, carbonic anhydrase inhibitors, hyperkalemic   acidosis, renal failure, and ketoacidosis"
+      ],
+      "paragraph_SI": [
+        "Together with pH determination, bicarbonate measurements are   used in the diagnosis and treatment of numerous potentially serious   disorders associated with acid-base imbalance in the respiratory   and metabolic systems. Some of these conditions are diarrhea,   renal tubular acidosis, carbonic anhydrase inhibitors, hyperkalemic   acidosis, renal failure, and ketoacidosis"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "22-29 mEq/L"
+      ],
+      "paragraph_SI": [
+        "22-29 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Bicarbonate is the second largest fraction of the anions in plasma.   Included in this fraction are the bicarbonate  and carbonate ions, carbon dioxide in physical solution, as well as the   carbamino compounds. At the physiological pH of blood, the   concentration of carbonate is 1/1000 that bicarbonate. The   carbamino compounds are also present in such low quantities   that they are generally not mentioned specifically.  The bicarbonate content of serum or plasma is a significant   indicator of electrolyte dispersion and anion deficit."
+      ],
+      "paragraph_SI": [
+        "Bicarbonate is the second largest fraction of the anions in plasma.   Included in this fraction are the bicarbonate  and carbonate ions, carbon dioxide in physical solution, as well as the   carbamino compounds. At the physiological pH of blood, the   concentration of carbonate is 1/1000 that bicarbonate. The   carbamino compounds are also present in such low quantities   that they are generally not mentioned specifically.  The bicarbonate content of serum or plasma is a significant   indicator of electrolyte dispersion and anion deficit."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Alterations of bicarbonate and carbon dioxide (CO2) dissolved in   plasma are characteristic of acid-base imbalance. The nature of   the imbalance cannot, however, be inferred from the bicarbonate   value itself, and the determination of bicarbonate is rarely ordered   alone.  Its value has significance in the context of other electrolytes   determined with it and in screening for electrolyte imbalance."
+      ],
+      "paragraph_SI": [
+        "Alterations of bicarbonate and carbon dioxide (CO2) dissolved in   plasma are characteristic of acid-base imbalance. The nature of   the imbalance cannot, however, be inferred from the bicarbonate   value itself, and the determination of bicarbonate is rarely ordered   alone.  Its value has significance in the context of other electrolytes   determined with it and in screening for electrolyte imbalance."
+      ]
+    }
+  ]
+}

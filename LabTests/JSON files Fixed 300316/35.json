@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ionised calcium (Ca)",
+      "paragraph_US": [
+        "Used in assessing calcium states during liver transplantation surgery, cardiopulmonary bypass, or any procedure requiring rapid   transfusion of whole blood in neonates and in critically ill patients.  Second-order test in the evaluation of patients with abnormal   calcium values."
+      ],
+      "paragraph_SI": [
+        "Used in assessing calcium states during liver transplantation surgery, cardiopulmonary bypass, or any procedure requiring rapid   transfusion of whole blood in neonates and in critically ill patients.  Second-order test in the evaluation of patients with abnormal   calcium values."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "4.8-5.7 mg/dL"
+      ],
+      "paragraph_SI": [
+        "1.2-1.4 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Ionized calcium, which accounts for 50% to 55% of total calcium, is the   physiologically active form of calcium.  Low ionized calcium values are often seen in renal disease, critically   ill patients, or patients receiving rapid transfusion of citrated whole   blood or blood products.  Increased serum ionized calcium concentrations may be seen with   primary hyperparathyroidism, ectopic parathyroid hormone-producing   tumors, excess intake of vitamin D, or various malignancies.  Nomograms have been used to calculate ionized calcium from total  calcium, albumin, and pH values. However, calculated ionized calcium  results have proven to be unsatisfactory. There are significant differences between ionized and total calcium in 26%  of patients."
+      ],
+      "paragraph_SI": [
+        "Ionized calcium, which accounts for 50% to 55% of total calcium, is the   physiologically active form of calcium.  Low ionized calcium values are often seen in renal disease, critically   ill patients, or patients receiving rapid transfusion of citrated whole   blood or blood products.  Increased serum ionized calcium concentrations may be seen with   primary hyperparathyroidism, ectopic parathyroid hormone-producing   tumors, excess intake of vitamin D, or various malignancies.  Nomograms have been used to calculate ionized calcium from total  calcium, albumin, and pH values. However, calculated ionized calcium  results have proven to be unsatisfactory. There are significant differences between ionized and total calcium in 26%  of patients."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Serum ionized calcium concentrations 50% below normal result  in severely reduced cardiac stroke work. With moderate to severe   hypocalcemia, left ventricular function may be profoundly depressed.  Ionized calcium values are higher in children and young adults.  Ionized calcium values vary inversely with pH, approximately   0.2 mg/dL per 0.1 pH unit change."
+      ],
+      "paragraph_SI": [
+        "Serum ionized calcium concentrations 50% below normal result  in severely reduced cardiac stroke work. With moderate to severe   hypocalcemia, left ventricular function may be profoundly depressed.  Ionized calcium values are higher in children and young adults.  Ionized calcium values vary inversely with pH, approximately   0.05 mmol/L per 0.1 pH unit change."
+      ]
+    }
+  ]
+}

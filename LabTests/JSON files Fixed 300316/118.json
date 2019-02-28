@@ -1,0 +1,39 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Arterial Blood Gas Interpretation",
+      "paragraph_US": [
+                       "ABGs are performed to assess ventilation, oxygenation and the acid-base balance. Therefore common indications include:  \n1. diagnosis and assessment of respiratory disorders e.g. dyspnoea, COPD, asthma  \n2. assessment of oxygenation and guide oxygen therapy  \n3. assessment of metabolic disturbances e.g. diabetic ketoacidosis  \n4. cardiac arrest",
+                       "Nomogram.png"
+      ],
+      "paragraph_SI": [
+                       "ABGs are performed to assess ventilation, oxygenation and the acid-base balance. Therefore common indications include:  \n1. diagnosis and assessment of respiratory disorders e.g. dyspnoea, COPD, asthma  \n2. assessment of oxygenation and guide oxygen therapy  \n3. assessment of metabolic disturbances e.g. diabetic ketoacidosis  \n4. cardiac arrest",
+                       "Nomogram.png"
+      ]
+    },
+    {
+      "header": "Basics",
+      "paragraph_US": [
+        "1. pH is inversely proportional to the concentration of hydrogen ions in the blood  \n2. low pH = acidosis; high pH = alkalosis  \n3. any disturbance in acid-base balance can be caused by a respiratory cause, a   metabolic cause or a combined cause  \n4. to diagnose a respiratory cause look at the PaC02 levels  \n5. to diagnose a metabolic cause look at the HCO3- levels  \n6. to diagnose a combined respiratory-metabolic disorder is a bit more difficult"
+      ],
+      "paragraph_SI": [
+        "1. pH is inversely proportional to the concentration of hydrogen ions in the blood  \n2. low pH = acidosis; high pH = alkalosis  \n3. any disturbance in acid-base balance can be caused by a respiratory cause, a   metabolic cause or a combined cause  \n4. to diagnose a respiratory cause look at the PaC02 levels  \n5. to diagnose a metabolic cause look at the HCO3- levels  \n6. to diagnose a combined respiratory-metabolic disorder is a bit more difficult"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The first thing is to look at the pH. Remember that pH is inversely proportional to the concentration of hydrogen ions in the blood.  Now you should look at the PaC02 level. A raised PaC02 will cause an increase in hydrogen ions and so will result in an acidotic state. Alternatively, a low PaC02 will result in an alkalotic state.  If the change in pH is mirrored by the change in PaC02 level, then you can be fairly certain that the change is due to a respiratory cause.  ↑PaC02 = ↑H+ = respiratory acidosis  ↓PaC02 = ↓H+ = respiratory alkalosis  If the change is not mirrored then the cause is probably metabolic, so lets look at the HCO3- level.  HCO3- is a base and so a raised HCO3- level means more base and will cause a rise in the pH (alkalosis); a reduction in the HCO3- level will lead to a reduction in the pH (acidosis). Again, if the changes in pH are mirrored by the changes in the HCO3-level, then the cause of the acid-base imbalance is probably metabolic.  Just to a note about base excess. A base excess (positive value) indicates an excess of base in the body and so mirrors a raised HCO3- level (metabolic alkalosis). A base deficit (negative value) indicates a lack of base in the body and so mirrors a reduced HCO3- level (metabolic acidosis).  One further thing to look for is compensatory changes. This is to be expected because the body wants to bring the pH level back to normal. Remember that respiratory compensation occurs quickly whereas metabolic compensation can take longer to occur."
+      ],
+      "paragraph_SI": [
+        "The first thing is to look at the pH. Remember that pH is inversely proportional to the concentration of hydrogen ions in the blood.  Now you should look at the PaC02 level. A raised PaC02 will cause an increase in hydrogen ions and so will result in an acidotic state. Alternatively, a low PaC02 will result in an alkalotic state.  If the change in pH is mirrored by the change in PaC02 level, then you can be fairly certain that the change is due to a respiratory cause.  ↑PaC02 = ↑H+ = respiratory acidosis  ↓PaC02 = ↓H+ = respiratory alkalosis  If the change is not mirrored then the cause is probably metabolic, so lets look at the HCO3- level.  HCO3- is a base and so a raised HCO3- level means more base and will cause a rise in the pH (alkalosis); a reduction in the HCO3- level will lead to a reduction in the pH (acidosis). Again, if the changes in pH are mirrored by the changes in the HCO3-level, then the cause of the acid-base imbalance is probably metabolic.  Just to a note about base excess. A base excess (positive value) indicates an excess of base in the body and so mirrors a raised HCO3- level (metabolic alkalosis). A base deficit (negative value) indicates a lack of base in the body and so mirrors a reduced HCO3- level (metabolic acidosis).  One further thing to look for is compensatory changes. This is to be expected because the body wants to bring the pH level back to normal. Remember that respiratory compensation occurs quickly whereas metabolic compensation can take longer to occur."
+      ]
+    }
+  ]
+}

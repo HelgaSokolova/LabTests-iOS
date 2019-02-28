@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Hemoglobin in plasma",
+      "paragraph_US": [
+        "Determining whether hemolysis is occurring such as from:  Transfusion reaction and mechanical fragmentation of red blood cells."
+      ],
+      "paragraph_SI": [
+        "Determining whether hemolysis is occurring such as from:  Transfusion reaction and mechanical fragmentation of red blood cells."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≥18 years:  0-15 mg/dL"
+      ],
+      "paragraph_SI": [
+        "≥18 years:  0-2.3 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Plasma normally contains no free hemoglobin (no hemoglobin   that is not contained in erythrocytes)."
+      ],
+      "paragraph_SI": [
+        "Plasma normally contains no free hemoglobin (no hemoglobin   that is not contained in erythrocytes)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Significant amounts of hemoglobin occur in plasma following hemolysis  such as might result from a transfusion reaction or mechanical  fragmentation of red blood cells during cardiac surgery."
+      ],
+      "paragraph_SI": [
+        "Significant amounts of hemoglobin occur in plasma following hemolysis  such as might result from a transfusion reaction or mechanical  fragmentation of red blood cells during cardiac surgery."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Uric acid",
+     "paragraph_US": [ "Uric acid measurements are used in the diagnosis and treatment of  renal failure and monitoring patients receiving cytotoxic drugs and a  variety of other disorders, including gout, leukemia, psoriasis,  starvation and other wasting conditions."],
+		"dot_image": "Gold.png",
+    "paragraph_SI": [ "Uric acid measurements are used in the diagnosis and treatment of  renal failure and monitoring patients receiving cytotoxic drugs and a  variety of other disorders, including gout, leukemia, psoriasis,  starvation and other wasting conditions."]
+	},
+  {
+    "header": "Reference Range",
+     "paragraph_US": [ "Males: 3.7-8.0 mg/dL \nFemales: 2.7-6.1 mg/dL"],
+		
+    "paragraph_SI": [ "Males: 220-476 µmol/L \nFemales: 161-363 µmol/L"]
+	},
+  {
+    "header": "Clinical Information",
+     "paragraph_US": [ "Uric acid is the final product of purine metabolism in humans.   Purines, compounds that are vital components of nucleic acids  and coenzymes, may be synthesized in the body or they may be  obtained by ingesting foods rich in nucleic material (e.g. liver,  sweetbreads, etc.).  Approximately 75% of the uric acid excreted  is lost in the urine; most of the remainder is secreted into the  gastrointestinal tract, where it is degraded to allantoin and other  compounds by bacterial enzymes.  Asymptomatic hyperuricemia is frequently detected through  biochemical screening.  The major causes of hyperuricemia are  increased purine synthesis, inherited metabolic disorder, excess  dietary purine intake, increased nucleic acid turnover, malignancy,  cytotoxic drugs, and decreased excretion due to chronic renal failure  or increased renal reabsorption.  Long-term follow-up of these patients  is undertaken because many are at risk of renal disease that may  develop; few of these patients ever develop the clinical syndrome of gout.  Hypouricemia, often defined as serum urate less than 2.0 mg/dL, is much  less common than hypouricemia.  It may be secondary to severe  hepatocellular disease with reduced purine synthesis; defective renal  tubular reabsorption; overtreatment of hyperuricemia with allopurinol  and well as some cancer therapies (e.g. 6-mercaptopurine)."],
+		
+    "paragraph_SI": [ "Uric acid is the final product of purine metabolism in humans.   Purines, compounds that are vital components of nucleic acids  and coenzymes, may be synthesized in the body or they may be  obtained by ingesting foods rich in nucleic material (e.g. liver,  sweetbreads, etc.).  Approximately 75% of the uric acid excreted  is lost in the urine; most of the remainder is secreted into the  gastrointestinal tract, where it is degraded to allantoin and other  compounds by bacterial enzymes.  Asymptomatic hyperuricemia is frequently detected through  biochemical screening.  The major causes of hyperuricemia are  increased purine synthesis, inherited metabolic disorder, excess  dietary purine intake, increased nucleic acid turnover, malignancy,  cytotoxic drugs, and decreased excretion due to chronic renal failure  or increased renal reabsorption.  Long-term follow-up of these patients  is undertaken because many are at risk of renal disease that may  develop; few of these patients ever develop the clinical syndrome of gout.  Hypouricemia, often defined as serum urate less than 118 µmol/L, is much  less common than hypouricemia.  It may be secondary to severe  hepatocellular disease with reduced purine synthesis; defective renal  tubular reabsorption; overtreatment of hyperuricemia with allopurinol  and well as some cancer therapies (e.g. 6-mercaptopurine)."]
+	},
+  {
+    "header": "Interpretation",
+     "paragraph_US": [ "Hyperuricemia is most commonly defined by serum or plasma uric  acid concentrations greater than 8.0 mg/dL in males or greater than  6.1 mg/dL in females."],
+		
+    "paragraph_SI": [ "Hyperuricemia is most commonly defined by serum or plasma uric  acid concentrations greater than 476 µmol/L in males or greater than  363 µmol/L in females."]
+	}]
+}

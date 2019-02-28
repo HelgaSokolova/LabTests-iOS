@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Amikacin",
+      "paragraph_US": [
+        "Useful in monitoring adequacy of serum  concentration during amikacin therapy"
+      ],
+      "paragraph_SI": [
+        "Useful in monitoring adequacy of serum  concentration during amikacin therapy"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic concentration (peak): 20.0-35.0  µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration (peak): 34-52  µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Therapeutic concentration (trough): <8.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic concentration (trough): <14.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "For conventional (non-pulse) dosing  protocols, clinical effects may not be achieved if the peak serum concentration  is <20.0 µg/mL. Toxicity may occur if the peak serum concentration is  maintained >35.0 µg/mL for a prolonged period of time. Trough concentrations should fall to <8.0 µg/mL. Toxicity may  occur if the trough serum concentration is maintained >10.0 µg/mL for prolonged  periods of time."
+      ],
+      "paragraph_SI": [
+        "For conventional (non-pulse) dosing  protocols, clinical effects may not be achieved if the peak serum concentration  is <34.0 µmol/L. Toxicity may occur if the peak serum concentration is  maintained >52.0 µmol/L for a prolonged period of time. Trough concentrations should fall to <14.0 µmol/L. Toxicity may  occur if the trough serum concentration is maintained >17.0 µmol/L for prolonged  periods of time."
+      ]
+    }
+  ]
+}

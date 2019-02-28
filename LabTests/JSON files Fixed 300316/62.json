@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Homocysteine",
+      "paragraph_US": [
+        "Homocysteine  (HCY) represent the main biochemical marker of several primary  and secondary disorders of methionine metabolism.    Inborn Errors of Methionine Metabolism Leading to   Homocysteinemia/-uria.    Primary enzyme defects:   Cystathionine synthase (CS) deficiency (homocystinuria), Methylenetetrahydrofolate reductase (MTHFR) deficiency  and thermolabile variant. Methionine synthase (MS) deficiency    Secondary to genetic defects of cofactors metabolism: Vitamin B(6) (pyridoxal-P), Vitamin B(12) (cobalamin)  and Folic acid."
+      ],
+      "paragraph_SI": [
+        "Homocysteine  (HCY) represent the main biochemical marker of several primary  and secondary disorders of methionine metabolism.    Inborn Errors of Methionine Metabolism Leading to   Homocysteinemia/-uria.    Primary enzyme defects:   Cystathionine synthase (CS) deficiency (homocystinuria), Methylenetetrahydrofolate reductase (MTHFR) deficiency  and thermolabile variant. Methionine synthase (MS) deficiency    Secondary to genetic defects of cofactors metabolism: Vitamin B(6) (pyridoxal-P), Vitamin B(12) (cobalamin)  and Folic acid."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤13 µmol/L"
+      ],
+      "paragraph_SI": [
+        "≤13 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "In addition to the biochemical diagnosis of inherited disorders   of methionine metabolism, the clinical significance of total homocysteine   (HCY) is linked to its recognition as an independent predictor of   cardiovascular disease (atherosclerosis, heart disease,   thromboembolism), as an indicator of acquired folate or cobalamin   deficiency, and a contributing factor in the pathogenesis of neural   tube defects."
+      ],
+      "paragraph_SI": [
+        "In addition to the biochemical diagnosis of inherited disorders   of methionine metabolism, the clinical significance of total homocysteine   (HCY) is linked to its recognition as an independent predictor of   cardiovascular disease (atherosclerosis, heart disease,   thromboembolism), as an indicator of acquired folate or cobalamin   deficiency, and a contributing factor in the pathogenesis of neural   tube defects."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "HCY levels > 13 µmol/L are considered abnormal in patients  under evaluation for:  Cardiovascular disease and Neurovascular disease.    Hyperhomocysteinemia suggests that genetic and nutritional   factors are potentially involved in the etiology of the disease.    Response to dietary treatment can be evaluated by monitoring  plasma HCY levels over time."
+      ],
+      "paragraph_SI": [
+        "HCY levels > 13 µmol/L are considered abnormal in patients  under evaluation for:  Cardiovascular disease and Neurovascular disease.    Hyperhomocysteinemia suggests that genetic and nutritional   factors are potentially involved in the etiology of the disease.    Response to dietary treatment can be evaluated by monitoring  plasma HCY levels over time."
+      ]
+    }
+  ]
+}

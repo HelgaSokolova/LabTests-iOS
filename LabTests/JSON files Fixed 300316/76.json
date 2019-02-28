@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Hemoglobin (Hgb)",
+      "paragraph_US": [
+        "Hemoglobin is a protein in red blood cells that carries oxygen. The hemoglobin test is almost always done as part of a complete blood count (CBC) and most often to test for anemia and bleeding."
+      ],
+      "paragraph_SI": [
+        "Hemoglobin is a protein in red blood cells that carries oxygen. The hemoglobin test is almost always done as part of a complete blood count (CBC) and most often to test for anemia and bleeding."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Male: 13.8 – 17.2 g/dL \nFemale: 12.1 – 15.1 g/dL"
+      ],
+      "paragraph_SI": [
+        "Male: 8 – 10.5 mmol/L  \nFemale: 7 – 9.5 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Lower-than-normal hemoglobin may be due to: Anemia (various types), bleeding, erythropoietin deficiency (from kidney disease), nutritional deficiencies of iron, folate, vitamin B12 and vitamin B6. More uncommon conditions include lead poisoning, malnutrition, overhydration and red blood cell destruction associated with transfusion reaction.Higher-than-normal hemoglobin may be due to: Congenital heart disease, Cor pulmonale, Increased red blood cells due to too much erythropoietin, Pulmonary fibrosis and Polycythemia vera.   Additional conditions under which the test may be performed: Anemia of chronic disease, Clinical hemoglobin C, Diabetes, Drug-induced immune hemolytic anemia, Giant cell (temporal, cranial) arteritis, Hemolytic anemia due to G6PD deficiency, Idiopathic aplastic anemia, Idiopathic autoimmune hemolytic anemia,Immune hemolytic anemia, Iron deficiency anemia, Paroxysmal cold hemoglobinuria (PCH, Paroxysmal nocturnal hemoglobinuria (PNH), Pernicious anemia, Placenta abruptio, Polymyalgia rheumatica, Rhabdomyolysis, Secondary aplastic anemia and many more."
+      ],
+      "paragraph_SI": [
+        "Lower-than-normal hemoglobin may be due to: Anemia (various types), bleeding, erythropoietin deficiency (from kidney disease), nutritional deficiencies of iron, folate, vitamin B12 and vitamin B6. More uncommon conditions include lead poisoning, malnutrition, overhydration and red blood cell destruction associated with transfusion reaction.Higher-than-normal hemoglobin may be due to: Congenital heart disease, Cor pulmonale, Increased red blood cells due to too much erythropoietin, Pulmonary fibrosis and Polycythemia vera.   Additional conditions under which the test may be performed: Anemia of chronic disease, Clinical hemoglobin C, Diabetes, Drug-induced immune hemolytic anemia, Giant cell (temporal, cranial) arteritis, Hemolytic anemia due to G6PD deficiency, Idiopathic aplastic anemia, Idiopathic autoimmune hemolytic anemia,Immune hemolytic anemia, Iron deficiency anemia, Paroxysmal cold hemoglobinuria (PCH, Paroxysmal nocturnal hemoglobinuria (PNH), Pernicious anemia, Placenta abruptio, Polymyalgia rheumatica, Rhabdomyolysis, Secondary aplastic anemia and many more."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The hemoglobin level should allways be evaluated in combination with the complete blood count (CBC)"
+      ],
+      "paragraph_SI": [
+        "The hemoglobin level should allways be evaluated in combination with the complete blood count (CBC)"
+      ]
+    }
+  ]
+}

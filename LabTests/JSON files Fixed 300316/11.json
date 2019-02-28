@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total iron-binding capacity (TIBC)",
+		 "paragraph_US": [ "Used in screening for chronic iron overload diseases, particularly   hereditary hemochromatosis.    Serum iron, TIBC, and percent saturation are widely used   for the diagnosis of iron deficiency. However, serum ferritin   is a much more sensitive and reliable test for demonstration of iron deficiency."],
+		"dot_image": "Gold.png",
+		"paragraph_SI": [ "Used in screening for chronic iron overload diseases, particularly   hereditary hemochromatosis.    Serum iron, TIBC, and percent saturation are widely used   for the diagnosis of iron deficiency. However, serum ferritin   is a much more sensitive and reliable test for demonstration of iron deficiency."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "Iron:   Males: 50-150 µg/dL \nFemales: 35-145 µg/dL \nTotal Binding Capacity:  250-400 µg/dL \nPercent Saturation:  14-50%"],
+		
+		"paragraph_SI": [ "Iron:   Males: 9-27 µmol/L  \nFemales: 6-26 µmol/L  \nTotal Binding Capacity:  45-72 µmol/L  \nPercent Saturation:  14-50%"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Ingested iron is absorbed primarily from the intestinal tract and is   temporarily stored in the mucosal cells as  a complex   of ferric hydroxide-ferric phosphate attached to the protein apoferritin.   On demand, iron is released into the blood as Fe(3)-transferrin in   equilibrium with a very small amount of free Fe(3).   Transferrin is the plasma iron transport protein, which binds iron   strongly at physiological pH. Transferrin is generally only 25% to 30%   saturated with iron. The additional amount of iron that can be bound   is the unsaturated iron-binding capacity (UIBC). The sum of the serum   iron and UIBC represents the total iron-binding capacity (TIBC). TIBC   is an indirect measurement of transferrin concentration. Each   transferrin molecule has 2 iron-binding sites. On average, in   normal persons, about 1/3 of the total iron-binding sites are occupied   by iron.     Percent saturation (100 x serum iron/TIBC) is usually normal or   increased in persons who are iron deficient, pregnant, or are   taking oral contraceptive medications. Persons with chronic   inflammatory processes, hemochromatosis, or malignancies   generally display low TIBC."],
+		
+		"paragraph_SI": [ "Ingested iron is absorbed primarily from the intestinal tract and is   temporarily stored in the mucosal cells as  a complex   of ferric hydroxide-ferric phosphate attached to the protein apoferritin.   On demand, iron is released into the blood as Fe(3)-transferrin in   equilibrium with a very small amount of free Fe(3).   Transferrin is the plasma iron transport protein, which binds iron   strongly at physiological pH. Transferrin is generally only 25% to 30%   saturated with iron. The additional amount of iron that can be bound   is the unsaturated iron-binding capacity (UIBC). The sum of the serum   iron and UIBC represents the total iron-binding capacity (TIBC). TIBC   is an indirect measurement of transferrin concentration. Each   transferrin molecule has 2 iron-binding sites. On average, in   normal persons, about 1/3 of the total iron-binding sites are occupied   by iron.     Percent saturation (100 x serum iron/TIBC) is usually normal or   increased in persons who are iron deficient, pregnant, or are   taking oral contraceptive medications. Persons with chronic   inflammatory processes, hemochromatosis, or malignancies   generally display low TIBC."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "In hereditary hemochromatosis, serum iron is usually  >150 µg/dL and percent saturation is >60%. In advanced iron overload   states, the percent saturation often is >90%."],
+		
+		"paragraph_SI": [ "In hereditary hemochromatosis, serum iron is usually  >27 µmol/L and percent saturation is >60%. In advanced iron overload   states, the percent saturation often is >90%."]
+	}]
+}

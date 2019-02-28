@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Thyroxine-binding globulin (TBG)",
+      "paragraph_US": [
+        "TBG levels is particularly useful for determining cases in which  total thyroid hormone levels do not correlate with the thyrometabolic  status, most commonly with pregnancy or the use of contraceptive  steroids."
+      ],
+      "paragraph_SI": [
+        "TBG levels is particularly useful for determining cases in which  total thyroid hormone levels do not correlate with the thyrometabolic  status, most commonly with pregnancy or the use of contraceptive  steroids."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "16-34 µg/mL"
+      ],
+      "paragraph_SI": [
+        "16-34 mg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Thyroxine binding globin (TBG) is the high-affinity serum binding   protein for thyroxine (T4) and triiodothyronine (T3).  Normally, the   thyroid adjusts to changing concentrations of TBG by producing   more or less thyroid hormone to maintain a constant level of   metabolically important free hormone.  Elevated TBG levels are associated with influences such as   pregnancy, genetic predisposition, oral contraceptives, and   estrogen therapy. TBG levels can decrease with androgenic or   anabolic steroids, large doses of glucocorticoids, hypoproteinemic   states, liver disease, nephrotic syndrome, and congenital TBG   variants."
+      ],
+      "paragraph_SI": [
+        "Thyroxine binding globin (TBG) is the high-affinity serum binding   protein for thyroxine (T4) and triiodothyronine (T3).  Normally, the   thyroid adjusts to changing concentrations of TBG by producing   more or less thyroid hormone to maintain a constant level of   metabolically important free hormone.  Elevated TBG levels are associated with influences such as   pregnancy, genetic predisposition, oral contraceptives, and   estrogen therapy. TBG levels can decrease with androgenic or   anabolic steroids, large doses of glucocorticoids, hypoproteinemic   states, liver disease, nephrotic syndrome, and congenital TBG   variants."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "A change in TBG concentration may be of hereditary,   pathophysiologic, or pharmacologic origin.    The TBG concentration indicates whether an abnormally high or  low total thyroid hormone concentration is offset by a parallel  increase or decrease in TBG concentration.  In TBG deficiency, one may find euthyroid patients with extremely   low total T4 values. Conversely, patients with high TBG levels   may be clinically euthyroid with high serum total T4 values."
+      ],
+      "paragraph_SI": [
+        "A change in TBG concentration may be of hereditary,   pathophysiologic, or pharmacologic origin.    The TBG concentration indicates whether an abnormally high or  low total thyroid hormone concentration is offset by a parallel  increase or decrease in TBG concentration.  In TBG deficiency, one may find euthyroid patients with extremely   low total T4 values. Conversely, patients with high TBG levels   may be clinically euthyroid with high serum total T4 values."
+      ]
+    }
+  ]
+}

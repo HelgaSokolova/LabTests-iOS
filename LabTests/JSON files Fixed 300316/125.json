@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Prostate-Specific Antigen Ratio",
+      "paragraph_US": [
+        "The percentage of measured  prostate-specific antigen (PSA) existing in the free form (free/total PSA  ratio) is useful in assessing the risk of prostate cancer in patients with  borderline or moderately increased total PSA (2-10 ng/mL) and has been used to  help select men who should have follow-up prostate biopsy.     Most prostate cancers are slow growing, so the utility of prostate cancer  screening is marginal in most men with a life expectancy of <10 years."
+      ],
+      "paragraph_SI": [
+        "The percentage of measured  prostate-specific antigen (PSA) existing in the free form (free/total PSA  ratio) is useful in assessing the risk of prostate cancer in patients with  borderline or moderately increased total PSA (2-10 ng/mL) and has been used to  help select men who should have follow-up prostate biopsy.     Most prostate cancers are slow growing, so the utility of prostate cancer  screening is marginal in most men with a life expectancy of <10 years."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "PSA >4 ng/mL and free PSA/total PSA ratio <0.25 indicates increased risk  of prostate cancer.  PSA <4 ng/mL and free PSA/total PSA ratio <0.18 indicates increased risk  of prostate cancer.  Free/total PSA ratios have been reported to be of value for evaluating men with  total PSA values between 4 and 10 ng/mL. For men with PSA in this range, those  with a free PSA ratio ≤0.10 have a risk for prostate cancer  approximately double those with a free PSA ratio >0.24. When total PSA  concentration is <4.0 ng/mL, the risk of prostate cancer is less and the use  of free PSA ratios to clarify relative risk is not well defined, but lower free  PSA ratios may be seen in the absence of cancer. When total PSA concentration  is >10 ng/mL, the risk of prostate cancer is relatively high and the use of  free PSA ratio again is not well defined, but cancer may be present even when  the free PSA ratio is >0.24.  Serum markers are not specific for malignancy, and values may vary by method."
+      ],
+      "paragraph_SI": [
+        "PSA >4 µg/L and free PSA/total PSA ratio <0.25 indicates increased risk  of prostate cancer.  PSA <4 µg/L and free PSA/total PSA ratio <0.18 indicates increased risk  of prostate cancer.  Free/total PSA ratios have been reported to be of value for evaluating men with  total PSA values between 4 and 10 µg/L. For men with PSA in this range, those  with a free PSA ratio ≤0.10 have a risk for prostate cancer  approximately double those with a free PSA ratio >0.24. When total PSA  concentration is <4.0 µg/L, the risk of prostate cancer is less and the use  of free PSA ratios to clarify relative risk is not well defined, but lower free  PSA ratios may be seen in the absence of cancer. When total PSA concentration  is >10 µg/L, the risk of prostate cancer is relatively high and the use of  free PSA ratio again is not well defined, but cancer may be present even when  the free PSA ratio is >0.24.  Serum markers are not specific for malignancy, and values may vary by method."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "When total prostate-specific antigen (PSA) concentration is <2.0 ng/mL, the  probability of prostate cancer in asymptomatic men is low, further testing and  free PSA may provide little additional information. When total PSA  concentration is >10.0 ng/mL, the probability of cancer is high and prostate  biopsy is generally recommended.     The relative risk of prostate cancer is approximately doubled when the  free/total PSA ratio is <0.10, and the relative risk is approximately halved  when the ratio is >0.24. In Caucasian men with total PSA concentration  between 4.0 ng/mL to 10.0 ng/mL, 95% of those found to have malignant results  of prostate biopsy have a free/total PSA ration <0.24 and 90% have a ratio  <0.22. Therefore, some urologists recommend using the free/total ratio to  help select which men should undergo biopsy. However even a negative result of  prostate biopsy does not rule out prostate cancer. Up to 20% of men with  negative biopsy results have subsequently been found to have cancer."
+      ],
+      "paragraph_SI": [
+        "When total prostate-specific antigen (PSA) concentration is <2.0 µg/L, the  probability of prostate cancer in asymptomatic men is low, further testing and  free PSA may provide little additional information. When total PSA  concentration is >10.0 µg/L, the probability of cancer is high and prostate  biopsy is generally recommended.     The relative risk of prostate cancer is approximately doubled when the  free/total PSA ratio is <0.10, and the relative risk is approximately halved  when the ratio is >0.24. In Caucasian men with total PSA concentration  between 4.0 µg/L to 10.0 µg/L, 95% of those found to have malignant results  of prostate biopsy have a free/total PSA ration <0.24 and 90% have a ratio  <0.22. Therefore, some urologists recommend using the free/total ratio to  help select which men should undergo biopsy. However even a negative result of  prostate biopsy does not rule out prostate cancer. Up to 20% of men with  negative biopsy results have subsequently been found to have cancer."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Prostate-specific antigen (PSA) is a glycoprotein that is produced by the  prostate gland, the lining of the urethra, and the bulbourethral gland.  Normally, very little PSA is secreted in the blood. Increases in glandular size  and tissue damage caused by benign prostatic hypertrophy, prostatitis, and/or  prostate cancer may increase circulating PSA levels.     Higher total PSA levels and lower percentages of free PSA are associated with  higher risks of prostate cancer.   Normal results do not eliminate the  possibility of prostate cancer."
+      ],
+      "paragraph_SI": [
+        "Prostate-specific antigen (PSA) is a glycoprotein that is produced by the  prostate gland, the lining of the urethra, and the bulbourethral gland.  Normally, very little PSA is secreted in the blood. Increases in glandular size  and tissue damage caused by benign prostatic hypertrophy, prostatitis, and/or  prostate cancer may increase circulating PSA levels.     Higher total PSA levels and lower percentages of free PSA are associated with  higher risks of prostate cancer.   Normal results do not eliminate the  possibility of prostate cancer."
+      ]
+    }
+  ]
+}

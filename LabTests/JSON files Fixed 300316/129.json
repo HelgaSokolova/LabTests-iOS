@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "CSF.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Cerebrospinal Fluid (CSF)  IgG Index",
+      "paragraph_US": [
+        "Used as an aid in the diagnosis of  multiple sclerosis"
+      ],
+      "paragraph_SI": [
+        "Used as an aid in the diagnosis of  multiple sclerosis"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "CSF index: 0.00-0.85  \nCSF IgG: 0.0-8.1 mg/dL  \nCSF albumin: 0.0-27.0 mg/dL  \nSerum IgG: 767-1,590 mg/dL  \nSerum albumin: 3,200-4,800 mg/dL  \nCSF IgG/albumin: 0.00-0.21  \nSerum IgG/albumin: 0.0-0.4  \nCSF IgG synthesis rate: 0-12 mg/24 hours"
+      ],
+      "paragraph_SI": [
+        "CSF index: 0.00-0.85  \nCSF IgG: 0-80 mg/L  \nCSF albumin: 0-270 mg/L  \nSerum IgG: 7.7-15.9 g/L  \nSerum albumin: 32.0-48.0 g/L  \nCSF IgG/albumin: 0.00-0.21  \nSerum IgG/albumin: 0.0-0.4  \nCSF IgG synthesis rate: 0-12 mg/24 hours"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Cerebrospinal Fluid (CSF) IgG index is positive (elevated) in approximately 80%  of patients with multiple sclerosis (MS). Oligoclonal banding in CSF is also  positive in approximately 80% of patients with MS. The use of CSF index plus  oligoclonal banding has been reported to increase the sensitivity to over 90%.     The index is independent of the activity of the demyelinating process."
+      ],
+      "paragraph_SI": [
+        "Cerebrospinal Fluid (CSF) IgG index is positive (elevated) in approximately 80%  of patients with multiple sclerosis (MS). Oligoclonal banding in CSF is also  positive in approximately 80% of patients with MS. The use of CSF index plus  oligoclonal banding has been reported to increase the sensitivity to over 90%.     The index is independent of the activity of the demyelinating process."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Elevation of IgG levels in the cerebrospinal fluid (CSF) of patients with  inflammatory diseases of the central nervous system (multiple sclerosis [MS],  neurosyphilis, acute inflammatory polyradiculoneuropathy, subacute sclerosing  panencephalitis) is due to local central nervous system (CNS) synthesis of IgG.     The 2 most commonly used diagnostic laboratory tests for MS are CSF index and  oligoclonal banding. The CSF index is the CSF IgG to CSF albumin ratio compared  to the serum IgG to serum albumin ratio. The CSF index is, therefore, an  indicator of the relative amount of CSF IgG compared to serum. Any increase in  the index is a reflection of IgG production in the CNS. The IgG synthesis rate  is a mathematical manipulation of the CSF index data and can also be used as a  marker for CNS inflammatory diseases."
+      ],
+      "paragraph_SI": [
+        "Elevation of IgG levels in the cerebrospinal fluid (CSF) of patients with  inflammatory diseases of the central nervous system (multiple sclerosis [MS],  neurosyphilis, acute inflammatory polyradiculoneuropathy, subacute sclerosing  panencephalitis) is due to local central nervous system (CNS) synthesis of IgG.     The 2 most commonly used diagnostic laboratory tests for MS are CSF index and  oligoclonal banding. The CSF index is the CSF IgG to CSF albumin ratio compared  to the serum IgG to serum albumin ratio. The CSF index is, therefore, an  indicator of the relative amount of CSF IgG compared to serum. Any increase in  the index is a reflection of IgG production in the CNS. The IgG synthesis rate  is a mathematical manipulation of the CSF index data and can also be used as a  marker for CNS inflammatory diseases."
+      ]
+    }
+  ]
+}

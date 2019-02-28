@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Pico70.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Standard bicarbonate (SBCe)",
+      "paragraph_US": [
+        "A bicarbonate (HCO3) test measures the level of bicarbonate in the blood. Bicarbonate is a chemical (buffer) that keeps the pH of blood from becoming too acidic or too basic."
+      ],
+      "paragraph_SI": [
+        "A bicarbonate (HCO3) test measures the level of bicarbonate in the blood. Bicarbonate is a chemical (buffer) that keeps the pH of blood from becoming too acidic or too basic."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "20-29 mEq/L"
+      ],
+      "paragraph_SI": [
+        "20-29 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The blood bicarbonate test is often done along with an arterial blood gas (ABG) test. An ABG test measures the blood pH and carbon dioxide levels that are needed to find the cause of a high or low bicarbonate level."
+      ],
+      "paragraph_SI": [
+        "The blood bicarbonate test is often done along with an arterial blood gas (ABG) test. An ABG test measures the blood pH and carbon dioxide levels that are needed to find the cause of a high or low bicarbonate level."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Bicarbonate is not usually tested by itself. It may be done on a blood sample taken from a vein as part of a panel of tests that looks at other electrolytes, such as sodium, potassium, and chloride. It is often done along with a carbon dioxide test or as part of an arterial blood gas (ABG) test. For an arterial blood gas study, the blood sample is taken from an artery.  A bicarbonate (HCO3) test helps find and keeps track of conditions that affect blood bicarbonate levels, including many kidney diseases, some lung diseases, and metabolic conditions."
+      ],
+      "paragraph_SI": [
+        "Bicarbonate is not usually tested by itself. It may be done on a blood sample taken from a vein as part of a panel of tests that looks at other electrolytes, such as sodium, potassium, and chloride. It is often done along with a carbon dioxide test or as part of an arterial blood gas (ABG) test. For an arterial blood gas study, the blood sample is taken from an artery.  A bicarbonate (HCO3) test helps find and keeps track of conditions that affect blood bicarbonate levels, including many kidney diseases, some lung diseases, and metabolic conditions."
+      ]
+    }
+  ]
+}

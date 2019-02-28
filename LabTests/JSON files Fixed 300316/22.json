@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Alanine transaminase (ALT)",
+      "paragraph_US": [
+        "Useful for  diagnosing and monitoring of liver disease associated with  hepatic necrosis."
+      ],
+      "paragraph_SI": [
+        "Useful for  diagnosing and monitoring of liver disease associated with  hepatic necrosis."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Males:  7-55 U/L  Females:  7-45 U/L"
+      ],
+      "paragraph_SI": [
+        "Males:  7-55 U/L  Females:  7-45 U/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Alanine aminotransferase (ALT) is present primarily in liver cells.  In viral hepatitis and other forms of liver disease associated with  hepatic necrosis, serum ALT is elevated, even before the clinical  signs and symptoms of the disease appear. Although serum  levels of both aspartate aminotransferase (AST) and ALT  become elevated whenever disease processes affect liver cell  integrity, ALT is a more liver-specific enzyme. Serum elevations  of ALT are rarely observed in conditions other than parenchymal  liver disease. Moreover, the elevation of ALT activity persists  longer than does AST activity."
+      ],
+      "paragraph_SI": [
+        "Alanine aminotransferase (ALT) is present primarily in liver cells.  In viral hepatitis and other forms of liver disease associated with  hepatic necrosis, serum ALT is elevated, even before the clinical  signs and symptoms of the disease appear. Although serum  levels of both aspartate aminotransferase (AST) and ALT  become elevated whenever disease processes affect liver cell  integrity, ALT is a more liver-specific enzyme. Serum elevations  of ALT are rarely observed in conditions other than parenchymal  liver disease. Moreover, the elevation of ALT activity persists  longer than does AST activity."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated ALT values are seen in parenchymal liver diseases  characterized by a destruction of hepatocytes. Values are  typically at least 10 times above the normal range. Levels may  reach values as high as 100 times the upper reference limit,  although 20 to 50-fold elevations are most frequently encountered.  In infectious hepatitis and other inflammatory conditions affecting  the liver, ALT is characteristically as high as or higher than AST,  and the ALT/AST ratio, which normally and in other conditions  is less than 1, becomes greater than unity. ALT levels are usually  elevated before clinical signs and symptoms of disease appear."
+      ],
+      "paragraph_SI": [
+        "Elevated ALT values are seen in parenchymal liver diseases  characterized by a destruction of hepatocytes. Values are  typically at least 10 times above the normal range. Levels may  reach values as high as 100 times the upper reference limit,  although 20 to 50-fold elevations are most frequently encountered.  In infectious hepatitis and other inflammatory conditions affecting  the liver, ALT is characteristically as high as or higher than AST,  and the ALT/AST ratio, which normally and in other conditions  is less than 1, becomes greater than unity. ALT levels are usually  elevated before clinical signs and symptoms of disease appear."
+      ]
+    }
+  ]
+}

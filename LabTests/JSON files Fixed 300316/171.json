@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Yellow.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Protein (Urine)",
+      "paragraph_US": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ],
+      "paragraph_SI": [
+        "Screening for urinary tract diseases and  some non-renal diseases"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<30 mg/day"
+      ],
+      "paragraph_SI": [
+        "<30 mg/day"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "This test detects the presence of overt proteinuria  (>300 mg/day). However, normal urinary protein excretion is <30 mg/day.  The presence of microalbuminuria (30-300 mg/day) is not detected by this  method. Overt proteinuria is seen in both renal (glomerulonephritis, renal  tubular diseases, pyelonephritis) and nonrenal diseases (eg, myeloma,  congestive heart failure, dehydration).  False-positive results may be obtained with highly buffered or alkaline urines.  Contamination of the urine specimen with quaternary ammonium compounds (eg,  from some antiseptics and detergents) or with skin cleansers containing  chlorhexidine also may produce false-positive results. Microalbumin tests are  necessary to pick up early increases in urine protein excretion."
+      ],
+      "paragraph_SI": [
+        "This test detects the presence of overt proteinuria  (>300 mg/day). However, normal urinary protein excretion is <30 mg/day.  The presence of microalbuminuria (30-300 mg/day) is not detected by this  method. Overt proteinuria is seen in both renal (glomerulonephritis, renal  tubular diseases, pyelonephritis) and nonrenal diseases (eg, myeloma,  congestive heart failure, dehydration).  False-positive results may be obtained with highly buffered or alkaline urines.  Contamination of the urine specimen with quaternary ammonium compounds (eg,  from some antiseptics and detergents) or with skin cleansers containing  chlorhexidine also may produce false-positive results. Microalbumin tests are  necessary to pick up early increases in urine protein excretion."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (eg, glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ],
+      "paragraph_SI": [
+        "The kidney plays a key role in the excretion of by-products of cellular  metabolism and regulation of water, acid-base, and electrolyte balance. Urine  is produced by filtration of plasma in the renal glomeruli, followed by tubular  secretion and/or reabsorption of water and other compounds.     Abnormalities detected by urinalysis may reflect either urinary tract diseases  (infection, glomerulonephritis, loss of concentrating capacity) or  extrarenal disease processes (eg, glucosuria in diabetes, proteinuria in  monoclonal gammopathies, bilirubinuria in liver disease)."
+      ]
+    }
+  ]
+}

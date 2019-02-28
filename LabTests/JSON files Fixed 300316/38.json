@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Royal Blue.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Copper (Cu)",
+      "paragraph_US": [
+        "Useful for diagnosis of: Wilson's disease, primary biliary cirrhosis (PBC) and primary sclerosing cholangitis (PSC)."
+      ],
+      "paragraph_SI": [
+        "Useful for diagnosis of: Wilson's disease, primary biliary cirrhosis (PBC) and primary sclerosing cholangitis (PSC)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "75-145 µg/dL"
+      ],
+      "paragraph_SI": [
+        "12-23 µmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "In normal serum, more than 95% of the copper is incorporated into  the enzyme, ceruloplasmin; the remaining copper is loosely bound to  albumin.  A deficiency in copper results in severe derangement in growth and  metabolism and impairment of erythropoiesis.  Total serum copper is reduced in hepatolenticular degeneration  (Wilson's disease) due to a decrease in the synthesis of  ceruloplasmin. This results in a low total serum copper level   although the albumin-bound copper may actually be increased.  The amount of copper deposited in tissues and the urinary  excretion of copper are greatly increased.  Hypercupremia is found in acute and chronic diseases, malignant   diseases (including leukemia), hemochromatosis, biliary cirrhosis,  thyrotoxicosis, and various infections. Copper levels are also high   in patients taking contraceptives or estrogens and during pregnancy.   Low serum copper levels are seen in a number of malnutrition  hypoproteinemias, malabsorption, nephrotic syndrome, and Menkes'  kinky hair disease."
+      ],
+      "paragraph_SI": [
+        "In normal serum, more than 95% of the copper is incorporated into  the enzyme, ceruloplasmin; the remaining copper is loosely bound to  albumin.  A deficiency in copper results in severe derangement in growth and  metabolism and impairment of erythropoiesis.  Total serum copper is reduced in hepatolenticular degeneration  (Wilson's disease) due to a decrease in the synthesis of  ceruloplasmin. This results in a low total serum copper level   although the albumin-bound copper may actually be increased.  The amount of copper deposited in tissues and the urinary  excretion of copper are greatly increased.  Hypercupremia is found in acute and chronic diseases, malignant   diseases (including leukemia), hemochromatosis, biliary cirrhosis,  thyrotoxicosis, and various infections. Copper levels are also high   in patients taking contraceptives or estrogens and during pregnancy.   Low serum copper levels are seen in a number of malnutrition  hypoproteinemias, malabsorption, nephrotic syndrome, and Menkes'  kinky hair disease."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated serum copper (and ceruloplasmin) is found in association  with PBC, PSC, estrogen therapy, and copper toxicity.  Serum copper below the normal range is associated  with Wilson's disease, infant malnutrition, Menkes' disease, and in  mega-dosing of zinc-containing vitamins. Zinc interferes with  normal copper absorption from the gastrointestinal tract."
+      ],
+      "paragraph_SI": [
+        "Elevated serum copper (and ceruloplasmin) is found in association  with PBC, PSC, estrogen therapy, and copper toxicity.  Serum copper below the normal range is associated  with Wilson's disease, infant malnutrition, Menkes' disease, and in  mega-dosing of zinc-containing vitamins. Zinc interferes with  normal copper absorption from the gastrointestinal tract."
+      ]
+    }
+  ]
+}

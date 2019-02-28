@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Total Protein",
+      "paragraph_US": [
+        "Total protein measurements are used in the diagnosis and treatment  of a variety of diseases involving the liver, kidney, or bone marrow,as well as other metabolic or nutritional disorders."
+      ],
+      "paragraph_SI": [
+        "Total protein measurements are used in the diagnosis and treatment  of a variety of diseases involving the liver, kidney, or bone marrow,as well as other metabolic or nutritional disorders."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "6.3-7.9 g/dL"
+      ],
+      "paragraph_SI": [
+        "63-79 g/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Plasma proteins are synthesized predominantly in the liver;  immunoglobulins are synthesized by mononuclear cells of lymph  nodes, spleen and bone marrow. The two general causes of alterations  of serum total protein are a change in the volume of plasma water  and a change in the concentration of one or more of the specific  proteins in the plasma. Of the individual serum proteins, albumin is  present in such high concentrations that low levels of this protein alone  may cause hypoproteinemia.  Hemoconcentration (decrease in the volume of plasma water) results in  relative hyperproteinemia; hemodilution results in relative  hypoproteinemia. In both situations, concentrations of all the individual  plasma proteins are affected to the same degree.  Hyperproteinemia may be seen in dehydration due to inadequate water  intake or to excessive water loss (e.g. severe vomiting, diarrhea, Addison's  disease and diabetic acidosis) or as a result of increased production  of proteins. Increased polyclonal protein production is seen in reactive,  inflammatory processes; increased monoclonal protein production is seen  in some hematopoeitic neoplasms (e.g. multiple myeloma, Waldenstrom's  macroglobulinemia, monoclonal gammopathy of undetermined  significance)."
+      ],
+      "paragraph_SI": [
+        "Plasma proteins are synthesized predominantly in the liver;  immunoglobulins are synthesized by mononuclear cells of lymph  nodes, spleen and bone marrow. The two general causes of alterations  of serum total protein are a change in the volume of plasma water  and a change in the concentration of one or more of the specific  proteins in the plasma. Of the individual serum proteins, albumin is  present in such high concentrations that low levels of this protein alone  may cause hypoproteinemia.  Hemoconcentration (decrease in the volume of plasma water) results in  relative hyperproteinemia; hemodilution results in relative  hypoproteinemia. In both situations, concentrations of all the individual  plasma proteins are affected to the same degree.  Hyperproteinemia may be seen in dehydration due to inadequate water  intake or to excessive water loss (e.g. severe vomiting, diarrhea, Addison's  disease and diabetic acidosis) or as a result of increased production  of proteins. Increased polyclonal protein production is seen in reactive,  inflammatory processes; increased monoclonal protein production is seen  in some hematopoeitic neoplasms (e.g. multiple myeloma, Waldenstrom's  macroglobulinemia, monoclonal gammopathy of undetermined  significance)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Mild hyperproteinemia may be caused by an increase in the concentration  of specific proteins normally present in relatively low concentration,  e.g., increases in acute phase reactants and polyclonalimmunoglobulins   produced in inflammatory states, late-stage liver disease, and infections.   Moderate-to-marked hyperproteinemia may also be due to multiple   myeloma and other malignant paraproteinemias, although normal total   protein levels do not rule out these disorders. A serum protein   electrophoresis should be performed to evaluate the cause of the   elevated serum total protein.   Hypoproteinemia may be due to decreased production   (e.g., hypogammaglobulinemia) or increased protein loss   (e.g., nephrotic syndrome, protein-losing enteropathy). A serum   protein electrophoresis should be performed to evaluate the   cause of the decreased serum total protein. If a nephrotic pattern   is identified, urine protein electrophoresis should also be performed."
+      ],
+      "paragraph_SI": [
+        "Mild hyperproteinemia may be caused by an increase in the concentration  of specific proteins normally present in relatively low concentration,  e.g., increases in acute phase reactants and polyclonalimmunoglobulins   produced in inflammatory states, late-stage liver disease, and infections.   Moderate-to-marked hyperproteinemia may also be due to multiple   myeloma and other malignant paraproteinemias, although normal total   protein levels do not rule out these disorders. A serum protein   electrophoresis should be performed to evaluate the cause of the   elevated serum total protein.   Hypoproteinemia may be due to decreased production   (e.g., hypogammaglobulinemia) or increased protein loss   (e.g., nephrotic syndrome, protein-losing enteropathy). A serum   protein electrophoresis should be performed to evaluate the   cause of the decreased serum total protein. If a nephrotic pattern   is identified, urine protein electrophoresis should also be performed."
+      ]
+    }
+  ]
+}

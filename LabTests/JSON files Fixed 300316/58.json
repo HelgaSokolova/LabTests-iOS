@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Prolactin",
+      "paragraph_US": [
+        "Aiding in evaluation of pituitary tumors, amenorrhea, galactorrhea,   infertility, and hypogonadism. Also used for monitoring therapy of prolactin-producing tumors."
+      ],
+      "paragraph_SI": [
+        "Aiding in evaluation of pituitary tumors, amenorrhea, galactorrhea,   infertility, and hypogonadism. Also used for monitoring therapy of prolactin-producing tumors."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Males: 3-13 ng/mL \nFemales: 3-27 ng/mL"
+      ],
+      "paragraph_SI": [
+        "Males: 3-13 µg/L \nFemales: 3-27 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Prolactin is secreted by the anterior pituitary gland and controlled  by the hypothalamus. The major chemical controlling prolactin  secretion is dopamine, which inhibits prolactin secretion from the   pituitary.  The only physiological function of prolactin is the stimulation of milk  production.  In normal individuals, the prolactin level rises in response to  physiologic stimuli such as sleep, exercise, nipple stimulation,   sexual intercourse, hypoglycemia, postpartum period, and in the  newborn infant.  Pathologic causes of hyperprolactinemia include prolactin-secreting pituitary adenoma (prolactinoma), which is 5 times more  frequent in females than males, functional and organic disease of   the hypothalamus, primary hypothyroidism, section compression  of the pituitary stalk, chest wall lesions, renal failure, and ectopic  tumors.  Hyperprolactinemia often results in galactorrhea, amenorrhea, and  infertility in females, and impotence and hypogonadism in males."
+      ],
+      "paragraph_SI": [
+        "Prolactin is secreted by the anterior pituitary gland and controlled  by the hypothalamus. The major chemical controlling prolactin  secretion is dopamine, which inhibits prolactin secretion from the   pituitary.  The only physiological function of prolactin is the stimulation of milk  production.  In normal individuals, the prolactin level rises in response to  physiologic stimuli such as sleep, exercise, nipple stimulation,   sexual intercourse, hypoglycemia, postpartum period, and in the  newborn infant.  Pathologic causes of hyperprolactinemia include prolactin-secreting pituitary adenoma (prolactinoma), which is 5 times more  frequent in females than males, functional and organic disease of   the hypothalamus, primary hypothyroidism, section compression  of the pituitary stalk, chest wall lesions, renal failure, and ectopic  tumors.  Hyperprolactinemia often results in galactorrhea, amenorrhea, and  infertility in females, and impotence and hypogonadism in males."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "In males, prolactin levels that exceed 13 ng/mL are indicative of   hyperprolactinemia.  In women, in the absence of pregnancy and postpartum lactation,  prolactin levels >27 ng/mL are indicative of hyperprolactinemia.  Renal failure, hypothyroidism, and prolactin-secreting pituitary  adenomas are common causes of hyperprolactinemia.  Moderately increased levels are not a reliable guide for   determining whether a prolactin-producing pituitary adenoma is   present, whereas levels exceeding 250 ng/mL are usually   associated with a prolactin-secreting tumor."
+      ],
+      "paragraph_SI": [
+        "In males, prolactin levels that exceed 13 µg/L are indicative of   hyperprolactinemia.  In women, in the absence of pregnancy and postpartum lactation,  prolactin levels >27 µg/L are indicative of hyperprolactinemia.  Renal failure, hypothyroidism, and prolactin-secreting pituitary  adenomas are common causes of hyperprolactinemia.  Moderately increased levels are not a reliable guide for   determining whether a prolactin-producing pituitary adenoma is   present, whereas levels exceeding 250 µg/L are usually associated with a prolactin-secreting tumor."
+      ]
+    }
+  ]
+}

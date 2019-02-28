@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Free triiodothyronine (FT3)",
+      "paragraph_US": [
+        "Free T3 is a second- or third-level test of thyroid function. It provides  further confirmation of hyperthyroidism, supplementing the T4,  sensitive thyrotropin (sTSH), and total T3 assays. Also used for evaluating clinically euthyroid patients who have an altered   distribution of binding proteins and for monitoring thyroid hormone replacement therapy."
+      ],
+      "paragraph_SI": [
+        "Free T3 is a second- or third-level test of thyroid function. It provides  further confirmation of hyperthyroidism, supplementing the T4,  sensitive thyrotropin (sTSH), and total T3 assays. Also used for evaluating clinically euthyroid patients who have an altered   distribution of binding proteins and for monitoring thyroid hormone replacement therapy."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "2.0-3.5 pg/mL"
+      ],
+      "paragraph_SI": [
+        "3.5-6.5 pmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Normally triiodothyronine (T3) circulates tightly bound to   thyroxine-binding globulin and albumin. Only 0.3% of the total T3 is  unbound (free); the free fraction is the active form.   In hyperthyroidism, both thyroxine (tetraiodothyronine;T4) and T3  levels (total and free) are usually elevated, but in a small subset of   hyperthyroid patients (T3 toxicosis) only T3 is elevated. Generally,   free T3 measurement is not necessary since total T3 will suffice.   However, free T3 levels may be required to evaluate clinically   euthyroid patients who have an altered distribution of binding proteins   (e.g., pregnancy, dysalbuminemia).     Some investigators recommend the free T3 assay for monitoring  thyroid replacement therapy, although its clinical role is not precisely  defined."
+      ],
+      "paragraph_SI": [
+        "Normally triiodothyronine (T3) circulates tightly bound to   thyroxine-binding globulin and albumin. Only 0.3% of the total T3 is  unbound (free); the free fraction is the active form.   In hyperthyroidism, both thyroxine (tetraiodothyronine;T4) and T3  levels (total and free) are usually elevated, but in a small subset of   hyperthyroid patients (T3 toxicosis) only T3 is elevated. Generally,   free T3 measurement is not necessary since total T3 will suffice.   However, free T3 levels may be required to evaluate clinically   euthyroid patients who have an altered distribution of binding proteins   (e.g., pregnancy, dysalbuminemia).     Some investigators recommend the free T3 assay for monitoring  thyroid replacement therapy, although its clinical role is not precisely  defined."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated FT3 values are associated with thyrotoxicosis or excess  thyroid hormone replacement."
+      ],
+      "paragraph_SI": [
+        "Elevated FT3 values are associated with thyrotoxicosis or excess  thyroid hormone replacement."
+      ]
+    }
+  ]
+}

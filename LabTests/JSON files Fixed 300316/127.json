@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "CSF.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Cell Count and Differential (CSF)",
+      "paragraph_US": [
+        "Used as an  aid in the identification of infection, hemorrhage, malignant infiltration, and  other diseases of the central nervous system (CNS)"
+      ],
+      "paragraph_SI": [
+        "Used as an  aid in the identification of infection, hemorrhage, malignant infiltration, and  other diseases of the central nervous system (CNS)"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Total  nucleated cells: 0-5/uL  \nNeutrophils: 2% + or - 4%  \nLymphocytes: 60% + or - 20%  \nMonocytes/macrophages: 30% + or - 15%"
+      ],
+      "paragraph_SI": [
+        "Total  nucleated cells: 0-5/uL  \nNeutrophils: 2% + or - 4%  \nLymphocytes: 60% + or - 20%  \nMonocytes/macrophages: 30% + or - 15%"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Trauma and  hemorrhage may result in increased red and white cells; red cells predominate.  White blood cells are increased in inflammatory and infectious processes: neutrophils  predominate in bacterial infections, lymphocytes predominate in viral  infections, macrophages may be increased in inflammatory and infectious  processes and eosinophils may be increased in parasitic or fungal infections.     Malignant cells can be seen in CSF from a variety of neoplasms. Identification  of these cells is valuable for the diagnosis of metastatic carcinoma, leukemic  and lymphomatous involvement of the meninges, and in certain primary CNS  tumors."
+      ],
+      "paragraph_SI": [
+        "Trauma and  hemorrhage may result in increased red and white cells; red cells predominate.  White blood cells are increased in inflammatory and infectious processes: neutrophils  predominate in bacterial infections, lymphocytes predominate in viral  infections, macrophages may be increased in inflammatory and infectious  processes and eosinophils may be increased in parasitic or fungal infections.     Malignant cells can be seen in CSF from a variety of neoplasms. Identification  of these cells is valuable for the diagnosis of metastatic carcinoma, leukemic  and lymphomatous involvement of the meninges, and in certain primary CNS  tumors."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Cerebrospinal fluids (CSF) may be present in increased volumes and/or may  contain increased numbers of normal and/or abnormal cells in a variety of  disease states."
+      ],
+      "paragraph_SI": [
+        "Cerebrospinal fluids (CSF) may be present in increased volumes and/or may  contain increased numbers of normal and/or abnormal cells in a variety of  disease states."
+      ]
+    }
+  ]
+}

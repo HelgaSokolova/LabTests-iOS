@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Methylmalonic Acid (MMA)",
+      "paragraph_US": [
+        "Screening for the differential diagnosis of signs and symptoms  associated with a variety of causes of cobalamin deficiency. Serum  MMA may be a more reliable marker of cobalamin deficiency than  direct cobalamin determination. Evaluating children with signs and symptoms of methylmalonic  acidemia."
+      ],
+      "paragraph_SI": [
+        "Screening for the differential diagnosis of signs and symptoms  associated with a variety of causes of cobalamin deficiency. Serum  MMA may be a more reliable marker of cobalamin deficiency than  direct cobalamin determination. Evaluating children with signs and symptoms of methylmalonic  acidemia."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "≤0.40 µmol/L"
+      ],
+      "paragraph_SI": [
+        "≤400 nmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Methylmalonic acid (MMA) is a specific diagnostic marker for a  group of inherited disorders collectively known as methylmalonic  acidemias, which includes at least 8 different entities identified  according to biochemical phenotype and somatic cell  complementation analysis. Their collective incidence is approximately  1:48,000 live births.    Acquired causes of methylmalonic acidemia are much more common.  Elevated MMA levels in plasma and urine are found in patients with  cobalamin (vitamin B12) deficiency as a consequence of intestinal  malabsorption, impaired digestion, or poor diet. Other conditions  such as renal insufficiency, hypovolemia, and bacterial overgrowth  of the small intestine also contribute to the possible causes of mild  methylmalonic acidemia/-uria.    Elderly patients with cobalamin deficiency may present with  peripheral neuropathy, ataxia, loss of position and vibration senses, memory impairment, depression, and dementia in the absence of anemia."
+      ],
+      "paragraph_SI": [
+        "Methylmalonic acid (MMA) is a specific diagnostic marker for a  group of inherited disorders collectively known as methylmalonic  acidemias, which includes at least 8 different entities identified  according to biochemical phenotype and somatic cell  complementation analysis. Their collective incidence is approximately  1:48,000 live births.    Acquired causes of methylmalonic acidemia are much more common.  Elevated MMA levels in plasma and urine are found in patients with  cobalamin (vitamin B12) deficiency as a consequence of intestinal  malabsorption, impaired digestion, or poor diet. Other conditions  such as renal insufficiency, hypovolemia, and bacterial overgrowth  of the small intestine also contribute to the possible causes of mild  methylmalonic acidemia/-uria.    Elderly patients with cobalamin deficiency may present with  peripheral neuropathy, ataxia, loss of position and vibration senses, memory impairment, depression, and dementia in the absence of anemia."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "In pediatric patients, markedly elevated MMA values are consistent  with a diagnosis of methylmalonic acidemia.    In adults, moderately time elevated values are indicative of  cobalamin deficiency."
+      ],
+      "paragraph_SI": [
+        "In pediatric patients, markedly elevated MMA values are consistent  with a diagnosis of methylmalonic acidemia.    In adults, moderately time elevated values are indicative of  cobalamin deficiency."
+      ]
+    }
+  ]
+}

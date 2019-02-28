@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Light Blue.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Prothrombin time (PT)",
+      "paragraph_US": [
+        "Monitoring intensity of oral anticoagulant therapy when combined with  INR reporting.    Screening procedure to detect deficiencies of one or more coagulation  factors (factors I, II, V, VII, X) due to: Hereditary/congential deficiency states, Vitamin K deficiency, liver disease, specific coagulation factor inhibitors and acquired isolated deficiencies of factors II, V, VII, X.Also used as screening procedure to detect coagulation inhibition (circulating  anticoagulants) associated with: Specific coagulation factor inhibitors, Lupus-like anticoagulant inhibitors (antiphospholipid antibodies), Non-specific PT inhibitors (eg. monoclonal immunoglobulins,  elevated fibrin degradation products).      Additional coagulation testing may be needed to define the cause  of an unexplained prolonged PT (eg, other clotting time tests,  coagulation factor assays, testing for presence of a lupus-like  anticoagulant, etc)."
+      ],
+      "paragraph_SI": [
+        "Monitoring intensity of oral anticoagulant therapy when combined with  INR reporting.    Screening procedure to detect deficiencies of one or more coagulation  factors (factors I, II, V, VII, X) due to: Hereditary/congential deficiency states, Vitamin K deficiency, liver disease, specific coagulation factor inhibitors and acquired isolated deficiencies of factors II, V, VII, X.Also used as screening procedure to detect coagulation inhibition (circulating  anticoagulants) associated with: Specific coagulation factor inhibitors, Lupus-like anticoagulant inhibitors (antiphospholipid antibodies), Non-specific PT inhibitors (eg. monoclonal immunoglobulins,  elevated fibrin degradation products).      Additional coagulation testing may be needed to define the cause  of an unexplained prolonged PT (eg, other clotting time tests,  coagulation factor assays, testing for presence of a lupus-like  anticoagulant, etc)."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "PT:  8.3-10.8 seconds   \nINR:  0.9-1.2"
+      ],
+      "paragraph_SI": [
+        "PT:  8.3-10.8 seconds   \nINR:  0.9-1.2"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "The prothrombin time (PT) represents the time elapsed between   addition of a standardized mixture of tissue thromboplastin and  calcium to citrate anticoagulated plasma and detection of clot formation.    The PT is not sensitive to deficiencies of coagulation factors  VIII, IX, XI, XII (\"intrinsic pathway\" factors) or factor XIII.  A prolonged PT indicates deficiency of   one or more coagulation factors (I, II, V, VII, or X) or the presence   of a coagulation inhibitor.    The PT is the most common test used for monitoring oral anticoagulant  therapy (warfarin or Coumadin, and congeners). Oral anticoagulants   reduce the activities of the four vitamin K-dependent procoagulant   factors (factors II, VII, IX, and X), and the PT is sensitive to three of them.    The PT requires standardization because there are numerous  thromboplastins and coagulation testing instruments, and they all  vary in their responsiveness to the concentrations or activities of  coagulation proteins. The International Normalized Ratio (INR) is a   method of standardizing PT reporting for monitoring the intensity of   oral anticoagulant therapy.  The INR is the ratio of the patient's PT to   the mean normal (reference) PT that would have been obtained if   the WHO reference thromboplastin had been used.  The INR is an exponential function, calculated as follows:  INR = (Patient's PT/PT of normal range [mean])ISI  where:  INR = International Normalized Ratio  ISI = International Sensitivity Index  The International Sensitivity Index (ISI) is an experimentally-derived   measurement, usually provided by the thromboplastin manufacturer,   reflecting thromboplastin (and PT) sensitivity to oral anticoagulant effect.  More sensitive thromboplastins have a low ISI (1.0-1.2), whereas  less sensitive thromboplastins have a higher ISI (eg., 2.0-3.0)."
+      ],
+      "paragraph_SI": [
+        "The prothrombin time (PT) represents the time elapsed between   addition of a standardized mixture of tissue thromboplastin and  calcium to citrate anticoagulated plasma and detection of clot formation.    The PT is not sensitive to deficiencies of coagulation factors  VIII, IX, XI, XII (\"intrinsic pathway\" factors) or factor XIII.  A prolonged PT indicates deficiency of   one or more coagulation factors (I, II, V, VII, or X) or the presence   of a coagulation inhibitor.    The PT is the most common test used for monitoring oral anticoagulant  therapy (warfarin or Coumadin, and congeners). Oral anticoagulants   reduce the activities of the four vitamin K-dependent procoagulant   factors (factors II, VII, IX, and X), and the PT is sensitive to three of them.    The PT requires standardization because there are numerous  thromboplastins and coagulation testing instruments, and they all  vary in their responsiveness to the concentrations or activities of  coagulation proteins. The International Normalized Ratio (INR) is a   method of standardizing PT reporting for monitoring the intensity of   oral anticoagulant therapy.  The INR is the ratio of the patient's PT to   the mean normal (reference) PT that would have been obtained if   the WHO reference thromboplastin had been used.  The INR is an exponential function, calculated as follows:  INR = (Patient's PT/PT of normal range [mean])ISI  where:  INR = International Normalized Ratio  ISI = International Sensitivity Index  The International Sensitivity Index (ISI) is an experimentally-derived   measurement, usually provided by the thromboplastin manufacturer,   reflecting thromboplastin (and PT) sensitivity to oral anticoagulant effect.  More sensitive thromboplastins have a low ISI (1.0-1.2), whereas  less sensitive thromboplastins have a higher ISI (eg., 2.0-3.0)."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Recommended INR therapeutic ranges for orally administered drugs  are as follows: INRStandard Intensity 2.0-3.0 Higher Intensity 3.0-4.5 The INR is used only for patients on stable oral anticoagulanttherapy.  It makes no significant contribution to the diagnosis or  treatment of patients whose PT is prolonged for other reasons."
+      ],
+      "paragraph_SI": [
+        "Recommended INR therapeutic ranges for orally administered drugs  are as follows: INRStandard Intensity 2.0-3.0 Higher Intensity 3.0-4.5 The INR is used only for patients on stable oral anticoagulanttherapy.  It makes no significant contribution to the diagnosis or  treatment of patients whose PT is prolonged for other reasons."
+      ]
+    }
+  ]
+}

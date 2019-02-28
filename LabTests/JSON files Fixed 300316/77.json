@@ -1,0 +1,37 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Complete Blood Count (CBC)",
+      "paragraph_US": [
+        "The CBC is used as a screening tool to confirm a hematologic disorder, to establish or rule out a diagnosis, to detect an unsuspected hematologic disorder, or to monitor effects of radiation or chemotherapy. These counts are used as clinical guides in the diagnosis and/or monitoring of many diseases."
+      ],
+      "paragraph_SI": [
+        "The CBC is used as a screening tool to confirm a hematologic disorder, to establish or rule out a diagnosis, to detect an unsuspected hematologic disorder, or to monitor effects of radiation or chemotherapy. These counts are used as clinical guides in the diagnosis and/or monitoring of many diseases."
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "A complete blood count (CBC) test measures the following: The number of red blood cells (RBCs)   The number of white blood cells (WBCs)   The total amount of hemoglobin in the blood   The fraction of the blood composed of red blood cells (hematocrit)   The size of the red blood cells (mean corpuscular volume, or MCV)"
+      ],
+      "paragraph_SI": [
+        "A complete blood count (CBC) test measures the following: The number of red blood cells (RBCs)   The number of white blood cells (WBCs)   The total amount of hemoglobin in the blood   The fraction of the blood composed of red blood cells (hematocrit)   The size of the red blood cells (mean corpuscular volume, or MCV)"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "The CBC test also provides specific information the size and hemoglobin content of individual red blood cells. This is determined from the additional following measurements: Mean corpuscular hemoglobin (MCH)   Mean corpuscular hemoglobin concentration (MCHC)   The platelet count is also usually included in the CBC."
+      ],
+      "paragraph_SI": [
+        "The CBC test also provides specific information the size and hemoglobin content of individual red blood cells. This is determined from the additional following measurements: Mean corpuscular hemoglobin (MCH)   Mean corpuscular hemoglobin concentration (MCHC)   The platelet count is also usually included in the CBC."
+      ]
+    }
+  ]
+}

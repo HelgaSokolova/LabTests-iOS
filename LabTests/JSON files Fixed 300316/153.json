@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Red.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Theophylline",
+      "paragraph_US": [
+        "Useful in assessing toxicity and adjusting dosage for  optimal therapeutic level."
+      ],
+      "paragraph_SI": [
+        "Useful in assessing toxicity and adjusting dosage for  optimal therapeutic level."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Therapeutic:  \nChildren and adults: 8.0-20.0 µg/mL  \nToxic concentration: >20.0 µg/mL"
+      ],
+      "paragraph_SI": [
+        "Therapeutic:  \nChildren and adults: 40.0-100.0 µmol/L  \nToxic concentration: >100.0 µmol/L"
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Response to theophylline is directly  proportional to serum level.     Patients usually receive the best response when the level is >10.0 µg/mL,  with minimal toxicity experienced as long as the level is <20.0 µg/mL."
+      ],
+      "paragraph_SI": [
+        "Response to theophylline is directly  proportional to serum level.     Patients usually receive the best response when the level is >50.0 µmol/L,  with minimal toxicity experienced as long as the level is <100.0 µmol/L."
+      ]
+    },
+    {
+      "header": "Clinical  Information",
+      "paragraph_US": [
+        "Theophylline and its congener,  aminophylline, are used to relax smooth muscles of the bronchial airways and  pulmonary blood vessels to relieve and prevent symptoms of asthma and  bronchospasm.      Theophylline has a half-life of 4 hours in children and adult smokers, and 7  hours in non-smoking adults, thus steady-state is reached in approximately 1  day. The volume of distribution is 0.5 L/kg, and the drug is approximately 50%  protein bound. Theophylline exhibits zero order clearance kinetics like  phenytoin - small increases in dose yield disproportionately large increases in  blood concentration.     Coadministration of cimetidine and erythromycin will significantly inhibit  theophylline clearance, requiring dosage reduction. Other drugs such as  allopurinol, ciprofloxacin, oral contraceptives, and propranolol inhibit  theophylline clearance to a lesser degree.     Smoking induces the synthesis of cytochrome P448, the antipyrine-dependent  cytochrome, which significantly increases the rate of metabolism of  theophylline. Drugs such as phenobarbital, phenytoin, carbamazepine, and  rifampin slightly increase the rate at which the drug is cleared.     Theophylline exhibits rather severe toxicity that is proportional to blood  level."
+      ],
+      "paragraph_SI": [
+        "Theophylline and its congener,  aminophylline, are used to relax smooth muscles of the bronchial airways and  pulmonary blood vessels to relieve and prevent symptoms of asthma and  bronchospasm.      Theophylline has a half-life of 4 hours in children and adult smokers, and 7  hours in non-smoking adults, thus steady-state is reached in approximately 1  day. The volume of distribution is 0.5 L/kg, and the drug is approximately 50%  protein bound. Theophylline exhibits zero order clearance kinetics like  phenytoin - small increases in dose yield disproportionately large increases in  blood concentration.     Coadministration of cimetidine and erythromycin will significantly inhibit  theophylline clearance, requiring dosage reduction. Other drugs such as  allopurinol, ciprofloxacin, oral contraceptives, and propranolol inhibit  theophylline clearance to a lesser degree.     Smoking induces the synthesis of cytochrome P448, the antipyrine-dependent  cytochrome, which significantly increases the rate of metabolism of  theophylline. Drugs such as phenobarbital, phenytoin, carbamazepine, and  rifampin slightly increase the rate at which the drug is cleared.     Theophylline exhibits rather severe toxicity that is proportional to blood  level."
+      ]
+    }
+  ]
+}

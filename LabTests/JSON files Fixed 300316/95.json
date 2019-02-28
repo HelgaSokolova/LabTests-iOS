@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Lavender.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Monocytes",
+      "paragraph_US": [
+        "A monocyte count is part of a complete blood count. Monocytosis is the state of excess monocytes in the peripheral blood. It may be indicative of various disease states."
+      ],
+      "paragraph_SI": [
+        "A monocyte count is part of a complete blood count. Monocytosis is the state of excess monocytes in the peripheral blood. It may be indicative of various disease states."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<1.1E+9/L"
+      ],
+      "paragraph_SI": [
+        "<1.1E+9/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "Monocytes are phagocytic cells capable of fighting bacterial infection much in the same way as neutrophils. Monocytes can be produced much more rapidly and can spend a longer time in the circulation than neutrophils."
+      ],
+      "paragraph_SI": [
+        "Monocytes are phagocytic cells capable of fighting bacterial infection much in the same way as neutrophils. Monocytes can be produced much more rapidly and can spend a longer time in the circulation than neutrophils."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Elevated values are seen in: Chronic inflammation, stress response, hyperadrenocorticism, immune-mediated disease, infectious mononucleosis, pyogranulomatous disease, necrosis, red cell regeneration or viral fever."
+      ],
+      "paragraph_SI": [
+        "Elevated values are seen in: Chronic inflammation, stress response, hyperadrenocorticism, immune-mediated disease, infectious mononucleosis, pyogranulomatous disease, necrosis, red cell regeneration or viral fever."
+      ]
+    }
+  ]
+}

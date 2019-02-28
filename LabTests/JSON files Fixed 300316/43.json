@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "HDL cholesterol",
+      "paragraph_US": [
+        "Used for cardiovascular risk assessment"
+      ],
+      "paragraph_SI": [
+        "Used for cardiovascular risk assessment"
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "Low HDL: <40 mg/dL \nNormal: 40-60 mg/dL \nDesirable: >60 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Low HDL: <1.0 mmol/L \nNormal: 1.0-1.6 mmol/L  \nDesirable: >1.6 mmol/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "HDL is the smallest of the lipoprotein particles and comprises a complex family of lipoprotein particles that exist in a constant state  of dynamic flux as the particles interact with other HDL particles  and with LDL and VLDL particles. HDL has the highest proportion   of protein relative to lipid compared to other lipoproteins  (> 50% protein).Total cholesterol levels have long been known   to be related to coronary heart disease (CHD). HDL cholesterol is also an important tool used to assess an individual's risk of developing CHD since a strong negative  relationship between HDL cholesterol concentration and the incidence of CHD has been reported. In some individuals, exercise increases the HDL cholesterol level; those with more physical activity have higher HDL cholesterol values."
+      ],
+      "paragraph_SI": [
+        "HDL is the smallest of the lipoprotein particles and comprises a complex family of lipoprotein particles that exist in a constant state  of dynamic flux as the particles interact with other HDL particles  and with LDL and VLDL particles. HDL has the highest proportion of protein relative to lipid compared to other lipoproteins (> 50% protein).Total cholesterol levels have long been known to be related to coronary heart disease (CHD). HDL cholesterol is also an important tool used to assess an   individual's risk of developing CHD since a strong negative  relationship between HDL cholesterol concentration and the   incidence of CHD has been reported. In some individuals, exercise  increases the HDL cholesterol level; those with more physical  activity have higher HDL cholesterol values."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "Values >60 mg/dL are considered a negative risk factor for CHD   and are considered protective. Values ≥80-100 mg/dL may  indicate metabolic response to certain medications such as   hormone replacement therapy, chronic liver disease, or some   form of chronic intoxication, such as with alcohol, heavy metals,  industrial chemicals, including pesticides.  Values < 40 mg/dL correlate with increased risk for CHD. HDL   cholesterol values ≤5 mg/dL occur in Tangier disease, in  association with cholestatic liver disease, and in association  with diminished hepatocyte function.  The National Cholesterol Education Program (NCEP) has set the  following guidelines  for cholesterol, HDL:  Increased risk for CHD: < 40 mg/dL  Decreased risk for CHD: > 60 mg/dL"
+      ],
+      "paragraph_SI": [
+        "Values >1.6 mmol/L are considered a negative risk factor for CHD   and are considered protective. Values ≥2.0–2.6 mmol/L may  indicate metabolic response to certain medications such as   hormone replacement therapy, chronic liver disease, or some   form of chronic intoxication, such as with alcohol, heavy metals,  industrial chemicals, including pesticides.  Values < 1.0 mmol/L correlate with increased risk for CHD. HDL   cholesterol values ≤0.1 mmol/L occur in Tangier disease, in  association with cholestatic liver disease, and in association  with diminished hepatocyte function.  The National Cholesterol Education Program (NCEP) has set the  following guidelines  for cholesterol, HDL:  Increased risk for CHD: < 1.0 mmol/L  Decreased risk for CHD: >1.6 mmol/L"
+      ]
+    }
+  ]
+}

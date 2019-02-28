@@ -1,0 +1,33 @@
+{
+  "dot_image": [
+    "Pink.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Ammonia",
+		 "paragraph_US": [ "Useful for assisting in the diagnosis of impending or existing hepatic coma, investigating inborn errors of metabolism andevaluating patients with advanced liver disease."],
+		"dot_image": "Green.png",
+		"paragraph_SI": [ "Useful for assisting in the diagnosis of impending or existing hepatic coma, investigating inborn errors of metabolism andevaluating patients with advanced liver disease."]
+	},
+	{
+		"header": "Reference Range",
+		 "paragraph_US": [ "10-57 µmol/L"],
+		
+		"paragraph_SI": [ "10-57 µmol/L"]
+	},
+	{
+		"header": "Clinical Information",
+		 "paragraph_US": [ "Ammonia is a waste product of protein catabolism; it is potentially   toxic to the central nervous system (CNS). The level of circulating   ammonia in the blood is extremely low in normal individuals   (<58 µmol/L). This low concentration is surprising considering the   body's continuous oxidative deamination and transamination of   dietary and tissue amino acids. Any appreciable build-up in blood   ammonia levels adversely affects acid-base balance and the   CNS.   There are several causes of hyperammonemia including   inherited deficiencies of urea cycle enzymes (a major cause in   infants), inherited metabolic disorders of organic acids and the   dibasic amino acids lysine and ornithine, and severe liver   disease (eg, hepatic encephalopathy, cirrhosis, hepatic   failure, acute and subacute liver necrosis, and Reye syndrome)."],
+		
+		"paragraph_SI": [ "Ammonia is a waste product of protein catabolism; it is potentially   toxic to the central nervous system (CNS). The level of circulating   ammonia in the blood is extremely low in normal individuals   (<µmol/L). This low concentration is surprising considering the   body's continuous oxidative deamination and transamination of   dietary and tissue amino acids. Any appreciable build-up in blood   ammonia levels adversely affects acid-base balance and the   CNS.   There are several causes of hyperammonemia including   inherited deficiencies of urea cycle enzymes (a major cause in   infants), inherited metabolic disorders of organic acids and the   dibasic amino acids lysine and ornithine, and severe liver   disease (eg, hepatic encephalopathy, cirrhosis, hepatic   failure, acute and subacute liver necrosis, and Reye syndrome)."]
+	},
+	{
+		"header": "Interpretation",
+		 "paragraph_US": [ "Plasma ammonia levels do not correlate well with the degree of   hepatic encephalopathy. Elevated levels also may be found with increased dietary protein  intake."],
+		
+		"paragraph_SI": [ "Plasma ammonia levels do not correlate well with the degree of   hepatic encephalopathy. Elevated levels also may be found with increased dietary protein  intake."]
+	}]
+}

@@ -1,0 +1,46 @@
+{
+  "dot_image": [
+    "Gold.png"
+  ],
+  "References": [
+    
+  ],
+  "Article": [
+    {
+      "header": "Prostate-Specific Antigen (PSA)",
+      "paragraph_US": [
+        "Prostate cancer screening and monitoring patients with a history of prostate cancer, as an early  indicator of recurrence and response to treatment."
+      ],
+      "paragraph_SI": [
+        "Prostate cancer screening and monitoring patients with a history of prostate cancer, as an early  indicator of recurrence and response to treatment."
+      ]
+    },
+    {
+      "header": "Reference Range",
+      "paragraph_US": [
+        "<4 ng/mL"
+      ],
+      "paragraph_SI": [
+        "<4 µg/L"
+      ]
+    },
+    {
+      "header": "Clinical Information",
+      "paragraph_US": [
+        "PSA is a glycoprotein that is produced by the prostate gland, the  lining of the urethra, and the bulbourethral gland.    Normally, very little PSA is secreted in the blood.  Increases in glandular  size and tissue damage caused by benign prostatic hypertrophy,  prostatitis, and/or prostate cancer may increase circulating PSA levels.    In patients with previously diagnosed prostate cancer, PSA testing is  advocated as an early indicator of tumor recurrence and as an indicator  of response to therapy. The role of PSA in early detection of prostate  cancer is controversial. The American Cancer Society recommends  annual examination with digital rectal examination (DRE) and serum PSA  beginning at age 50 for men and with a life expectancy of at least 10 years  after detection. For men in high-risk groups, such as African Americans  or men with a first-degree relative diagnosed at a younger age, testing  should begin at a younger age. It is generally recommended that  information be provided to patients about the benefits and limitations of  testing and treatment so they can make informed decisions."
+      ],
+      "paragraph_SI": [
+        "PSA is a glycoprotein that is produced by the prostate gland, the  lining of the urethra, and the bulbourethral gland.    Normally, very little PSA is secreted in the blood.  Increases in glandular  size and tissue damage caused by benign prostatic hypertrophy,  prostatitis, and/or prostate cancer may increase circulating PSA levels.    In patients with previously diagnosed prostate cancer, PSA testing is  advocated as an early indicator of tumor recurrence and as an indicator  of response to therapy. The role of PSA in early detection of prostate  cancer is controversial. The American Cancer Society recommends  annual examination with digital rectal examination (DRE) and serum PSA  beginning at age 50 for men and with a life expectancy of at least 10 years  after detection. For men in high-risk groups, such as African Americans  or men with a first-degree relative diagnosed at a younger age, testing  should begin at a younger age. It is generally recommended that  information be provided to patients about the benefits and limitations of  testing and treatment so they can make informed decisions."
+      ]
+    },
+    {
+      "header": "Interpretation",
+      "paragraph_US": [
+        "PSA values exceeding the agespecific limits are suspicious for  prostate disease, but further testing, such as prostate biopsy, is  needed to diagnose prostate pathology.    The minimal reporting value is 0.1 ng/mL. Values >0.2 ng/mL are  considered evidence of biochemical recurrence of cancer in men."
+      ],
+      "paragraph_SI": [
+        "PSA values exceeding the agespecific limits are suspicious for  prostate disease, but further testing, such as prostate biopsy, is  needed to diagnose prostate pathology.    The minimal reporting value is 0.1 µg/L. Values >0.2 µg/L are  considered evidence of biochemical recurrence of cancer in men."
+      ]
+    }
+  ]
+}
